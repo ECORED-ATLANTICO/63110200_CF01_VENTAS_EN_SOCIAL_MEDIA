@@ -2,8 +2,6 @@
   .curso-main-container.pb-3
     BannerInterno(icono="far fa-question-circle" titulo="Actividad didáctica")
     .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-      // Para cuestionario usar: <ActividadController :cuestionario="cuestionario"/>
-      // Para parrafo usar: <ActividadController :parrafo="parrafo"/>
       #Actividad                
       <ActividadController :cuestionario="cuestionario"/>
   
@@ -19,72 +17,46 @@ export default {
   },
   data: () => ({
     cuestionario: {
-      tema: 'Microcontroladores y sensores',
+      tema: 'Estrategia comercial digital',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> evaluar la comprensión y el uso adecuado de las herramientas básicas en la ventana <em>Board</em> del <em>software</em> EAGLE.',
+        '<b>Objetivo:</b> Identificar conocimientos relacionados con clientes digitales, comercio electrónico, campañas y customer journey aplicados a ventas en social media.',
       barajarPreguntas: true,
-      titulo_aprobado: '¡BUEN TRABAJO!',
+      titulo_aprobado: '¡EXCELENTE!',
       titulo_reprobado: 'VUELVA A INTENTARLO',
+      mensaje_aprobado: '¡Excelente! Ha superado la actividad.',
+      mensaje_reprobado:
+        'Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
       preguntas: [
         {
           id: 1,
           texto:
-            '¿Cuál es la función principal de la herramienta <em>Layer</em> en la ventana <em>Board</em>?',
+            '¿Cuál es la principal función de las redes sociales dentro de estrategias comerciales digitales?',
           imagen: '@/assets/actividad/imagen1.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: '<em>Layer</em>',
+              texto:
+                'Limitar totalmente la interacción entre consumidores y organizaciones comerciales digitales.',
               esCorrecta: false,
             },
             {
               id: 'b',
               texto:
-                'Seleccionar y editar capas que identifican márgenes, pistas y componentes.',
+                'Fortalecer comunicación, posicionamiento y relación comercial con consumidores digitales contemporáneos.',
               esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'Ajustar automáticamente las pistas de cada componente.',
+              texto:
+                'Sustituir completamente plataformas tecnológicas relacionadas con comercio electrónico empresarial.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Modificar el tamaño de los componentes.',
-              esCorrecta: false,
-            },
-          ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto:
-            'Lo sentimos, su respuesta no es la correcta. <em>Board</em> del <em>software</em> EAGLE.',
-        },
-        {
-          id: 2,
-          texto:
-            '¿Qué herramienta permite agregar texto en la ventana <em>Board</em>?',
-          imagen: '@/assets/actividad/imagen1.png',
-          barajarRespuestas: true,
-          opciones: [
-            {
-              id: 'a',
-              texto: '<em>Layer</em>',
-              esCorrecta: false,
-            },
-            {
-              id: 'b',
-              texto: '<em>Auto</em>',
-              esCorrecta: false,
-            },
-            {
-              id: 'c',
-              texto: '<em>Text</em>',
-              esCorrecta: true,
-            },
-            {
-              id: 'd',
-              texto: '<em>Route</em>',
+              texto:
+                'Eliminar procesos relacionados con segmentación y campañas comerciales digitales.',
               esCorrecta: false,
             },
           ],
@@ -92,30 +64,69 @@ export default {
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
-          id: 3,
-          texto: '¿Para qué sirve la herramienta <em>Show</em> en EAGLE?',
-          imagen: '@/assets/actividad/imagen1.png',
+          id: 2,
+          texto:
+            '¿Qué representa el buyer persona dentro de estrategias comerciales?',
+          imagen: '@/assets/actividad/imagen2.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Para borrar conexiones.',
+              texto:
+                'Estrategia relacionada únicamente con campañas publicitarias impresas tradicionales empresariales.',
               esCorrecta: false,
             },
             {
               id: 'b',
               texto:
-                'Para cambiar de ventana entre <em>Schematic</em> y <em>Board</em>.',
+                'Modelo utilizado exclusivamente para controlar procesos financieros empresariales digitales contemporáneos.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Para agregar nuevas capas.',
+              texto:
+                'Sistema utilizado para reemplazar procesos relacionados con atención comercial digital.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Para resaltar conexiones de pines.',
+              texto:
+                'Representación del cliente ideal basada en comportamientos, intereses y necesidades digitales.',
+              esCorrecta: true,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 3,
+          texto:
+            '¿Cuál es uno de los principales beneficios del comercio electrónico?',
+          imagen: '@/assets/actividad/imagen3.png',
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto:
+                'Sustituir procesos relacionados con segmentación de consumidores digitales contemporáneos empresariales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto:
+                'Reducir completamente interacción entre consumidores y plataformas comerciales digitales empresariales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'Eliminar procesos relacionados con campañas y posicionamiento comercial digital estratégico.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Ampliar alcance comercial mediante plataformas digitales orientadas a ventas online.',
               esCorrecta: true,
             },
           ],
@@ -125,28 +136,32 @@ export default {
         {
           id: 4,
           texto:
-            '¿Qué botón se utiliza para cambiar entre las ventanas <em>Schematic</em> y <em>Board</em>?',
-          imagen: '@/assets/actividad/imagen1.png',
+            '¿Qué permite identificar la escucha social dentro de plataformas digitales y redes sociales?',
+          imagen: '@/assets/actividad/imagen4.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: '<em>Text</em>',
-              esCorrecta: false,
+              texto:
+                'Comentarios, tendencias y percepciones relacionadas con consumidores digitales contemporáneos actuales.',
+              esCorrecta: true,
             },
             {
               id: 'b',
-              texto: '<em>Layer</em>',
+              texto:
+                'Restricción completa de contenidos relacionados con posicionamiento comercial empresarial digital.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: '<em>Board</em>',
-              esCorrecta: true,
+              texto:
+                'Procesos exclusivamente financieros relacionados con ventas empresariales digitales contemporáneas actuales.',
+              esCorrecta: false,
             },
             {
               id: 'd',
-              texto: '<em>Route</em>',
+              texto:
+                'Eliminación total de campañas desarrolladas mediante redes sociales comerciales digitales.',
               esCorrecta: false,
             },
           ],
@@ -155,30 +170,33 @@ export default {
         },
         {
           id: 5,
-          texto: '¿Qué permite hacer la herramienta <em>Route</em>?',
-          imagen: '@/assets/actividad/imagen2.png',
+          texto:
+            '¿Cuál es el propósito principal de una campaña digital orientada hacia posicionamiento comercial?',
+          imagen: '@/assets/actividad/imagen1.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
               texto:
-                'Enrutar manualmente las pistas que no se ajustaron automáticamente.',
-              esCorrecta: true,
+                'Sustituir totalmente herramientas relacionadas con comercio electrónico y ventas online empresariales.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Resaltar las conexiones de los pines.',
+              texto:
+                'Restringir procesos relacionados con comunicación comercial dentro de redes sociales digitales.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Crear una nueva capa en el diseño.',
-              esCorrecta: false,
+              texto:
+                'Fortalecer reconocimiento y visibilidad de marca mediante contenidos digitales estratégicos.',
+              esCorrecta: true,
             },
             {
               id: 'd',
               texto:
-                'Cambiar de ventana entre <em>Schematic</em> y <em>Board</em>.',
+                'Eliminar completamente interacción entre consumidores y organizaciones empresariales digitales contemporáneas.',
               esCorrecta: false,
             },
           ],
@@ -188,28 +206,32 @@ export default {
         {
           id: 6,
           texto:
-            '¿Qué función tiene la herramienta <em>Auto</em> en la ventana <em>Board</em>?',
+            '¿Qué característica diferencia principalmente las redes sociales audiovisuales?',
           imagen: '@/assets/actividad/imagen2.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Borrar componentes.',
+              texto:
+                'Eliminan procesos relacionados con campañas comerciales dentro de plataformas empresariales digitales.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Ajustar automáticamente las pistas en cada componente.',
+              texto:
+                'Priorizan contenidos visuales relacionados con interacción rápida y posicionamiento digital estratégico.',
               esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'Crear nuevas conexiones de pines.',
+              texto:
+                'Sustituyen completamente herramientas relacionadas con atención comercial y ventas digitales empresariales.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Seleccionar y editar capas.',
+              texto:
+                'Restringen interacción entre consumidores digitales y organizaciones comerciales contemporáneas actuales.',
               esCorrecta: false,
             },
           ],
@@ -218,29 +240,32 @@ export default {
         },
         {
           id: 7,
-          texto:
-            '¿Cuál es una recomendación al ubicar los componentes en la ventana <em>Board</em>?',
-          imagen: '@/assets/actividad/imagen2.png',
+          texto: '¿Cuál es la función estratégica de segmentar consumidores?',
+          imagen: '@/assets/actividad/imagen3.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Colocar los componentes en un solo bloque.',
-              esCorrecta: false,
-            },
-            {
-              id: 'b',
-              texto: 'Agrupar los componentes en bloques funcionales.',
+              texto:
+                'Clasificar consumidores según intereses, necesidades y comportamientos digitales específicos contemporáneos.',
               esCorrecta: true,
             },
             {
+              id: 'b',
+              texto:
+                'Limitar completamente procesos relacionados con campañas comerciales empresariales digitales contemporáneas.',
+              esCorrecta: false,
+            },
+            {
               id: 'c',
-              texto: 'Alinear todos los terminales a la derecha.',
+              texto:
+                'Sustituir herramientas utilizadas para interacción comercial mediante redes sociales digitales actuales.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Colocar los terminales lo más alejados posible.',
+              texto:
+                'Eliminar procesos relacionados con contenidos comerciales y posicionamiento digital empresarial contemporáneo.',
               esCorrecta: false,
             },
           ],
@@ -249,29 +274,32 @@ export default {
         },
         {
           id: 8,
-          texto:
-            '¿Cuál de las siguientes capas se utiliza para añadir texto en el diseño?',
-          imagen: '@/assets/actividad/imagen2.png',
+          texto: '¿Qué permite fortalecer el análisis del customer journey?',
+          imagen: '@/assets/actividad/imagen4.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
+              texto:
+                'Sustituir procesos relacionados con segmentación y atención comercial empresarial digital estratégica.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto:
+                'Restringir experiencias digitales relacionadas con consumidores y redes sociales comerciales actuales.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
-              esCorrecta: false,
+              texto:
+                'Optimizar experiencias relacionadas con interacción y conversión del consumidor digital contemporáneo.',
+              esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto:
+                'Eliminar completamente plataformas relacionadas con campañas y posicionamiento empresarial digital contemporáneo.',
               esCorrecta: false,
             },
           ],
@@ -281,18 +309,32 @@ export default {
         {
           id: 9,
           texto:
-            'La herramienta <em>Text</em> en la ventana <em>Board</em> solo permite cambiar el color de las capas.',
-          imagen: '@/assets/actividad/imagen3.png',
+            '¿Qué elemento resulta fundamental dentro de una matriz estratégica de mercadeo digital?',
+          imagen: '@/assets/actividad/imagen1.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto:
+                'Restricción total de plataformas relacionadas con interacción y ventas digitales empresariales contemporáneas.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto:
+                'Sustitución completa de procesos relacionados con análisis del consumidor digital contemporáneo actual.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'Eliminación de objetivos relacionados con campañas y posicionamiento comercial estratégico empresarial digital.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Objetivos comerciales orientados a interacción, posicionamiento y fortalecimiento de ventas digitales.',
               esCorrecta: true,
             },
           ],
@@ -302,18 +344,32 @@ export default {
         {
           id: 10,
           texto:
-            'La herramienta <em>Layer</em> permite seleccionar y editar capas para definir márgenes, pistas y componentes.',
-          imagen: '@/assets/actividad/imagen3.png',
+            '¿Cuál es la principal finalidad de proteger información personal dentro de entornos digitales comerciales?',
+          imagen: '@/assets/actividad/imagen2.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto:
+                'Fortalecer privacidad, confianza y tratamiento responsable de datos relacionados con consumidores digitales.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto:
+                'Sustituir plataformas tecnológicas utilizadas para interacción comercial empresarial contemporánea actual digital.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'Eliminar procesos relacionados con segmentación y campañas digitales empresariales contemporáneas actuales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Restringir completamente estrategias relacionadas con comercio electrónico y ventas digitales actuales.',
               esCorrecta: false,
             },
           ],
@@ -323,19 +379,33 @@ export default {
         {
           id: 11,
           texto:
-            'El botón "<em>BOARD</em>" en EAGLE solo sirve para borrar componentes en el diseño.',
+            '¿Qué ventaja ofrece la negociación digital dentro de procesos comerciales?',
           imagen: '@/assets/actividad/imagen3.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto:
+                'Sustituir completamente campañas desarrolladas mediante plataformas digitales comerciales contemporáneas actuales.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto:
+                'Restringir procesos relacionados con fidelización y posicionamiento empresarial digital estratégico actual.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'Fortalecer acuerdos comerciales mediante comunicación estratégica y atención personalizada digital contemporánea.',
               esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto:
+                'Eliminar procesos relacionados con interacción entre consumidores y organizaciones digitales empresariales.',
+              esCorrecta: false,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -344,19 +414,33 @@ export default {
         {
           id: 12,
           texto:
-            'La herramienta <em>Show</em> permite resaltar conexiones para facilitar la identificación de redes.',
-          imagen: '@/assets/actividad/imagen3.png',
+            '¿Cuál es uno de los principales usos estratégicos de las campañas digitales?',
+          imagen: '@/assets/actividad/imagen4.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
+              texto:
+                'Sustituir herramientas relacionadas con comercio electrónico y posicionamiento empresarial digital contemporáneo.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto:
+                'Restringir completamente procesos relacionados con interacción comercial y ventas digitales contemporáneas.',
               esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'Eliminar procesos relacionados con segmentación y análisis comercial del consumidor digital.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Fortalecer posicionamiento, interacción y conversión mediante contenidos digitales estratégicos empresariales.',
+              esCorrecta: true,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -365,18 +449,32 @@ export default {
         {
           id: 13,
           texto:
-            'La función <em>Auto</em> se utiliza para enrutado automático en la ventana <em>Board</em>.',
-          imagen: '@/assets/actividad/imagen4.png',
+            '¿Qué tipo de comercio electrónico relaciona directamente empresas con consumidores finales?',
+          imagen: '@/assets/actividad/imagen1.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
+              texto:
+                'Modelo C2B utilizado exclusivamente para procesos financieros empresariales digitales contemporáneos actuales.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto:
+                'Modelo B2B enfocado únicamente hacia negociaciones organizacionales comerciales estratégicas contemporáneas actuales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'Modelo B2C orientado a ventas digitales entre empresas y consumidores finales.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto:
+                'Modelo C2C relacionado exclusivamente con interacción entre consumidores digitales empresariales actuales.',
               esCorrecta: false,
             },
           ],
@@ -386,19 +484,33 @@ export default {
         {
           id: 14,
           texto:
-            'La herramienta <em>Route</em> en la ventana <em>Board</em> ajusta automáticamente todas las pistas del diseño.',
-          imagen: '@/assets/actividad/imagen4.png',
+            '¿Qué permite fortalecer la fidelización dentro de estrategias comerciales desarrolladas mediante redes sociales digitales?',
+          imagen: '@/assets/actividad/imagen2.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto:
+                'Sustitución total de campañas relacionadas con consumidores digitales empresariales contemporáneos actuales estratégicos.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto:
+                'Construcción de relaciones sostenibles mediante experiencias digitales positivas y personalizadas contemporáneas.',
               esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto:
+                'Restricción completa de contenidos relacionados con estrategias comerciales y ventas digitales actuales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Eliminación completa de procesos relacionados con interacción y posicionamiento comercial empresarial digital.',
+              esCorrecta: false,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -407,18 +519,207 @@ export default {
         {
           id: 15,
           texto:
-            'Es recomendable organizar los componentes en bloques funcionales como transformación y filtrado en la ventana <em>Board</em>.',
+            '¿Qué herramienta facilita monitorear comentarios y tendencias relacionadas con consumidores digitales?',
+          imagen: '@/assets/actividad/imagen3.png',
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto:
+                'Sustitución de herramientas relacionadas con atención comercial dentro de redes sociales digitales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto:
+                'Eliminación total de estrategias relacionadas con segmentación comercial y consumidores digitales actuales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'Escucha social aplicada mediante análisis estratégico de interacciones digitales comerciales contemporáneas.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto:
+                'Restricción completa de campañas relacionadas con posicionamiento y ventas digitales empresariales actuales.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 16,
+          texto:
+            '¿Cuál es la finalidad principal de utilizar métricas dentro de campañas comerciales digitales?',
           imagen: '@/assets/actividad/imagen4.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto:
+                'Evaluar resultados y optimizar estrategias relacionadas con campañas digitales comerciales contemporáneas.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto:
+                'Restringir procesos relacionados con consumidores digitales y estrategias de fidelización empresarial actual.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'Sustituir herramientas utilizadas para interacción y comunicación empresarial mediante plataformas digitales actuales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Eliminar procesos relacionados con análisis y posicionamiento comercial estratégico empresarial digital actual.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 17,
+          texto:
+            '¿Qué beneficio ofrece personalizar contenidos dentro de estrategias comerciales?',
+          imagen: '@/assets/actividad/imagen1.png',
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto:
+                'Eliminar completamente herramientas relacionadas con posicionamiento empresarial y ventas digitales contemporáneas.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto:
+                'Fortalecer interacción y experiencias relacionadas con necesidades específicas del consumidor digital contemporáneo.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto:
+                'Restringir experiencias comerciales relacionadas con consumidores y plataformas digitales empresariales actuales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Sustituir procesos relacionados con segmentación y campañas comerciales digitales empresariales estratégicas actuales.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 18,
+          texto:
+            '¿Qué proceso permite identificar oportunidades comerciales mediante análisis estratégico del consumidor?',
+          imagen: '@/assets/actividad/imagen2.png',
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto:
+                'Sustitución total de herramientas relacionadas con atención comercial y posicionamiento empresarial actual.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto:
+                'Eliminación de contenidos relacionados con interacción y experiencias comerciales digitales contemporáneas actuales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'Segmentación comercial basada en intereses y comportamientos digitales específicos contemporáneos actuales.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto:
+                'Restricción de campañas desarrolladas mediante redes sociales empresariales digitales contemporáneas actuales.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 19,
+          texto:
+            '¿Qué característica poseen principalmente las campañas digitales orientadas hacia reconocimiento de marca empresarial?',
+          imagen: '@/assets/actividad/imagen3.png',
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto:
+                'Sustituyen herramientas utilizadas para campañas comerciales y ventas digitales empresariales actuales contemporáneas.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto:
+                'Restringen contenidos relacionados con posicionamiento y experiencia del consumidor digital actual contemporáneo.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'Eliminan procesos relacionados con interacción entre consumidores y plataformas comerciales digitales actuales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Buscan fortalecer visibilidad y recordación comercial mediante contenidos digitales estratégicos empresariales.',
+              esCorrecta: true,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 20,
+          texto:
+            '¿Qué permite optimizar el customer journey dentro de experiencias comerciales?',
+          imagen: '@/assets/actividad/imagen4.png',
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto:
+                'Mejorar experiencias del consumidor durante diferentes etapas de interacción comercial digital.',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto:
+                'Eliminar herramientas relacionadas con segmentación y análisis comercial estratégico empresarial digital actual.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'Sustituir campañas desarrolladas mediante plataformas digitales orientadas a consumidores empresariales actuales contemporáneos.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Restringir procesos relacionados con interacción y posicionamiento comercial empresarial estratégico digital contemporáneo.',
               esCorrecta: false,
             },
           ],
@@ -426,82 +727,9 @@ export default {
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
       ],
-      mensaje_final_aprobado: '¡Excelente! Ha superado la actividad.',
-      mensaje_final_reprobado:
-        'Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
-    },
-    parrafo: {
-      tema: 'Comprendiendo el diseño de presupuestos y estrategias de ahorro',
-      titulo: 'Completar frases',
-      introduccion:
-        '<b> Objetivo:</b> identificar conceptos clave relacionados con el presupuesto personal, la cultura del ahorro y la planificación financiera.',
-      instruccion:
-        'Complete correctamente los enunciados con la palabra que falta según los contenidos estudiados en el componente formativo.',
-      imagen: '@/assets/actividad/imagen1.png',
-      barajarPreguntas: true,
-      textos: [
-        {
-          id: 1,
-          texto:
-            'El [respuesta] personal es una herramienta que permite proyectar ingresos y egresos para mantener la estabilidad económica.',
-          respuesta: 'presupuesto',
-        },
-        {
-          id: 2,
-          texto:
-            'La constancia en el cumplimiento del presupuesto refleja un alto nivel de [respuesta] financiera.',
-          respuesta: 'disciplina',
-        },
-        {
-          id: 3,
-          texto:
-            'Ahorrar no es lo que sobra, sino lo que se [respuesta] guardar antes de gastar.',
-          respuesta: 'planifica',
-        },
-        {
-          id: 4,
-          texto:
-            'Un gasto innecesario que puede eliminarse sin afectar la calidad de vida básica se denomina gasto [respuesta].',
-          respuesta: 'discrecional',
-        },
-        {
-          id: 5,
-          texto:
-            'La cultura del ahorro promueve el uso responsable de los [respuesta] disponibles.',
-          respuesta: 'recursos',
-        },
-        {
-          id: 6,
-          texto:
-            'El estado de [respuesta] personales permite analizar la relación entre ingresos y egresos en un periodo determinado.',
-          respuesta: 'resultados',
-        },
-        {
-          id: 7,
-          texto:
-            'Cuando los ingresos son mayores que los egresos se generan una [respuesta] que puede destinarse al ahorro.',
-          respuesta: 'utilidad',
-        },
-        {
-          id: 8,
-          texto:
-            'Uno de los beneficios de ejecutar un presupuesto es la reducción del [respuesta] financiero.',
-          respuesta: 'estrés',
-        },
-        {
-          id: 9,
-          texto:
-            'Evitar gastos impulsivos y mantener límites presupuestales refleja [respuesta] financiera.',
-          respuesta: 'disciplina',
-        },
-        {
-          id: 10,
-          texto:
-            'Contar con un fondo de [respuesta] permite enfrentar gastos inesperados sin afectar el presupuesto.',
-          respuesta: 'emergencia',
-        },
-      ],
     },
   }),
 }
 </script>
+
+<style lang="sass"></style>
