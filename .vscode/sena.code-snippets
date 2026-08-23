@@ -1,0 +1,564 @@
+{
+  "SeparadorTitulo": {
+    "prefix": "Sena_Titulo+separador",
+    "body": [
+      "separador",
+      "",
+      "#t_1_1.titulo-segundo.color-acento-contenido(data-aos=\"flip-up\")",
+      "  h2 1.1 Concepto"
+    ],
+    "description": "Separador con título segundo 1.1 y animación AOS"
+  },
+  "TituloConImagen": {
+    "prefix": "Sena_Titulo+img",
+    "body": [
+      ".titulo-con-imagen.mb-5(data-aos=\"fade-right\")",
+      "  .titulo-con-imagen__fondo",
+      "    img.titulo-con-imagen__imagen(src=\"@/assets/componentes/1.svg\")",
+      "    h3.titulo-con-imagen__texto xxxx"
+    ],
+    "description": "Bloque de título con imagen de fondo en Pug"
+  },
+  "bloque-texto-g-img-izq": {
+    "prefix": "sena_bloque-imgIzq_textofondo",
+    "body": [
+      ".bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5",
+      "  .bloque-texto-g__img(",
+      "    :style=\"{'background-image': `url(${require('@/assets/curso/tema3/21.png')})`}\"",
+      "  )",
+      "  .bloque-texto-g__texto.p-4",
+      "    p.mb-0 xxxxxxx"
+    ],
+    "description": "Bloque texto-g con imagen de fondo y texto sobre Cuádruple Hélice (Pug)"
+  },
+  "bloque-texto-g-img-der": {
+    "prefix": "sena_bloque-imgDer_textofondo",
+    "body": [
+      ".bloque-texto-g.bloque-texto-g--inverso.color-secundario.p-3.p-sm-4.p-md-5.mb-5",
+      "  .bloque-texto-g__img(",
+      "    :style=\"{'background-image': `url(${require('@/assets/curso/tema3/21.png')})`}\"",
+      "  )",
+      "  .bloque-texto-g__texto.p-4",
+      "    p.mb-0 xxxxxxx"
+    ],
+    "description": "Bloque texto-g con imagen de fondo y texto sobre Cuádruple Hélice (Pug)"
+  },
+  "bloque-img-texto-col3-9": {
+    "prefix": "sena_bloque_img_texto",
+    "body": [
+      ".row.mb-5.justify-content-center.align-items-center",
+      "  .col-lg-3.mb-3.mb-lg-0",
+      "    figure",
+      "      img(src=\"@/assets/curso/tema1/1.png\", data-aos=\"zoom-in\")",
+      "  .col-lg-9",
+      "    p.mb-0(data-aos=\"fade-right\") xxxx"
+    ],
+    "description": "Bloque con imagen (col-lg-3) and texto (col-lg-9) with AOS animations (Pug)"
+  },
+  "bloque-texto-icono-horizontal": {
+    "prefix": "sena_bloque_icon_texto",
+    "body": [
+      ".row.align-items-center.bg-color-1.p-4.mb-5",
+      "  .col-lg-auto",
+      "    img.d-none.d-lg-flex(src=\"@/assets/curso/tema1/2.svg\", style=\"max-width: 90px\").mx-auto",
+      "  .col-lg",
+      "    p.mb-0 xxxxx"
+    ],
+    "description": "Bloque horizontal con ícono a la izquierda y texto a la derecha (Pug)"
+  },
+  "banner-imagen-texto": {
+    "prefix": "sena_banner-img-texto",
+    "body": [
+      "img(src=\"@/assets/curso/tema1/3.png\", alt=\"Imagen decorativa\")",
+      "",
+      ".row.justify-content-center.align-items-center.z-2.mb-5",
+      "  .col-lg-8(data-aos=\"fade-up\")",
+      "    p.banner-text xxxxx"
+    ],
+    "description": "Imagen superior con bloque de texto tipo banner centrado (Pug)"
+  },
+  "TabsCRecursos": {
+    "prefix": "sena_tabsC",
+    "body": [
+      "TabsC.color-primario(data-aos=\"zoom-in\")",
+      "  .p-3.p-md-4(titulo=\"xxxx\")",
+      "    .row.justify-content-center.align-items-center",
+      "      .col-lg-6.mb-4.mb-md-0",
+      "        h4 xxxx",
+      "        p xxxx",
+      "      .col-lg-4.mb-3.mb-lg-0",
+      "        figure",
+      "          img(src='@/assets/curso/tema3/13.png', alt='Imagen de acompañamiento')",
+      "  .p-3.p-md-4(titulo=\"xxxx\")",
+      "    .row.justify-content-center.align-items-center",
+      "      .col-lg-6.mb-4.mb-md-0",
+      "        h4 xxxx",
+      "        p xxxx",
+      "      .col-lg-4.mb-3.mb-lg-0",
+      "        figure",
+      "          img(src='@/assets/curso/tema3/14.png', alt='Imagen de acompañamiento')",
+      "  .p-3.p-md-4(titulo=\"xxxx\")",
+      "    .row.justify-content-center.align-items-center",
+      "      .col-lg-6.mb-4.mb-md-0",
+      "        h4 xxxx",
+      "        p xxxx",
+      "      .col-lg-4.mb-3.mb-lg-0",
+      "        figure",
+      "          img(src='@/assets/curso/tema3/15.png', alt='Imagen de acompañamiento')"
+    ],
+    "description": "Componente TabsC con recursos del SENA"
+  },
+  "AcordionInvestigacion": {
+    "prefix": "sena_img-acordeon+",
+    "body": [
+      ".row.align-items-center.justify-content-center",
+      "  .col-md-8.col-lg-3.mb-3.mb-lg-0",
+      "    figure",
+      "      img(src=\"@/assets/curso/tema1/2.png\", data-aos=\"zoom-in\")",
+      "  .col-lg-9",
+      "    AcordionA(tipo=\"a\" clase-tarjeta=\"tarjeta bg-color-11\")",
+      "      div(titulo=\"xxxx\")",
+      "        p.ms-5 xxxx",
+      "      div(titulo=\"xxxx\")",
+      "        p.ms-5 xxxx",
+      "      div(titulo=\"xxxx\")",
+      "        p.ms-5 xxxx",
+      "      div(titulo=\"xxxx\")",
+      "        p.ms-5 xxxx"
+    ],
+    "description": "AcordionA con estructura de trabajo investigativo"
+  },
+  "tabs-innovacion-con-imagen": {
+    "prefix": "sena_tabsA_img",
+    "body": [
+      ".row.mb-5.justify-content-center.align-items-center",
+      "  .col-md-8.col-lg-3.mb-3.mb-lg-0.order-lg-2",
+      "    figure",
+      "      img(src=\"@/assets/curso/tema2/14.png\", data-aos=\"zoom-in\")",
+      "  .col-lg-9.order-lg-1",
+      "    TabsA.color-acento-botones",
+      "      .tarjeta.color-acento-botones--borde.p-4(titulo=\"xxxx\")",
+      "        h4 xxxx",
+      "        p.mb-0 xxxx",
+      "      .tarjeta.color-acento-botones--borde.p-4(titulo=\"xxxx\")",
+      "        h4 xxxx",
+      "        p.mb-0 xxxx",
+      "      .tarjeta.color-acento-botones--borde.p-4(titulo=\"xxxx\")",
+      "        h4 xxxx",
+      "        p.mb-0 xxxx"
+    ],
+    "description": "Bloque con imagen y TabsA para tipos de innovación (Pug)"
+  },
+  "tarjetas-hover-3": {
+    "prefix": "sena_tarjetas_hoverX3",
+    "body": [
+      ".row.justify-content-center.mb-5",
+      "  .col-xl-4.col-lg-6.col-md-9.col-11.mb-4.mb-xl-0",
+      "    .crd_hover_txt(data-aos=\"flip-left\").tarjeta",
+      "      .crd_hover_txt--img",
+      "        figure",
+      "          img(src=\"@/assets/curso/tema1/10.png\", alt=\"alt\")",
+      "      .crd_hover_txt--body",
+      "        h4.mb-3 xxxx",
+      "        p.mb-0 xxxx",
+      "",
+      "  .col-xl-4.col-lg-6.col-md-9.col-11.mb-4.mb-xl-0",
+      "    .crd_hover_txt(data-aos=\"flip-left\").tarjeta",
+      "      .crd_hover_txt--img",
+      "        figure",
+      "          img(src=\"@/assets/curso/tema1/11.png\", alt=\"alt\")",
+      "      .crd_hover_txt--body",
+      "        h4.mb-3 xxxx",
+      "        p.mb-0 xxxx",
+      "",
+      "  .col-xl-4.col-lg-6.col-md-9.col-11.mb-4.mb-xl-0",
+      "    .crd_hover_txt(data-aos=\"flip-left\").tarjeta",
+      "      .crd_hover_txt--img",
+      "        figure",
+      "          img(src=\"@/assets/curso/tema1/12.png\", alt=\"alt\")",
+      "      .crd_hover_txt--body",
+      "        h4.mb-3 xxxx",
+      "        p.mb-0 xxxx"
+    ],
+    "description": "Bloque de 3 tarjetas hover con imagen y texto (Pug)."
+  },
+  "linea-tiempo-con-imagen": {
+    "prefix": "sena_lineatiempo_img",
+    "body": [
+      ".row.mb-5.justify-content-center.align-items-center",
+      "  .col-md-8.col-lg-4.mb-3.mb-lg-0",
+      "    figure",
+      "      img(src=\"@/assets/curso/tema3/6.png\", data-aos=\"zoom-in\")",
+      "  .col-lg-8",
+      "    LineaTiempoD.color-secundario",
+      "      p(numero=\"1\" titulo=\"xxxx\") xxxx",
+      "      ",
+      "      p(numero=\"2\" titulo=\"xxxx\") xxxx",
+      "      ",
+      "      p(numero=\"3\" titulo=\"xxxx\") xxxx",
+      "      ",
+      "      p(numero=\"4\" titulo=\"xxxx\") xxxx"
+    ],
+    "description": "Línea de tiempo con imagen lateral usando LineaTiempoD (Pug)"
+  },
+  "slider-conpes": {
+    "prefix": "sena_slyder_img_text",
+    "body": [
+      ".bg-fondo-slider.tarjeta.mb-5",
+      "  .p-4.p-lg-5",
+      "    SlyderA(tipo=\"b\").bg-color-white.p-4.tarjeta",
+      "      .row.justify-content-center.align-items-center",
+      "        .col-lg-4.mb-3.mb-lg-0",
+      "          figure",
+      "            img(src='@/assets/curso/tema3/15.png', alt='Imagen de acompañamiento')",
+      "        .col-lg-8.mb-4.mb-md-0",
+      "          h4 xxxx",
+      "          p.mb-0 xxxx",
+      "      .row.justify-content-center.align-items-center",
+      "        .col-lg-4.mb-3.mb-lg-0",
+      "          figure",
+      "            img(src='@/assets/curso/tema3/16.png', alt='Imagen de acompañamiento')",
+      "        .col-lg-8.mb-4.mb-md-0",
+      "          h4 xxxx",
+      "          p.mb-0 xxxx",
+      "      .row.justify-content-center.align-items-center",
+      "        .col-lg-4.mb-3.mb-lg-0",
+      "          figure",
+      "            img(src='@/assets/curso/tema3/17.png', alt='Imagen de acompañamiento')",
+      "        .col-lg-8.mb-4.mb-md-0",
+      "          h4 xxxx",
+      "          p.mb-0 xxxx",
+      "      .row.justify-content-center.align-items-center",
+      "        .col-lg-4.mb-3.mb-lg-0",
+      "          figure",
+      "            img(src='@/assets/curso/tema3/18.png', alt='Imagen de acompañamiento')",
+      "        .col-lg-8.mb-4.mb-md-0",
+      "          h4 xxxx",
+      "          p.mb-0 xxxx"
+    ],
+    "description": "Slider con tarjetas CONPES usando SlyderA (Pug)"
+  },
+  "row-img-text-propiedad-intelectual": {
+    "prefix": "sena_icon_text",
+    "body": [
+      ".row.mb-5.justify-content-center.align-items-center",
+      "  .col-auto.mb-3.mb-lg-0",
+      "    figure",
+      "      img.d-none.d-lg-flex(src=\"@/assets/curso/tema4/5.png\", data-aos=\"zoom-in\")",
+      "  .col-lg",
+      "    p.mb-0(data-aos=\"fade-right\") xxxx"
+    ],
+    "description": "Fila con imagen a la izquierda y texto (Pug)"
+  },
+  "2col_1img": {
+    "prefix": "sena_2col_1img",
+    "body": [
+      ".row.justify-content-center.align-items-center.mb-5",
+      "  .col-lg-7.col-xl-5.mb-3.mb-lg-0",
+      "    .bg-color-5.p-4.px-lg-5.tarjeta ",
+      "      p.mb-0 ${1:TEXTO}",
+      "  .col-md-8.col-lg-5.col-xl-3.mb-3.mb-xl-0",
+      "    figure",
+      "      img(src=\"@/assets/curso/tema4/${2:12}.png\", data-aos=\"zoom-in\")",
+      "  .col-xl-4",
+      "    img.d-xl-flex.d-none(src=\"@/assets/curso/tema4/${3:13}.svg\", style=\"max-width: 90px\").mb-3",
+      "    p.mb-0 ${4:TEXTO}"
+    ],
+    "description": "Fila con tres columnas: tarjeta de texto, imagen y texto con icono decorativo"
+  },
+  "FiguraResponsive": {
+    "prefix": "SENA_figura-responsive",
+    "body": [
+      ".row.justify-content-center.align-items-center.z-2.mb-5",
+      "  .col-lg-10.col-xl-8",
+      "    .titulo-sexto.color-acento-contenido.mb-4",
+      "      h5 Figura 1.",
+      "      span Titulo de la imagen",
+      "    img.mb-2.d-sm-none(data-aos=\"fade-up\", src=\"@/assets/curso/temas/tema3/${3:5}-mob.svg\", alt=\"${4:ALT}\")",
+      "    img.mb-2.d-none.d-sm-block(data-aos=\"fade-up\", src=\"@/assets/curso/temas/tema3/${3:5}.svg\", alt=\"${4:ALT}\")",
+      "    figcaption <strong>Fuente:</strong> ${5:SENA, 2026}"
+    ],
+    "description": "Estructura de figura con imágenes responsive y fuente"
+  },
+  "img_text_bloc-icon-text": {
+    "prefix": "sena_img_text_bloc-icon-text",
+    "body": [
+      ".row.justify-content-center.align-items-center.mb-5",
+      "  .col-lg-4.mb-3.mb-lg-0",
+      "    figure",
+      "      img(src=\"@/assets/curso/intro/${1:1}.png\", data-aos=\"zoom-in\")",
+      "  .col-lg-8",
+      "    p ${2:TEXTO}",
+      "    .row.align-items-center.bg-color-1.p-4",
+      "      .col-lg-auto.mb-3.mb-lg-0",
+      "        img.d-lg-flex.d-none(src=\"@/assets/curso/intro/${3:2}.svg\").mx-auto",
+      "      .col-lg",
+      "        p.mb-0 ${4:TEXTO}"
+    ],
+    "description": "Estructura de fila con imagen lateral y cuadro destacado con icono"
+  },
+  "block_img_fondo-texto": {
+    "prefix": "sena_block_img_fondo-texto",
+    "body": [
+      ".row.justify-content-center.align-items-center.mb-5",
+      "  .col-lg-4.mb-3",
+      "    figure",
+      "      img(src=\"@/assets/curso/intro/${1:1}.png\", data-aos=\"zoom-in\")",
+      "  .col-lg-8",
+      "    .bg-color-1.px-5.py-4",
+      "      p.mb-0 ${2:TEXTO}"
+    ],
+    "description": "Estructura de fila con imagen de 3 columnas y recuadro de texto de 9 columnas"
+  },
+  "Video de YouTube": {
+    "prefix": "fsena-video",
+    "body": [
+      "figure.mb-5",
+      "  .video.mb-2",
+      "    iframe(width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/${1:2L91WMqw96A}\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen)",
+      "  figcaption Video: ${2:Leyenda del video}"
+    ],
+    "description": "Componente de video embebido con leyenda"
+  },
+  "Avatar-left_x3": {
+    "prefix": "sena_Avatar-left_x3",
+    "body": [
+      ".row.mb-5",
+      "  .col-lg-4.mb-3.mb-lg-0",
+      "    .tarjeta-avatar-b.align-items-center(data-aos=\"${1:fade-up}\")",
+      "      .tarjeta-avatar-b__img",
+      "        img(src='@/assets/curso/tema1/${2:5}.svg' alt='AvatarTop')",
+      "      .tarjeta.tarjeta--azul",
+      "        .p-3",
+      "          p.mb-0 ${3:TEXTO}",
+      "  .col-lg-4.mb-3.mb-lg-0",
+      "    .tarjeta-avatar-b.align-items-center(data-aos=\"${4:fade-down}\")",
+      "      .tarjeta-avatar-b__img",
+      "        img(src='@/assets/curso/tema1/${5:5}.svg' alt='AvatarTop')",
+      "      .tarjeta.tarjeta--azul",
+      "        .p-3",
+      "          p.mb-0 ${6:TEXTO}",
+      "  .col-lg-4.mb-3.mb-lg-0",
+      "    .tarjeta-avatar-b.align-items-center(data-aos=\"${7:fade-up}\")",
+      "      .tarjeta-avatar-b__img",
+      "        img(src='@/assets/curso/tema1/${8:5}.svg' alt='AvatarTop')",
+      "      .tarjeta.tarjeta--azul",
+      "        .p-3",
+      "          p.mb-0 ${9:TEXTO}"
+    ],
+    "description": "Fila de 3 columnas con tarjetas avatar-b"
+  },
+  "Listado-no-ordenado": {
+    "prefix": "Sena_listado-no-ordeado",
+    "body": [
+      "ul.lista-ul--color.ms-3",
+      "  li.mb-3.d-flex",
+      "    i.fas.fa-circle.fa-xs.mt-2",
+      "    | ${1:TEXTO}",
+      "  li.mb-3.d-flex",
+      "    i.fas.fa-circle.fa-xs.mt-2",
+      "    | ${2:TEXTO}",
+      "  li.mb-3.d-flex",
+      "    i.fas.fa-circle.fa-xs.mt-2",
+      "    | ${3:TEXTO}"
+    ],
+    "description": "Lista desordenada con iconos de círculo pequeño"
+  },
+  "block-comillas": {
+    "prefix": "sena_block-comillas",
+    "body": [
+      ".bloque-texto-b.color-secundario.p-4(data-aos=\"${1:fade-up}\").mb-3",
+      "  .bloque-texto-b__texto",
+      "    i.fas.fa-quote-left",
+      "    p.mb-0 ${2:TEXTO}",
+      "    i.fas.fa-quote-right",
+      "  .bloque-texto-d__autor ",
+      "    .h5.mb-0 ${3:(AUTOR, AÑO)}"
+    ],
+    "description": "Bloque de texto con iconos de comillas"
+  },
+  "card-fondoX4": {
+    "prefix": "sena_card-fondoX4",
+    "body": [
+      ".row.justify-content-center.mb-5",
+      "  .col-lg-3.mb-3.mb-lg-0(data-aos=\"fade-up\")",
+      "    .bg-color-7.text-center.p-4.h-100",
+      "      h5 ${1:TITULO}",
+      "      p.mb-0 ${2:TEXTO}",
+      "  .col-lg-3.mb-3.mb-lg-0(data-aos=\"fade-down\")",
+      "    .bg-color-7.text-center.p-4.h-100",
+      "      h5 ${3:TITULO}",
+      "      p.mb-0 ${4:TEXTO}",
+      "  .col-lg-3.mb-3.mb-lg-0(data-aos=\"fade-up\")",
+      "    .bg-color-7.text-center.p-4.h-100",
+      "      h5 ${5:TITULO}",
+      "      p.mb-0 ${6:TEXTO}",
+      "  .col-lg-3.mb-3.mb-lg-0(data-aos=\"fade-down\")",
+      "    .bg-color-7.text-center.p-4.h-100",
+      "      h5 ${7:TITULO}",
+      "      p.mb-0 ${8:TEXTO}"
+    ],
+    "description": "Fila con cuatro columnas de tarjetas"
+  },
+  "avatar-top-X4": {
+    "prefix": "sena_avatar-top-X4",
+    "body": [
+      ".row.justify-content-center.mb-5",
+      "  .col-md-6.col-lg-3.mb-3.mb-lg-0(data-aos=\"fade-up\")",
+      "    .tarjeta-avatar",
+      "      img(src='@/assets/curso/tema1/${1:37}.svg' alt='AvatarTop')",
+      "      .tarjeta.color-acento-botones.bg-color-4",
+      "        .p-4.text-center",
+      "          p.mb-0 ${2:TEXTO}",
+      "  .col-md-6.col-lg-3.mb-3.mb-lg-0(data-aos=\"fade-down\")",
+      "    .tarjeta-avatar",
+      "      img(src='@/assets/curso/tema1/${3:37}.svg' alt='AvatarTop')",
+      "      .tarjeta.color-acento-botones.bg-color-4",
+      "        .p-4.text-center",
+      "          p.mb-0 ${4:TEXTO}",
+      "  .col-md-6.col-lg-3.mb-3.mb-lg-0(data-aos=\"fade-up\")",
+      "    .tarjeta-avatar",
+      "      img(src='@/assets/curso/tema1/${5:37}.svg' alt='AvatarTop')",
+      "      .tarjeta.color-acento-botones.bg-color-4",
+      "        .p-4.text-center",
+      "          p.mb-0 ${6:TEXTO}",
+      "  .col-md-6.col-lg-3.mb-3.mb-lg-0(data-aos=\"fade-down\")",
+      "    .tarjeta-avatar",
+      "      img(src='@/assets/curso/tema1/${7:37}.svg' alt='AvatarTop')",
+      "      .tarjeta.color-acento-botones.bg-color-4",
+      "        .p-4.text-center",
+      "          p.mb-0 ${8:TEXTO}"
+    ],
+    "description": "Fila con 4 tarjetas de tipo avatar"
+  },
+  "podcast_img": {
+    "prefix": "sena_podcast_img",
+    "body": [
+      ".row.justify-content-center.align-items-center.mb-5",
+      "  .col-lg-5.mb-3.order-lg-2",
+      "    figure",
+      "      img(src=\"@/assets/curso/tema4/${1:2}.png\", data-aos=\"zoom-in\")",
+      "  .col-lg-7.order-lg-1",
+      "    .row.bg-color-9.tarjeta.px-5.py-4.align-items-center.justify-content-center",
+      "      .col-md-6.col-lg-6.mb-3.mb-lg-0",
+      "        figure",
+      "          img(src=\"@/assets/curso/tema4/${2:3}.svg\", data-aos=\"zoom-in\")",
+      "      .col-lg-6",
+      "        h2.text-white(data-aos=\"fade-left\").mb-4 ${3:Pódcast}",
+      "        ",
+      "        TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(",
+      "          texto=\"${4:TITULO AUDIO}\"",
+      "          tiempo",
+      "          :audio=\"require('../assets/curso/podcast/${5:podcast1}.mp3')\"",
+      "        )"
+    ],
+    "description": "Estructura de pódcast con imagen decorativa"
+  },
+  "tarjetas-conectadas": {
+    "prefix": "sena-tarjetas-conectadas",
+    "body": [
+      ".tarjeta--container.row.mb-5",
+      "  .col-md.tarjeta.color-primario.bg-color-9.p-5.text-white(data-aos=\"${1:flip-up}\")",
+      "    .row.mb-5",
+      "      .col-6.col-lg-3",
+      "        figure",
+      "          img(src='@/assets/curso/tema4/${2:4}.svg', alt='${3:ALT}')",
+      "    ",
+      "    h2.mb-5 ${4:Saldo débito}",
+      "    p ${5:TEXTO}",
+      "",
+      "  .col-md.tarjeta.color-acento-contenido.p-5(data-aos=\"${6:flip-down}\")",
+      "    .row.mb-5",
+      "      .col-6.col-lg-3",
+      "        figure",
+      "          img(src='@/assets/curso/tema4/${7:5}.svg', alt='${8:ALT}')",
+      "    ",
+      "    h2.mb-5 ${9:Saldo crédito}",
+      "    p ${10:TEXTO}"
+    ],
+    "description": "Dos tarjetas expandidas dentro de un contenedor"
+  },
+  "tarjeta-botones-x3": {
+    "prefix": "sena_tarjeta-botones-x3",
+    "body": [
+      ".row.mb-5.justify-content-center",
+      "  .col-sm-6.col-lg-4.mb-4.mb-lg-0(data-aos=\"${1:fade-up}\")",
+      "    .tarjeta--boton.bg-color-12.h-100.p-4",
+      "      .row.justify-content-center.mb-3",
+      "        .col-4",
+      "          figure",
+      "            img(src='@/assets/curso/tema6/${2:6}.svg', alt='${3:ALT}')",
+      "",
+      "      h3.mb-4.text-center ${4:TITULO}",
+      "      p.text-center ${5:TEXTO}",
+      "",
+      "  .col-sm-6.col-lg-4.mb-4.mb-lg-0(data-aos=\"${6:fade-down}\")",
+      "    .tarjeta--boton.bg-color-12.h-100.p-4",
+      "      .row.justify-content-center.mb-3",
+      "        .col-4",
+      "          figure",
+      "            img(src='@/assets/curso/tema6/${7:7}.svg', alt='${8:ALT}')",
+      "",
+      "      h3.mb-4.text-center ${9:TITULO}",
+      "      p.text-center ${10:TEXTO}",
+      "  ",
+      "  .col-sm-6.col-lg-4.mb-4.mb-lg-0(data-aos=\"${11:fade-up}\")",
+      "    .tarjeta--boton.bg-color-12.h-100.p-4",
+      "      .row.justify-content-center.mb-3",
+      "        .col-4",
+      "          figure",
+      "            img(src='@/assets/curso/tema6/${12:8}.svg', alt='${13:ALT}')",
+      "",
+      "      h3.mb-4.text-center ${14:TITULO}",
+      "      p.text-center ${15:TEXTO}"
+    ],
+    "description": "Fila con tres tarjetas tipo botón"
+  },
+  "pasosB_check": {
+    "prefix": "sena_pasosB_check",
+    "body": [
+      ".bg-full-width.bg-fondo-${1:2}",
+      "  .p-4.p-lg-5",
+      "    PasosB.color-acento-contenido.bg-color-white.tarjeta.p-4",
+      "      .row(titulo=\"${2:TITULO}\").p-lg-4.align-items-center",
+      "        .col-lg-8.mb-4.mb-lg-0.order-lg-2",
+      "          h5 ${3:TITULO CUERPO}",
+      "          p.mb-0 ${4:TEXTO}",
+      "        .col-lg-4.order-lg-1",
+      "          figure",
+      "            img(src='@/assets/curso/tema2/${5:8}.png', alt='${6:ALT}')",
+      "",
+      "      .row(titulo=\"${7:TITULO}\").p-lg-4.align-items-center",
+      "        .col-lg-8.mb-4.mb-lg-0.order-lg-2",
+      "          h5 ${8:TITULO CUERPO}",
+      "          p.mb-0 ${9:TEXTO}",
+      "        .col-lg-4.order-lg-1",
+      "          figure",
+      "            img(src='@/assets/curso/tema2/${10:7}.png', alt='${11:ALT}')"
+    ],
+    "description": "Componente PasosB dentro de un contenedor de ancho completo"
+  },
+  "lineaTiempoC": {
+    "prefix": "sena_lineaTiempoC",
+    "body": [
+      ".bg-full-width.bg-fondo-${1:2}",
+      "  .p-4.p-lg-5",
+      "    LineaTiempoC.color-acento-contenido.bg-color-white.tarjeta.p-3.p-lg-4",
+      "      .row(titulo=\"${2:Paso 1}\").justify-content-center.align-items-center.p-3.p-lg-4",
+      "        .col-lg-6.mb-4.mb-lg-0",
+      "          h5 ${3:TITULO}",
+      "          p ${4:TEXTO}",
+      "        .col-lg-4",
+      "          figure",
+      "            img(src='@/assets/curso/tema5/${5:2}.png', alt='${6:ALT}')",
+      "      .row(titulo=\"${7:Paso 2}\").justify-content-center.align-items-center.p-3.p-lg-4",
+      "        .col-lg-6.mb-4.mb-lg-0",
+      "          h5 ${8:TITULO}",
+      "          p ${9:TEXTO}",
+      "        .col-lg-4",
+      "          figure",
+      "            img(src='@/assets/curso/tema5/${10:3}.png', alt='${11:ALT}')"
+    ],
+    "description": "Componente LineaTiempoC con contenedor de fondo"
+  }
+}
