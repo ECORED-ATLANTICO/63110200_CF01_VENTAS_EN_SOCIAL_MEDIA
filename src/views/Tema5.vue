@@ -5,7 +5,229 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 5
-      h1 Sistemas electrónicos básicos de control
+      h1 Comercio electrónico
+
+    .bg-full-width.bg-fondo-1
+
+      .bloque-texto-g.bg-color-02.p-3.p-sm-4.p-md-5.mb-5
+        .bloque-texto-g__img(
+          :style="{'background-image': `url(${require_src('@/assets/curso/tema5/img01.png')})`}"
+        )
+        .bloque-texto-g__texto.p-4
+          p.mb-0 El comercio electrónico transformó las dinámicas tradicionales de compra y venta mediante el uso de plataformas digitales y tecnologías orientadas a interacción comercial online. Actualmente, las organizaciones utilizan modelos digitales para comercializar productos, fortalecer posicionamiento y ampliar alcance comercial en mercados globalizados. Este entorno exige comprender herramientas, procesos y estrategias relacionadas con ventas digitales y experiencia del cliente. El capítulo desarrolla conceptos, ventajas, tipos y elementos del comercio electrónico aplicados a procesos comerciales y estrategias de ventas en social media.
+
+      separador
+      
+      #t_5_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+        h2 5.1 Concepto
+
+
+      .row.mb-4.justify-content-center.align-items-center
+        .col-lg-3.col-md-8.mb-0.mb-lg-0.order-1.order-lg-2
+          figure
+            img(src="@/assets/curso/tema5/img03.png", data-aos="zoom-in")
+        .col-lg-9.order-2.order-lg-1.mb-4.mb-lg-0
+
+          .row.mb-3.justify-content-center.align-items-center
+            .col-lg-5.col-md-8.mb-0.mb-lg-0.order-2.order-lg-1
+              figure
+                img(src="@/assets/curso/tema5/img02.png", data-aos="zoom-in")
+            .col-lg-7.order-1.order-lg-2.mb-4.mb-lg-0
+              .bg-color-07.p-4
+                p.mb-0(data-aos="fade-right") El comercio electrónico corresponde al conjunto de actividades comerciales desarrolladas mediante plataformas digitales y tecnologías orientadas a procesos de compra y venta online. Este modelo permite comercializar productos y servicios utilizando sitios web, aplicaciones móviles y redes sociales. Actualmente, las organizaciones implementan estrategias digitales para ampliar el alcance comercial y fortalecer la interacción con consumidores digitales. 
+
+          .bg-fondo-08.p-4.mb-3
+            p.mb-0 El comercio electrónico facilita procesos de conversión y optimiza experiencias relacionadas con acceso, comunicación y disponibilidad permanente de productos comerciales digitales.
+
+
+      .row.align-items-center(data-aos="fade-right")
+        .col-lg-12.mx-auto
+          .tarjeta.bg-fondo-03.p-3.mb-5
+            .row.justify-content-around.align-items-center
+              .col-3.col-sm-2.col-lg-2
+                img(src="@/assets/curso/tema1/img07.svg")
+              .col
+                .row.justify-content-between.align-items-center
+                  .col.mb-3.mb-sm-0
+                    h4.mb-1.bg-color-04.p-2.max-cont-md Visión general del comercio electrónico
+                    p.mb-0 Lo invitamos a consultar el siguiente recurso educativo, mediante el cual podrá profundizar en la temática abordada. Este corresponde a un video del Ecosistema de Recursos Educativos Digitales del SENA que presenta una visión general del comercio electrónico, su impacto en la comercialización digital, la transformación de los procesos empresariales y la importancia de las redes sociales y de la normatividad en entornos comerciales digitales.
+                    
+                  .col-sm-auto
+                    a.boton.bg-color-04(:href="'https://www.youtube.com/watch?v=KM-RhabB6qs'" target="_blank")
+                      span Ir al recurso
+                      i.fas.fa-link
+
+    separador
+    
+    #t_5_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 5.2 Ventajas
+
+
+    img(src="@/assets/curso/tema5/img05.png", alt="")
+    .row.justify-content-center.align-items-center.z-2.mb-5
+      .col-lg-11(data-aos="fade-right")
+        p.banner-text Las ventajas del comercio electrónico se relacionan con la capacidad de ampliar mercados, optimizar procesos comerciales y fortalecer la interacción con consumidores digitales. Este modelo permite desarrollar actividades comerciales sin limitaciones geográficas ni restricciones horarias tradicionales. Actualmente, las organizaciones implementan comercio electrónico para mejorar competitividad y fortalecer posicionamiento digital dentro de mercados dinámicos. Las ventajas estratégicas de este entorno favorecen el crecimiento empresarial y facilitan procesos relacionados con automatización, segmentación y personalización comercial digital.
+
+
+    .bg-full-width.bg-fondo-1
+
+      .row.mb-5.justify-content-center.align-items-center
+        .col-lg-4.mb-4.mb-lg-0.col-md-8.order-1.order-lg-1
+          figure
+            img(src="@/assets/curso/tema5/img06.png", data-aos="zoom-in")
+        .col-lg-8.order-2.order-lg-2.col-md-12.mb-4.mb-lg-0
+          SlyderF(columnas="col-lg-12 col-xl-6 col-md-12 col-sm-12 p-2")
+            .tarjeta.bg-fondo-04.p-4.h-100.br-15
+              .row.align-items-center.mb-3
+                .col-7
+                  h4.mb-0 Cobertura comercial
+                .col-5
+                  img(src='@/assets/curso/tema5/img07.svg' alt='Cobertura comercial', style="max-width: 80px;").mx-auto
+              p.mb-0 Permite ampliar el alcance empresarial mediante plataformas digitales. <br><b>Ejemplo:</b> una tienda virtual vende a clientes de diferentes ciudades mediante redes sociales y comercio electrónico.
+
+            .tarjeta.bg-fondo-04.p-4.h-100.br-15
+              .row.align-items-center.mb-3
+                .col-7
+                  h4.mb-0 Optimización operativa
+                .col-5
+                  img(src='@/assets/curso/tema5/img08.svg' alt='Optimización operativa', style="max-width: 80px;").mx-auto
+              p.mb-0 Facilita la automatización de pagos, pedidos y atención al cliente. <br><b>Ejemplo:</b> un comercio utiliza respuestas automáticas y pasarelas digitales para agilizar compras y consultas.
+
+            .tarjeta.bg-fondo-04.p-4.h-100.br-15
+              .row.align-items-center.mb-3
+                .col-7
+                  h4.mb-0 Disponibilidad permanente
+                .col-5
+                  img(src='@/assets/curso/tema5/img09.svg' alt='Disponibilidad permanente', style="max-width: 80px;").mx-auto
+              p.mb-0 Favorece procesos comerciales continuos mediante plataformas digitales accesibles. <br><b>Ejemplo:</b> una plataforma permite realizar pedidos las 24 horas desde cualquier ubicación con acceso a internet.
+
+            .tarjeta.bg-fondo-04.p-4.h-100.br-15
+              .row.align-items-center.mb-3
+                .col-7
+                  h4.mb-0 Análisis estratégico
+                .col-5
+                  img(src='@/assets/curso/tema5/img10.svg' alt='Análisis estratégico', style="max-width: 80px;").mx-auto
+              p.mb-0 Permite recopilar métricas e información comercial para fortalecer las decisiones empresariales. <br><b>Ejemplo:</b> una empresa analiza interacciones y conversiones digitales para optimizar campañas comerciales.
+
+      .row.align-items-center.mb-5(data-aos="fade-right")
+        .col-lg-8.mx-auto
+          .bg-color-09.br-15.mb-0
+            .row.align-items-center.justify-content-center(data-aos="fade-right")
+              .col-lg-auto.d-none.d-lg-block.order-lg-1
+                img(src="@/assets/curso/tema2/img06.svg").mx-auto
+              .col-lg-9.order-1.order-lg-2.p-4
+                .bg-color-08.p-2.mb-2.max-cont-md
+                  h4.mb-0.text-bold.text-white Clave estratégica
+                p.mb-0 Las ventajas del comercio electrónico fortalecen competitividad empresarial y mejoran procesos relacionados con ventas digitales y atención comercial.
+
+      separador
+
+      #t_5_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+        h2 5.3 Tipos
+
+
+
+      .row.mb-5.justify-content-center.align-items-center
+        .col-lg-4.col-md-12.mb-0.mb-lg-0.order-2.order-lg-1
+          figure
+            img(src="@/assets/curso/tema5/img12.png", data-aos="zoom-in")
+        .col-lg-8.order-1.order-lg-2.mb-4.mb-lg-0
+          p.mb-0(data-aos="fade-right") Los tipos de comercio electrónico permiten clasificar relaciones comerciales desarrolladas mediante plataformas digitales y tecnologías orientadas a procesos de compra y venta online, esta clasificación facilita comprender dinámicas comerciales, características del consumidor y modelos de interacción empresarial utilizados en mercados digitales contemporáneos. Dentro de los tipos más utilizados se encuentran B2B, B2C, C2C y C2B. Comprender estas modalidades fortalece procesos estratégicos relacionados con segmentación, posicionamiento y construcción de experiencias digitales orientadas a ventas y comercio electrónico.
+
+
+    .bg-full-width.bg-fondo-1
+
+      .row.justify-content-center.mb-5
+        .col-xl-3.col-lg-6.col-md-6.col-12.mb-4.mb-xl-0
+          .crd_hover_txt(data-aos="flip-left").tarjeta
+            .crd_hover_txt--img
+              figure
+                img(src="@/assets/curso/tema5/img13.png", alt="B2B")
+            .crd_hover_txt--body
+              h4.mb-3.text-center B2B
+              p.mb-0 Relaciona organizaciones mediante procesos comerciales digitales orientados al abastecimiento y a la negociación empresarial especializada y estratégica.
+
+        .col-xl-3.col-lg-6.col-md-6.col-12.mb-4.mb-xl-0
+          .crd_hover_txt(data-aos="flip-left").tarjeta
+            .crd_hover_txt--img
+              figure
+                img(src="@/assets/curso/tema5/img14.png", alt="B2C")
+            .crd_hover_txt--body
+              h4.mb-3.text-center B2C
+              p.mb-0 Facilita ventas digitales directas entre empresas y consumidores mediante experiencias comerciales digitales ágiles y personalizadas.
+
+        .col-xl-3.col-lg-6.col-md-6.col-12.mb-4.mb-xl-0
+          .crd_hover_txt(data-aos="flip-left").tarjeta
+            .crd_hover_txt--img
+              figure
+                img(src="@/assets/curso/tema5/img15.png", alt="C2C")
+            .crd_hover_txt--body
+              h4.mb-3.text-center C2C
+              p.mb-0 Permite la interacción comercial entre consumidores utilizando plataformas digitales colaborativas relacionadas con el intercambio y las ventas en línea.
+
+        .col-xl-3.col-lg-6.col-md-6.col-12.mb-4.mb-xl-0
+          .crd_hover_txt(data-aos="flip-left").tarjeta
+            .crd_hover_txt--img
+              figure
+                img(src="@/assets/curso/tema5/img16.png", alt="C2B")
+            .crd_hover_txt--body
+              h4.mb-3.text-center C2B
+              p.mb-0 Favorece relaciones donde consumidores ofrecen productos, servicios o contenidos a empresas dentro de entornos digitales actuales.
+
+
+      .row.mb-5.justify-content-center.align-items-center
+        .col-lg-3.col-md-8.mb-0.mb-lg-0.order-2.order-lg-1
+          figure
+            img(src="@/assets/curso/tema5/img17.png", data-aos="zoom-in")
+        .col-lg-9.order-1.order-lg-2.mb-4.mb-lg-0
+          h4 Ejemplo aplicado. Tipos de comercio electrónico en “Urban Style”
+          p.mb-0(data-aos="fade-right") El negocio “Urban Style” inicialmente desarrollaba ventas únicamente mediante interacción directa con consumidores finales a través de Instagram y WhatsApp Business. Sin embargo, identificó oportunidades comerciales relacionadas con distribución de prendas a pequeños emprendimientos interesados en comercialización de moda urbana dentro de plataformas digitales y mercados locales especializados. Posteriormente, la empresa fortaleció estrategias B2C orientadas a consumidores finales y desarrolló acuerdos B2B relacionados con ventas mayoristas para tiendas locales. Como resultado, amplió oportunidades comerciales, diversificó procesos de venta digital y fortaleció posicionamiento mediante diferentes modalidades de comercio electrónico adaptadas a sus objetivos empresariales.
+
+
+      separador
+    
+    #t_5_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 5.4 Elementos
+
+    .bg-full-width.bg-fondo-1
+
+
+      .bloque-texto-g.bg-color-12.p-3.p-sm-4.p-md-5.mb-5
+        .bloque-texto-g__img(
+          :style="{'background-image': `url(${require_src('@/assets/curso/tema5/img18.png')})`}"
+        )
+        .bloque-texto-g__texto.p-4
+          p.mb-0 Los elementos del comercio electrónico corresponden a componentes tecnológicos, comerciales y logísticos necesarios para desarrollar procesos de venta digital eficientes. Estos elementos permiten gestionar interacción comercial, pagos, atención y distribución mediante plataformas digitales. Actualmente, las organizaciones integran diferentes herramientas para fortalecer experiencia del cliente y optimizar procesos relacionados con conversión comercial online. Comprender estos componentes facilita implementación estratégica de modelos digitales orientados a ventas, posicionamiento y fortalecimiento de relaciones comerciales dentro de ecosistemas digitales contemporáneos.
+
+
+      .row.align-items-center.mb-5.justify-content-center
+        .col-lg-10.col-md-12
+          .row.justify-content-center.mb-0
+            .titulo-sexto.color-acento-contenido.mb-4
+              h5.text-bold.mb-2 Figura 3.
+              span Elementos del comercio electrónico
+            figure
+              img.mb-3(data-aos="fade-up", src="@/assets/curso/tema5/img19.png", alt="Infografía titulada “Elementos del comercio electrónico”. Presenta cuatro elementos relacionados con la operación del comercio electrónico: plataforma digital, pasarela de pagos, logística de entrega y analítica digital. La plataforma digital permite gestionar productos, contenidos y procesos comerciales; la pasarela de pagos facilita transacciones seguras; la logística de entrega favorece la distribución eficiente de productos; y la analítica digital permite interpretar métricas y comportamiento comercial para fortalecer la toma de decisiones estratégicas. Los elementos se presentan de manera articulada como componentes de los procesos comerciales digitales.").mx-auto.d-none.d-lg-block
+              img.mb-3(data-aos="fade-up", src="@/assets/curso/tema5/img20.png", alt="Infografía titulada “Elementos del comercio electrónico”. Presenta cuatro elementos relacionados con la operación del comercio electrónico: plataforma digital, pasarela de pagos, logística de entrega y analítica digital. La plataforma digital permite gestionar productos, contenidos y procesos comerciales; la pasarela de pagos facilita transacciones seguras; la logística de entrega favorece la distribución eficiente de productos; y la analítica digital permite interpretar métricas y comportamiento comercial para fortalecer la toma de decisiones estratégicas. Los elementos se presentan de manera articulada como componentes de los procesos comerciales digitales.").mx-auto.d-lg-none
+              figcaption Nota. SENA, (2026).
+
+    .row.align-items-center(data-aos="fade-right")
+      .col-lg-8.mx-auto
+        .bg-color-01.br-15.mb-0
+          .row.align-items-center.justify-content-center(data-aos="fade-right")
+            .col-lg-auto.d-none.d-lg-block.order-lg-1
+              img(src="@/assets/curso/tema1/img19.svg").mx-auto
+            .col-lg-9.order-1.order-lg-2.p-4
+              .bg-color-10.p-2.mb-2.max-cont-md
+                h4.mb-0.text-bold.text-white Cita de reflexión
+              p.mb-0 “El crecimiento del comercio electrónico requiere decisiones responsables orientadas a transparencia, confianza y compromiso permanente con el consumidor”.
+
+
+
+
+
+
+
 
     //- .bloque-texto-g.bg-color-04.p-3.p-sm-3.p-md-3.p-lg-4.mb-5
     //-   .bloque-texto-g__img(

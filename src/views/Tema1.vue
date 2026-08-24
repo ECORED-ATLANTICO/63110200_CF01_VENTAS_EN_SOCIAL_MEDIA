@@ -42,10 +42,10 @@
 
 
     .row.mb-5.justify-content-center.align-items-center
-      .col-lg-4.col-md-8.mb-0.mb-lg-0.order-1.order-lg-1
+      .col-lg-4.col-md-12.mb-4.mb-lg-0.order-1.order-lg-1
         figure
           img(src="@/assets/curso/tema1/img04.png", data-aos="zoom-in")
-      .col-lg-8.order-2.order-lg-2.mb-4.mb-lg-0
+      .col-lg-8.order-2.order-lg-2.mb-0.mb-lg-0
         p.mb-0(data-aos="fade-right") Los clientes digitales pueden clasificarse según la relación comercial establecida con las organizaciones y las dinámicas de compra desarrolladas en entornos digitales. Dentro de las tipologías más relevantes se encuentran los modelos B2B y B2C, ampliamente utilizados en estrategias comerciales digitales actuales. Estas clasificaciones permiten comprender procesos de negociación, necesidades de comunicación y características del comportamiento comercial. La identificación correcta del tipo de cliente facilita la toma de decisiones estratégicas relacionadas con contenidos, campañas y posicionamiento digital.
 
 
@@ -158,7 +158,7 @@
         p.banner-text Los arquetipos representan modelos simbólicos utilizados para comprender comportamientos, motivaciones y características comunes de determinados grupos de consumidores. En marketing digital, permiten construir estrategias comunicativas coherentes con emociones, expectativas y formas de interacción de los clientes. Su aplicación facilita la creación de mensajes consistentes y fortalece la identidad de marca. Las organizaciones utilizan arquetipos para conectar emocionalmente con audiencias específicas y desarrollar experiencias comerciales diferenciadas en entornos digitales competitivos.
 
     .row.mb-5.justify-content-center.align-items-center
-      .col-lg-3.col-md-8.mb-4.mb-lg-0.order-1.order-lg-1
+      .col-lg-3.col-md-12.mb-4.mb-lg-0.order-1.order-lg-1
         figure
           img(src="@/assets/curso/tema1/img12.png", data-aos="zoom-in").mx-auto
       .col-lg-9.order-2.order-lg-2.mb-0.mb-lg-0
@@ -208,7 +208,7 @@
       h2 1.5 Buyer persona
 
     .row.mb-5.justify-content-center.align-items-center
-      .col-lg-3.col-md-8.mb-0.mb-lg-0.order-2.order-lg-1
+      .col-lg-3.col-md-12.mb-0.mb-lg-0.order-2.order-lg-1
         figure
           img(src="@/assets/curso/tema1/img17.png", data-aos="zoom-in").mx-auto
       .col-lg-9.order-1.order-lg-2.mb-4.mb-lg-0
