@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Estrategia comercial digital',
     Description:
-      'El componente desarrolla fundamentos estratégicos relacionados con clientes digitales, comercio electrónico, campañas y customer journey aplicados a ventas en social media. Su enfoque fortalece capacidades relacionadas con segmentación, interacción digital, posicionamiento y planificación comercial mediante herramientas y estrategias orientadas al comportamiento del consumidor contemporáneo.',
+      'El componente desarrolla fundamentos estratégicos relacionados con clientes digitales, comercio electrónico, campañas y <em>customer journey</em> aplicados a ventas en <em>social media</em>. Su enfoque fortalece capacidades relacionadas con segmentación, interacción digital, posicionamiento y planificación comercial mediante herramientas y estrategias orientadas al comportamiento del consumidor contemporáneo.',
     imagenBannerPrincipal: '@/assets/curso/portada/banner-principal.png',
     fondoBannerPrincipal: '@/assets/curso/portada/fondo-banner-principal.png',
     imagenesDecorativasBanner: [
@@ -61,7 +61,7 @@ export default {
           },
           {
             numero: '1.5',
-            titulo: 'Buyer persona',
+            titulo: '<em>Buyer</em> persona',
             hash: 't_1_5',
           },
         ],
@@ -227,7 +227,7 @@ export default {
       {
         nombreRuta: 'tema8',
         numero: '8',
-        titulo: 'Customer journey',
+        titulo: '<em>Customer journey</em>',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -285,7 +285,7 @@ export default {
   },
   glosario: [
     {
-      termino: 'Buyer persona',
+      termino: '<em>Buyer</em> persona',
       significado:
         'Representación del cliente ideal construida mediante análisis de intereses, hábitos y comportamientos digitales específicos identificados previamente.',
     },
@@ -297,7 +297,7 @@ export default {
     {
       termino: 'Comercio electrónico',
       significado:
-        'Modelo comercial desarrollado mediante plataformas digitales orientadas a procesos de compra y venta online contemporáneos actuales.',
+        'Modelo comercial desarrollado mediante plataformas digitales orientadas a procesos de compra y venta <em>online</em> contemporáneos actuales.',
     },
     {
       termino: 'Conversión',
@@ -305,7 +305,7 @@ export default {
         'Acción realizada por el consumidor relacionada con compra, registro o interacción comercial dentro de plataformas digitales actuales.',
     },
     {
-      termino: 'Customer journey',
+      termino: '<em>Customer journey</em>',
       significado:
         'Recorrido desarrollado por el consumidor durante diferentes etapas de interacción con una marca digital contemporánea actual.',
     },

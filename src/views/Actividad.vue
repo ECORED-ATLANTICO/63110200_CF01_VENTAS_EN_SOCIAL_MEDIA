@@ -20,7 +20,7 @@ export default {
       tema: 'Estrategia comercial digital',
       titulo: 'Cuestionario',
       introduccion:
-        '<b>Objetivo:</b> Identificar conocimientos relacionados con clientes digitales, comercio electrónico, campañas y customer journey aplicados a ventas en social media.',
+        '<b>Objetivo:</b> identificar conocimientos relacionados con clientes digitales, comercio electrónico, campañas y <em>customer journey</em> aplicados a ventas en <em>social media</em>.',
       barajarPreguntas: true,
       titulo_aprobado: '¡EXCELENTE!',
       titulo_reprobado: 'VUELVA A INTENTARLO',
@@ -66,7 +66,7 @@ export default {
         {
           id: 2,
           texto:
-            '¿Qué representa el buyer persona dentro de estrategias comerciales?',
+            '¿Qué representa el <em>buyer</em> persona dentro de estrategias comerciales?',
           imagen: '@/assets/actividad/imagen2.png',
           barajarRespuestas: true,
           opciones: [
@@ -126,7 +126,7 @@ export default {
             {
               id: 'd',
               texto:
-                'Ampliar alcance comercial mediante plataformas digitales orientadas a ventas online.',
+                'Ampliar alcance comercial mediante plataformas digitales orientadas a ventas <em>online</em>.',
               esCorrecta: true,
             },
           ],
@@ -178,7 +178,7 @@ export default {
             {
               id: 'a',
               texto:
-                'Sustituir totalmente herramientas relacionadas con comercio electrónico y ventas online empresariales.',
+                'Sustituir totalmente herramientas relacionadas con comercio electrónico y ventas <em>online</em> empresariales.',
               esCorrecta: false,
             },
             {
@@ -274,7 +274,8 @@ export default {
         },
         {
           id: 8,
-          texto: '¿Qué permite fortalecer el análisis del customer journey?',
+          texto:
+            '¿Qué permite fortalecer el análisis del <em>customer journey</em>?',
           imagen: '@/assets/actividad/imagen4.png',
           barajarRespuestas: true,
           opciones: [
@@ -456,25 +457,25 @@ export default {
             {
               id: 'a',
               texto:
-                'Modelo C2B utilizado exclusivamente para procesos financieros empresariales digitales contemporáneos actuales.',
+                'Modelo <em>C2B</em> utilizado exclusivamente para procesos financieros empresariales digitales contemporáneos actuales.',
               esCorrecta: false,
             },
             {
               id: 'b',
               texto:
-                'Modelo B2B enfocado únicamente hacia negociaciones organizacionales comerciales estratégicas contemporáneas actuales.',
+                'Modelo <em>B2B</em> enfocado únicamente hacia negociaciones organizacionales comerciales estratégicas contemporáneas actuales.',
               esCorrecta: false,
             },
             {
               id: 'c',
               texto:
-                'Modelo B2C orientado a ventas digitales entre empresas y consumidores finales.',
+                'Modelo <em>B2C</em> orientado a ventas digitales entre empresas y consumidores finales.',
               esCorrecta: true,
             },
             {
               id: 'd',
               texto:
-                'Modelo C2C relacionado exclusivamente con interacción entre consumidores digitales empresariales actuales.',
+                'Modelo <em>C2C</em> relacionado exclusivamente con interacción entre consumidores digitales empresariales actuales.',
               esCorrecta: false,
             },
           ],
@@ -694,7 +695,7 @@ export default {
         {
           id: 20,
           texto:
-            '¿Qué permite optimizar el customer journey dentro de experiencias comerciales?',
+            '¿Qué permite optimizar el <em>customer journey</em> dentro de experiencias comerciales?',
           imagen: '@/assets/actividad/imagen4.png',
           barajarRespuestas: true,
           opciones: [

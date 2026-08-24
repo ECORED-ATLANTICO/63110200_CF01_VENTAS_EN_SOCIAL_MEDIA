@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 8
-      h1 Customer journey
+      h1 <em>Customer journey</em>
 
 </template>
 

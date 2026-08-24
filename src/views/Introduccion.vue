@@ -18,7 +18,7 @@
             figure
               img(src="@/assets/curso/intro/img01.png", data-aos="zoom-in")
           .col-lg-7.order-1.order-lg-2.mb-4.mb-lg-0
-            p.mb-0(data-aos="fade-right") Este componente formativo aborda fundamentos estratégicos relacionados con clientes digitales, comercio electrónico, campañas y redes sociales orientados a los procesos de ventas en social media. Su desarrollo permite comprender cómo las organizaciones identifican perfiles de clientes, estructuran estrategias comerciales y utilizan entornos digitales para fortalecer la interacción, el posicionamiento y la conversión comercial en mercados altamente dinámicos.
+            p.mb-0(data-aos="fade-right") Este componente formativo aborda fundamentos estratégicos relacionados con clientes digitales, comercio electrónico, campañas y redes sociales orientados a los procesos de ventas en <em>social media</em>. Su desarrollo permite comprender cómo las organizaciones identifican perfiles de clientes, estructuran estrategias comerciales y utilizan entornos digitales para fortalecer la interacción, el posicionamiento y la conversión comercial en mercados altamente dinámicos.
            
         .bg-fondo-01.br-15.mb-0.p-4
             p.mb-0 El componente fortalece competencias analíticas y aplicadas mediante el estudio de conceptos, casos empresariales y herramientas utilizadas en estrategias digitales contemporáneas. 

@@ -13,7 +13,7 @@
         figure
           img(src="@/assets/curso/tema3/img01.png", data-aos="zoom-in").mx-auto
       .col-lg-8.order-2.order-lg-2.mb-0.mb-lg-0
-        p.mb-0(data-aos="fade-right")  La negociación representa un proceso estratégico mediante el cual dos o más partes buscan acuerdos relacionados con intereses comerciales, necesidades y objetivos específicos. En entornos digitales, este proceso adquirió nuevas dinámicas debido al crecimiento del comercio electrónico, redes sociales y plataformas de interacción online. Actualmente, las organizaciones utilizan estrategias de negociación para fortalecer relaciones comerciales, incrementar conversiones y mejorar experiencias del cliente digital. Este capítulo desarrolla conceptos, tipologías y aplicaciones de la negociación dentro de contextos relacionados con ventas en social media y procesos comerciales digitales.
+        p.mb-0(data-aos="fade-right")  La negociación representa un proceso estratégico mediante el cual dos o más partes buscan acuerdos relacionados con intereses comerciales, necesidades y objetivos específicos. En entornos digitales, este proceso adquirió nuevas dinámicas debido al crecimiento del comercio electrónico, redes sociales y plataformas de interacción <em>online</em>. Actualmente, las organizaciones utilizan estrategias de negociación para fortalecer relaciones comerciales, incrementar conversiones y mejorar experiencias del cliente digital. Este capítulo desarrolla conceptos, tipologías y aplicaciones de la negociación dentro de contextos relacionados con ventas en <em>social media</em> y procesos comerciales digitales.
 
 
     separador
@@ -63,7 +63,7 @@
           .col-lg-8.mb-4.mb-md-0.p-4.order-lg-2
             h4 Integrativa
             p.mb-3 <b>Características estratégicas:</b> busca beneficios compartidos mediante cooperación y fortalecimiento de relaciones comerciales sostenibles entre las partes involucradas.
-            p.mb-0 <b>Ejemplo aplicado:</b> una marca de ropa acuerda campañas colaborativas con influencers para aumentar alcance y beneficios mutuos digitales.
+            p.mb-0 <b>Ejemplo aplicado:</b> una marca de ropa acuerda campañas colaborativas con <em>influencers</em> para aumentar alcance y beneficios mutuos digitales.
           .col-lg-4.col-md-10.mb-3.mb-lg-0.order-lg-1
             figure
               img(src='@/assets/curso/tema3/img05.png', alt='Integrativa')
@@ -73,7 +73,7 @@
           .col-lg-8.mb-4.mb-md-0.p-4.order-lg-2
             h4 Colaborativa
             p.mb-3 <b>Características estratégicas:</b> promueve soluciones conjuntas orientadas a satisfacción mutua y construcción de experiencias comerciales positivas digitales contemporáneas.
-            p.mb-0 <b>Ejemplo aplicado:</b> un negocio online adapta condiciones de entrega según necesidades del cliente para fortalecer confianza y fidelización comercial.
+            p.mb-0 <b>Ejemplo aplicado:</b> un negocio <em>online</em> adapta condiciones de entrega según necesidades del cliente para fortalecer confianza y fidelización comercial.
           .col-lg-4.col-md-10.mb-3.mb-lg-0.order-lg-1
             figure
               img(src='@/assets/curso/tema3/img06.png', alt='Colaborativa')

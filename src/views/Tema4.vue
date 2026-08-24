@@ -13,7 +13,7 @@
       img(src="@/assets/curso/tema4/img01.png", alt="")
       .row.justify-content-center.align-items-center.z-2.mb-5
         .col-lg-11(data-aos="fade-right")
-          p.banner-text Las matrices de estrategia de mercadeo permiten organizar información relacionada con objetivos comerciales, segmentación, posicionamiento y acciones orientadas al fortalecimiento de ventas digitales. Actualmente, las organizaciones utilizan estas herramientas para estructurar campañas, analizar mercados y optimizar procesos comerciales en plataformas digitales. Su aplicación facilita toma de decisiones estratégicas y mejora coordinación de acciones relacionadas con contenidos, clientes y redes sociales. Este capítulo desarrolla conceptos, tipologías y procesos de elaboración de matrices aplicadas a estrategias comerciales digitales y ventas en social media.
+          p.banner-text Las matrices de estrategia de mercadeo permiten organizar información relacionada con objetivos comerciales, segmentación, posicionamiento y acciones orientadas al fortalecimiento de ventas digitales. Actualmente, las organizaciones utilizan estas herramientas para estructurar campañas, analizar mercados y optimizar procesos comerciales en plataformas digitales. Su aplicación facilita toma de decisiones estratégicas y mejora coordinación de acciones relacionadas con contenidos, clientes y redes sociales. Este capítulo desarrolla conceptos, tipologías y procesos de elaboración de matrices aplicadas a estrategias comerciales digitales y ventas en <em>social media</em>.
 
       separador
       
@@ -28,7 +28,7 @@
           p.mb-3(data-aos="fade-right") La matriz de estrategia de mercadeo corresponde a una herramienta utilizada para organizar acciones comerciales relacionadas con objetivos, segmentos y canales digitales, su propósito consiste en facilitar análisis estratégicos y orientar decisiones relacionadas con posicionamiento, contenidos y campañas digitales. 
           
           .bg-color-01.p-4.mb-0.br-15
-            p.mb-0 Actualmente, las organizaciones utilizan matrices para estructurar procesos comerciales y optimizar recursos dentro de mercados altamente competitivos, esta herramienta permite relacionar información comercial relevante y fortalecer planificación orientada a ventas digitales y social media.
+            p.mb-0 Actualmente, las organizaciones utilizan matrices para estructurar procesos comerciales y optimizar recursos dentro de mercados altamente competitivos, esta herramienta permite relacionar información comercial relevante y fortalecer planificación orientada a ventas digitales y <em>social media</em>.
 
 
       .row.mb-3.justify-content-center.align-items-center
@@ -156,7 +156,7 @@
             tbody
               tr
                 td Incrementar ventas de prendas casuales en un 20 % durante tres meses.
-                td Mujeres entre 25 y 40 años interesadas en moda y compras online.
+                td Mujeres entre 25 y 40 años interesadas en moda y compras <em>online</em>.
                 td Acceso rápido a prendas versátiles para trabajo y actividades cotidianas.
                 td Instagram y Facebook.
                 td Publicar contenidos de producto, testimonios y promociones semanales segmentadas.
@@ -189,7 +189,7 @@
       .row.mb-5.justify-content-center.align-items-center
         .col-lg-12
           .cajon.bg-color-07.p-4.mb-0
-            p.mb-0 Posteriormente, se definen acciones estratégicas alineadas con cada objetivo y segmento identificados.  Finalmente, se establecen indicadores que permiten evaluar los resultados obtenidos. La interacción entre objetivos, segmentos, necesidades, canales, acciones e indicadores facilita una gestión comercial estructurada y orientada a resultados, fortaleciendo la toma de decisiones dentro de estrategias de ventas en social media.
+            p.mb-0 Posteriormente, se definen acciones estratégicas alineadas con cada objetivo y segmento identificados.  Finalmente, se establecen indicadores que permiten evaluar los resultados obtenidos. La interacción entre objetivos, segmentos, necesidades, canales, acciones e indicadores facilita una gestión comercial estructurada y orientada a resultados, fortaleciendo la toma de decisiones dentro de estrategias de ventas en <em>social media</em>.
 
 
 

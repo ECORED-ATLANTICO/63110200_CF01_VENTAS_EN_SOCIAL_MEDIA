@@ -29,7 +29,7 @@
       .row.mb-5.justify-content-center.align-items-center
         .col-lg-12.col-md-12
           .cajon.bg-color-01.p-4
-            p.mb-0 Este capítulo desarrolla aspectos relacionados con el concepto, la tipología, los usos, los componentes y la normativa de la información personal aplicada a procesos comerciales y ventas en social media.
+            p.mb-0 Este capítulo desarrolla aspectos relacionados con el concepto, la tipología, los usos, los componentes y la normativa de la información personal aplicada a procesos comerciales y ventas en <em>social media</em>.
 
       separador
       
@@ -177,7 +177,7 @@
         p.mb-3(data-aos="fade-right") La información personal se encuentra integrada por diferentes componentes utilizados para identificar, caracterizar y comprender consumidores dentro de entornos digitales y comerciales, estos componentes permiten estructurar bases de datos organizadas y fortalecer procesos relacionados con segmentación, análisis comercial y personalización de experiencias digitales. 
         
         .cajon.bg-color-01.p-4
-          p.mb-0 Actualmente, las organizaciones recopilan múltiples tipos de información para optimizar estrategias comerciales y comprender dinámicas de interacción de sus clientes, la adecuada identificación de estos elementos fortalece decisiones estratégicas relacionadas con social media y ventas digitales.
+          p.mb-0 Actualmente, las organizaciones recopilan múltiples tipos de información para optimizar estrategias comerciales y comprender dinámicas de interacción de sus clientes, la adecuada identificación de estos elementos fortalece decisiones estratégicas relacionadas con <em>social media</em> y ventas digitales.
 
 
     TabsC.color-primario(data-aos="zoom-in")

@@ -12,7 +12,7 @@
       img(src="@/assets/curso/tema1/img01.png", alt="")
       .row.justify-content-center.align-items-center.z-2.mb-5
         .col-lg-11(data-aos="fade-right")
-          p.banner-text La transformación digital modificó la manera en que las organizaciones comprenden, segmentan e interactúan con los consumidores. Actualmente, los clientes digitales participan activamente en procesos de búsqueda, comparación y validación de productos mediante plataformas digitales y redes sociales. Comprender sus comportamientos, necesidades y expectativas resulta fundamental para estructurar estrategias comerciales efectivas. Este capítulo desarrolla conceptos relacionados con clientes digitales, tipologías, perfiles, arquetipos y buyer persona, integrando aplicaciones estratégicas orientadas al fortalecimiento de procesos comerciales y ventas en social media.
+          p.banner-text La transformación digital modificó la manera en que las organizaciones comprenden, segmentan e interactúan con los consumidores. Actualmente, los clientes digitales participan activamente en procesos de búsqueda, comparación y validación de productos mediante plataformas digitales y redes sociales. Comprender sus comportamientos, necesidades y expectativas resulta fundamental para estructurar estrategias comerciales efectivas. Este capítulo desarrolla conceptos relacionados con clientes digitales, tipologías, perfiles, arquetipos y <em>buyer</em> persona, integrando aplicaciones estratégicas orientadas al fortalecimiento de procesos comerciales y ventas en <em>social media</em>.
 
       separador
       
@@ -27,10 +27,10 @@
           p.mb-0 Los clientes digitales corresponden a usuarios que interactúan con organizaciones mediante plataformas tecnológicas, redes sociales, aplicaciones y canales digitales durante procesos de búsqueda, comparación y compra; su comportamiento se caracteriza por la inmediatez, la conectividad y el acceso permanente a información comercial. Las organizaciones deben comprender sus dinámicas para construir estrategias comerciales alineadas con las expectativas digitales. Este enfoque transforma los procesos tradicionales de ventas y fortalece la personalización de experiencias comerciales digitales.
       
       .row.mb-5.justify-content-center.align-items-center
-        .col-lg-4.col-md-8.mb-0.mb-lg-0.order-2.order-lg-2
+        .col-lg-4.col-md-8.mb-4.mb-lg-0.order-1.order-lg-2
           figure
             img(src="@/assets/curso/tema1/img03.png", data-aos="zoom-in")
-        .col-lg-8.order-1.order-lg-1.mb-4.mb-lg-0
+        .col-lg-8.order-2.order-lg-1.mb-0.mb-lg-0
           h4  Ejemplo aplicado. Transformación digital de “Urban Style”
           p.mb-0(data-aos="fade-right") El negocio local “Urban Style”, dedicado a la venta de prendas casuales, identificó disminución en ventas físicas debido al incremento de competidores digitales. Inicialmente, el negocio utilizaba redes sociales únicamente como vitrina visual, sin comprender el comportamiento del cliente digital ni sus necesidades de interacción inmediata. Después de analizar comentarios, métricas e intereses de usuarios, el negocio implementó respuestas automatizadas, publicaciones segmentadas y contenidos dinámicos orientados a públicos juveniles. La estrategia permitió identificar preferencias relacionadas con promociones rápidas, recomendaciones personalizadas y formatos audiovisuales cortos. Como resultado, “Urban Style” incrementó la interacción digital, fortaleció el posicionamiento de marca y mejoró oportunidades de conversión mediante plataformas sociales.
 
@@ -46,7 +46,7 @@
         figure
           img(src="@/assets/curso/tema1/img04.png", data-aos="zoom-in")
       .col-lg-8.order-2.order-lg-2.mb-0.mb-lg-0
-        p.mb-0(data-aos="fade-right") Los clientes digitales pueden clasificarse según la relación comercial establecida con las organizaciones y las dinámicas de compra desarrolladas en entornos digitales. Dentro de las tipologías más relevantes se encuentran los modelos B2B y B2C, ampliamente utilizados en estrategias comerciales digitales actuales. Estas clasificaciones permiten comprender procesos de negociación, necesidades de comunicación y características del comportamiento comercial. La identificación correcta del tipo de cliente facilita la toma de decisiones estratégicas relacionadas con contenidos, campañas y posicionamiento digital.
+        p.mb-0(data-aos="fade-right") Los clientes digitales pueden clasificarse según la relación comercial establecida con las organizaciones y las dinámicas de compra desarrolladas en entornos digitales. Dentro de las tipologías más relevantes se encuentran los modelos <em>B2B</em> y <em>B2C</em>, ampliamente utilizados en estrategias comerciales digitales actuales. Estas clasificaciones permiten comprender procesos de negociación, necesidades de comunicación y características del comportamiento comercial. La identificación correcta del tipo de cliente facilita la toma de decisiones estratégicas relacionadas con contenidos, campañas y posicionamiento digital.
 
 
 
@@ -64,17 +64,15 @@
       .col-lg-12.mx-auto
         .tarjeta.bg-fondo-03.p-3.mb-5
           .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-lg-2
+            .col-6.col-sm-4.col-md-3.col-lg-2.mb-3.mb-lg-0.mx-auto.mx-lg-0.text-center
               img(src="@/assets/curso/tema1/img07.svg")
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  h4.mb-1.bg-color-04.p-2.max-cont-md Tipos de clientes
-                  p.mb-0 Lo invitamos a consultar el siguiente recurso educativo por medio del cual podrá profundizar en temática abordada, el cual corresponde a un video del Ecosistema de Recursos Educativos Digitales SENA el cual explica diferentes tipos de clientes y sus comportamientos durante procesos comerciales y de microcrédito, destacando características, necesidades y niveles de relación con la entidad financiera.   
-                .col-sm-auto
-                  a.boton.bg-color-04(:href="'https://www.youtube.com/watch?v=1dIqszM7mZA'" target="_blank")
-                    span Ir al recurso
-                    i.fas.fa-link
+            .col-12.col-lg.mb-2.mb-lg-0
+              h4.mb-2.bg-color-04.p-2.max-cont-md.mx-auto.mx-lg-0.text-center.text-lg-start Tipos de clientes
+              p.mb-0 Lo invitamos a consultar el siguiente recurso educativo por medio del cual podrá profundizar en temática abordada, el cual corresponde a un video del Ecosistema de Recursos Educativos Digitales SENA el cual explica diferentes tipos de clientes y sus comportamientos durante procesos comerciales y de microcrédito, destacando características, necesidades y niveles de relación con la entidad financiera.   
+            .col-12.col-lg-auto.text-center
+              a.boton.bg-color-04(:href="'https://www.youtube.com/watch?v=1dIqszM7mZA'" target="_blank")
+                span Ir al recurso
+                i.fas.fa-link
 
 
     .row.align-items-center(data-aos="fade-right")
@@ -155,7 +153,7 @@
     img(src="@/assets/curso/tema1/img11.png", alt="")
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-11(data-aos="fade-right")
-        p.banner-text Los arquetipos representan modelos simbólicos utilizados para comprender comportamientos, motivaciones y características comunes de determinados grupos de consumidores. En marketing digital, permiten construir estrategias comunicativas coherentes con emociones, expectativas y formas de interacción de los clientes. Su aplicación facilita la creación de mensajes consistentes y fortalece la identidad de marca. Las organizaciones utilizan arquetipos para conectar emocionalmente con audiencias específicas y desarrollar experiencias comerciales diferenciadas en entornos digitales competitivos.
+        p.banner-text Los arquetipos representan modelos simbólicos utilizados para comprender comportamientos, motivaciones y características comunes de determinados grupos de consumidores. En <em>marketing</em> digital, permiten construir estrategias comunicativas coherentes con emociones, expectativas y formas de interacción de los clientes. Su aplicación facilita la creación de mensajes consistentes y fortalece la identidad de marca. Las organizaciones utilizan arquetipos para conectar emocionalmente con audiencias específicas y desarrollar experiencias comerciales diferenciadas en entornos digitales competitivos.
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-3.col-md-12.mb-4.mb-lg-0.order-1.order-lg-1
@@ -205,32 +203,29 @@
     separador
     
     #t_1_5.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 1.5 Buyer persona
+      h2 1.5 <em>Buyer</em> persona
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-3.col-md-12.mb-0.mb-lg-0.order-2.order-lg-1
         figure
           img(src="@/assets/curso/tema1/img17.png", data-aos="zoom-in").mx-auto
       .col-lg-9.order-1.order-lg-2.mb-4.mb-lg-0
-        p.mb-0(data-aos="fade-right") El buyer persona corresponde a una representación semificticia del cliente ideal construida mediante información demográfica, conductual, psicográfica y comercial obtenida a partir del análisis de datos reales. Su propósito consiste en comprender necesidades, motivaciones, intereses y comportamientos de los consumidores digitales para diseñar estrategias comerciales más efectivas. Actualmente, las organizaciones utilizan buyer personas para fortalecer campañas, personalizar contenidos y optimizar procesos de interacción digital orientados a mejorar la conversión y la fidelización comercial.
+        p.mb-0(data-aos="fade-right") El <em>buyer</em> persona corresponde a una representación semificticia del cliente ideal construida mediante información demográfica, conductual, psicográfica y comercial obtenida a partir del análisis de datos reales. Su propósito consiste en comprender necesidades, motivaciones, intereses y comportamientos de los consumidores digitales para diseñar estrategias comerciales más efectivas. Actualmente, las organizaciones utilizan <em>buyer</em> personas para fortalecer campañas, personalizar contenidos y optimizar procesos de interacción digital orientados a mejorar la conversión y la fidelización comercial.
 
 
     .row.align-items-center(data-aos="fade-right")
       .col-lg-12.mx-auto
         .tarjeta.bg-fondo-03.p-3.mb-5
           .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-lg-2
+            .col-6.col-sm-4.col-md-3.col-lg-2.mb-3.mb-lg-0.mx-auto.mx-lg-0.text-center
               img(src="@/assets/curso/tema1/img07.svg")
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  h4.mb-1.bg-color-04.p-2.max-cont-md ¿Qué es un buyer persona y qué tipos hay?
-                  p.mb-0 Lo invitamos a visitar el siguiente enlace en donde podrá apreciar una página que explica el concepto de buyer persona, destacando su importancia para diseñar estrategias de marketing más precisas, personalizadas y orientadas a mejorar la conexión con los consumidores.
-                  
-                .col-sm-auto
-                  a.boton.bg-color-04(:href="'https://www.unir.net/revista/marketing-comunicacion/buyer-persona/'" target="_blank")
-                    span Ir al recurso
-                    i.fas.fa-link
+            .col-12.col-lg.mb-2.mb-lg-0
+              h4.mb-2.bg-color-04.p-2.max-cont-md.mx-auto.mx-lg-0.text-center.text-lg-start ¿Qué es un <em>buyer</em> persona y qué tipos hay?
+              p.mb-0 Lo invitamos a visitar el siguiente enlace en donde podrá apreciar una página que explica el concepto de <em>buyer</em> persona, destacando su importancia para diseñar estrategias de <em>marketing</em> más precisas, personalizadas y orientadas a mejorar la conexión con los consumidores.
+            .col-12.col-lg-auto.text-center
+              a.boton.bg-color-04(:href="'https://www.unir.net/revista/marketing-comunicacion/buyer-persona/'" target="_blank")
+                span Ir al recurso
+                i.fas.fa-link
 
 
     .row.mb-5.justify-content-center.align-items-center
@@ -238,8 +233,8 @@
         figure
           img(src="@/assets/curso/tema1/img18.png", data-aos="zoom-in")
       .col-lg-8.order-1.order-lg-1.mb-4.mb-lg-0
-        h4 Ejemplo aplicado. Construcción del buyer persona en “Urban Style”
-        p.mb-3(data-aos="fade-right") Después de analizar interacciones digitales y hábitos de consumo, “Urban Style” identificó que gran parte de sus seguidores correspondían a jóvenes universitarios interesados en moda urbana, promociones digitales y contenido audiovisual dinámico. A partir de esta información, la empresa construyó un buyer persona denominado “Camila”, estudiante de 22 años, usuaria activa de Instagram y TikTok, interesada en tendencias de moda accesibles y compras rápidas mediante plataformas digitales. 
+        h4 Ejemplo aplicado. Construcción del <em>buyer</em> persona en “Urban Style”
+        p.mb-3(data-aos="fade-right") Después de analizar interacciones digitales y hábitos de consumo, “Urban Style” identificó que gran parte de sus seguidores correspondían a jóvenes universitarios interesados en moda urbana, promociones digitales y contenido audiovisual dinámico. A partir de esta información, la empresa construyó un <em>buyer</em> persona denominado “Camila”, estudiante de 22 años, usuaria activa de Instagram y TikTok, interesada en tendencias de moda accesibles y compras rápidas mediante plataformas digitales. 
 
         .cajon.bg-color-01.p-4
           p.mb-0 Con base en este perfil, el negocio ajustó sus publicaciones, implementó promociones limitadas y fortaleció estrategias de contenido visual orientadas a experiencias dinámicas. Como resultado, incrementó la interacción digital, mejoró el alcance comercial y fortaleció procesos de conversión mediante contenidos alineados con intereses específicos del cliente identificado.
