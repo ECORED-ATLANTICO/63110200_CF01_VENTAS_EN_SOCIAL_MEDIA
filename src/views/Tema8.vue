@@ -111,9 +111,9 @@
 
     .row.mb-3.mb-lg-5.justify-content-center.align-items-center
       .col-lg-12.col-md-12.order-1.order-lg-2.mb-5.mb-lg-0
-        .bg-fondo-05.p-5
-          SlyderA(tipo="b").bg-color-white.p-3.tarjeta
-            .tarjeta.p-4.h-100.mb-0
+        .bg-fondo-05.p-3.p-lg-5
+          SlyderA(tipo="b").bg-color-white.p-1.p-lg-3.tarjeta
+            .tarjeta.p-2.p-lg-3.h-100.mb-0
               .row.align-items-center.justify-content-center.mb-0
                 .col-lg-7.mb-4.mb-lg-0.order-1.order-lg-2
                   h4 Optimización de experiencia
@@ -122,7 +122,7 @@
                   figure
                     img(src="@/assets/curso/tema8/img10.png", data-aos="zoom-in").mx-auto
 
-            .tarjeta.p-4.h-100.mb-0
+            .tarjeta.p-2.p-lg-3.h-100.mb-0
               .row.align-items-center.justify-content-center.mb-0
                 .col-lg-7.mb-4.mb-lg-0.order-1.order-lg-2
                   h4 Análisis de comportamiento
@@ -131,7 +131,7 @@
                   figure
                     img(src="@/assets/curso/tema8/img11.png", data-aos="zoom-in").mx-auto
 
-            .tarjeta.p-4.h-100.mb-0
+            .tarjeta.p-2.p-lg-3.h-100.mb-0
               .row.align-items-center.justify-content-center.mb-0
                 .col-lg-7.mb-4.mb-lg-0.order-1.order-lg-2
                   h4 Personalización comercial
@@ -140,7 +140,7 @@
                   figure
                     img(src="@/assets/curso/tema8/img12.png", data-aos="zoom-in").mx-auto
 
-            .tarjeta.p-4.h-100.mb-0
+            .tarjeta.p-2.p-lg-3.h-100.mb-0
               .row.align-items-center.justify-content-center.mb-0
                 .col-lg-7.mb-4.mb-lg-0.order-1.order-lg-2
                   h4 Fidelización digital

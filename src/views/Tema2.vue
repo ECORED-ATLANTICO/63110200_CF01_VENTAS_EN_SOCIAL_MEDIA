@@ -243,19 +243,19 @@
         .col-lg-8.col-md-12.order-1.order-lg-2.mb-4.mb-lg-0
           .bg-fondo-05.p-4
             SlyderA(tipo="b").bg-color-white.p-3.tarjeta
-              .tarjeta.p-4.h-100.mb-0
+              .tarjeta.p-2.p-lg-4.h-100.mb-0
                 h4 Legalidad
                 p.mb-0 Garantiza que el tratamiento de datos personales se realice conforme a disposiciones normativas y jurídicas vigentes.
 
-              .tarjeta.p-4.h-100.mb-0
+              .tarjeta.p-2.p-lg-4.h-100.mb-0
                 h4 Transparencia
                 p.mb-0 Permite informar claramente al consumidor sobre uso, almacenamiento y tratamiento de información personal recopilada digitalmente.
 
-              .tarjeta.p-4.h-100.mb-0
+              .tarjeta.p-2.p-lg-4.h-100.mb-0
                 h4 Seguridad
                 p.mb-0 Exige implementar medidas técnicas y administrativas para proteger información personal frente a riesgos digitales existentes.
 
-              .tarjeta.p-4.h-100.mb-0
+              .tarjeta.p-2.p-lg-4.h-100.mb-0
                 h4 Confidencialidad
                 p.mb-0 Garantiza protección y reserva de información personal utilizada dentro de procesos comerciales y plataformas digitales empresariales.
 

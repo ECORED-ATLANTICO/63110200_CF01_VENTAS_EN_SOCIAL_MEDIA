@@ -70,9 +70,9 @@
 
       .row.mb-3.mb-lg-5.justify-content-center.align-items-center
         .col-lg-12.col-md-12.order-1.order-lg-2.mb-5.mb-lg-0
-          .bg-fondo-05.p-5
-            SlyderA(tipo="b").bg-color-white.p-3.tarjeta
-              .tarjeta.p-4.h-100.mb-0
+          .bg-fondo-05.p-3.p-lg-5
+            SlyderA(tipo="b").bg-color-white.p-1.p-lg-3.tarjeta
+              .tarjeta.p-2.p-lg-3.h-100.mb-0
                 .row.align-items-center.justify-content-center.mb-0
                   .col-lg-8.mb-4.mb-lg-0.order-1.order-lg-2
                     h4 DOFA
@@ -81,7 +81,7 @@
                     figure
                       img(src="@/assets/curso/tema4/img06.png", data-aos="zoom-in").mx-auto
 
-              .tarjeta.p-4.h-100.mb-0
+              .tarjeta.p-2.p-lg-3.h-100.mb-0
                 .row.align-items-center.justify-content-center.mb-0
                   .col-lg-8.mb-4.mb-lg-0.order-1.order-lg-2
                     h4 Ansoff
@@ -90,7 +90,7 @@
                     figure
                       img(src="@/assets/curso/tema4/img07.png", data-aos="zoom-in").mx-auto
 
-              .tarjeta.p-4.h-100.mb-0
+              .tarjeta.p-2.p-lg-3.h-100.mb-0
                 .row.align-items-center.justify-content-center.mb-0
                   .col-lg-8.mb-4.mb-lg-0.order-1.order-lg-2
                     h4 BCG
@@ -99,7 +99,7 @@
                     figure
                       img(src="@/assets/curso/tema4/img08.png", data-aos="zoom-in").mx-auto
 
-              .tarjeta.p-4.h-100.mb-0
+              .tarjeta.p-2.p-lg-3.h-100.mb-0
                 .row.align-items-center.justify-content-center.mb-0
                   .col-lg-8.mb-4.mb-lg-0.order-1.order-lg-2
                     h4 Competitiva
