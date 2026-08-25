@@ -344,10 +344,16 @@ figcaption
   border-radius: 15px
 
 .bg-fondo-09
-  // background-image: url("../assets/curso/tema3/bg06.png") !important
+  background-image: url("../assets/curso/tema7/bg07.png") !important
   background-position: center
   background-size: cover
   border-radius: 15px
+
+// .bg-fondo-09
+//   // background-image: url("../assets/curso/tema3/bg06.png") !important
+//   background-position: center
+//   background-size: cover
+//   border-radius: 15px
 
 .bg-fondo-11
   // background-image: url("../assets/curso/tema4/bg07.png") !important
@@ -508,15 +514,18 @@ figcaption
 
 // Tabs A
 .tabs-a__tab
-  background-color: #B5BFCC !important
+  background-color: #7500D3 !important
   white-space: normal
   height: stretch
+  color: #fff !important
 .tabs-a.color-acento-botones .tabs-a__tab__selected
-  background-color: #74A2F2 !important
-  color: $color-sistema-texto
+  background-color: #E3CCF6 !important
+  color: $color-sistema-texto !important
 .tabs-a__content-item
   display: flex
-  height: fit-content
+  height: 97%
+  @media screen and ( max-width: $bp-max-sm )
+    height: fit-content
 .tabs-a
   .row
     .mb-3
@@ -526,7 +535,7 @@ figcaption
     .tabs-a__tab__selected,
     .tabs-a__tab__selected:before,
     .tabs-a__tab:hover
-      background-color: #D1D2F7
+      background-color: #E3CCF6
 
   // Ajuste tamaño contenedor izquierdo Tabs A
   @media (min-width: 1200px)
@@ -829,6 +838,9 @@ a, button, div
 .bg-color-12
   background-color: #F8DBFD
 
+.bg-color-13
+  background-color: #E3CCF6
+
 // Background colors utilities (Keep used ones)
 .bg-color-1
   background-color: #EAF1FA
@@ -924,7 +936,7 @@ a, button, div
   background-color: #C5CFF0
 
 .tarjeta.color-acento-botones--borde
-  background-color: #F0F5FD
+  background-color: #F1E6FB
   // background-image: url("../assets/curso/tema1/bg04.png") !important
   background-size: cover
   background-position: buttom
@@ -932,14 +944,14 @@ a, button, div
   border: solid 1px transparent !important
 
 .tabs-a.color-acento-botones .tabs-a__tab__selected:before
-  background-color: #74A2F2 !important
+  background-color: #E3CCF6 !important
 
 .tabs-a.color-acento-botones .tabs-a__tab__selected:hover
-  background-color: #74A2F2 !important
+  background-color: #E3CCF6 !important
 
 .tabs-a.color-acento-botones .tabs-a__tab:hover
-  background-color: #74A2F2 !important
-  color: #fff !important
+  background-color: #E3CCF6 !important
+  color: $color-sistema-texto !important
 
   //////////////CUSTON SLYDER-A////////
 .slyder-a__bullets__item

@@ -45,7 +45,7 @@
           .tarjeta.bg-fondo-03.p-3.mb-5
             .row.justify-content-around.align-items-center
               .col-6.col-sm-4.col-md-3.col-lg-2.mb-3.mb-lg-0.mx-auto.mx-lg-0.text-center
-                img(src="@/assets/curso/tema1/img07.svg")
+                img(src="@/assets/curso/tema1/img07.png")
               .col-12.col-lg.mb-2.mb-lg-0
                 h4.mb-2.bg-color-04.p-2.max-cont-md.mx-auto.mx-lg-0.text-center.text-lg-start Visión general del comercio electrónico
                 p.mb-0 Lo invitamos a consultar el siguiente recurso educativo, mediante el cual podrá profundizar en la temática abordada. Este corresponde a un video del Ecosistema de Recursos Educativos Digitales del SENA que presenta una visión general del comercio electrónico, su impacto en la comercialización digital, la transformación de los procesos empresariales y la importancia de las redes sociales y de la normatividad en entornos comerciales digitales.
@@ -111,7 +111,7 @@
           .bg-color-09.br-15.mb-0
             .row.align-items-center.justify-content-center(data-aos="fade-right")
               .col-lg-auto.d-none.d-lg-block.order-lg-1
-                img(src="@/assets/curso/tema2/img06.svg").mx-auto
+                img(src="@/assets/curso/tema2/img06.png", style="max-width: 150px;").mx-auto
               .col-lg-9.order-1.order-lg-2.p-4
                 .bg-color-08.p-2.mb-2.max-cont-md
                   h4.mb-0.text-bold.text-white Clave estratégica
@@ -213,7 +213,7 @@
         .bg-color-01.br-15.mb-0
           .row.align-items-center.justify-content-center(data-aos="fade-right")
             .col-lg-auto.d-none.d-lg-block.order-lg-1
-              img(src="@/assets/curso/tema1/img19.svg").mx-auto
+              img(src="@/assets/curso/tema1/img19.png", style="max-width: 150px;").mx-auto
             .col-lg-9.order-1.order-lg-2.p-4
               .bg-color-10.p-2.mb-2.max-cont-md
                 h4.mb-0.text-bold.text-white Cita de reflexión

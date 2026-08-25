@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="137" height="113" viewBox="0 0 137 113">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="146" height="112" viewBox="0 0 146 112">
   <defs>
     <clipPath id="clip-path">
-      <rect id="Rectángulo_461766" data-name="Rectángulo 461766" width="137" height="113" transform="translate(-12023 -11849)" fill="#fff" stroke="#707070" stroke-width="1"/>
+      <rect id="Rectángulo_462031" data-name="Rectángulo 462031" width="146" height="112" transform="translate(-11139 -11762.001)" fill="#fff" stroke="#707070" stroke-width="1"/>
     </clipPath>
     <clipPath id="clip-path-2">
       <rect id="Rectángulo_431529" data-name="Rectángulo 431529" width="170.543" height="121.027" fill="none"/>
@@ -42,8 +42,8 @@
       <rect id="Rectángulo_431527" data-name="Rectángulo 431527" width="111.034" height="107.703" fill="none"/>
     </clipPath>
   </defs>
-  <g id="Enmascarar_grupo_1234663" data-name="Enmascarar grupo 1234663" transform="translate(12023 11849)" clip-path="url(#clip-path)">
-    <g id="Grupo_1236557" data-name="Grupo 1236557" transform="translate(-12056.058 -11849.24)">
+  <g id="Enmascarar_grupo_1234702" data-name="Enmascarar grupo 1234702" transform="translate(11139 11762.001)" clip-path="url(#clip-path)">
+    <g id="Grupo_1222487" data-name="Grupo 1222487" transform="translate(-11163.058 -11761.271)">
       <g id="Grupo_1222305" data-name="Grupo 1222305" clip-path="url(#clip-path-2)">
         <g id="Grupo_1222285" data-name="Grupo 1222285" transform="translate(44.103 3.955)">
           <g id="Grupo_1222284" data-name="Grupo 1222284" clip-path="url(#clip-path-3)">
@@ -94,11 +94,11 @@
             </g>
           </g>
         </g>
-        <text id="_1" data-name="1" transform="matrix(0.961, -0.277, 0.277, 0.961, 103.683, 64.101)" fill="#fff" font-size="27" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">1</tspan></text>
+        <path id="Trazado_1308138" data-name="Trazado 1308138" d="M3.969,0H8.343V-18.9H.189v3.51h3.78Z" transform="matrix(0.961, -0.277, 0.277, 0.961, 103.683, 64.101)" fill="#fff"/>
         <text id="_" data-name=" " transform="matrix(0.961, -0.277, 0.277, 0.961, 113.868, 60.127)" fill="#fff" font-size="26" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0"> </tspan></text>
-        <text id="_2" data-name="2" transform="matrix(0.961, -0.277, 0.277, 0.961, 116.36, 60.449)" fill="#fff" font-size="27" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">2</tspan></text>
-        <text id="_2-2" data-name=" " transform="matrix(0.961, -0.277, 0.277, 0.961, 131.83, 54.951)" fill="#fff" font-size="26" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0"> </tspan></text>
-        <text id="_3" data-name="3" transform="matrix(0.961, -0.277, 0.277, 0.961, 134.322, 55.274)" fill="#fff" font-size="27" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">3</tspan></text>
+        <path id="Trazado_1308139" data-name="Trazado 1308139" d="M.891,0H15.174V-3.564H7.047l4.347-4.1c2.646-2.457,3.159-4.131,3.159-5.967,0-3.429-2.808-5.589-7.02-5.589a8.778,8.778,0,0,0-7.506,3.51l3.186,2.052a4.621,4.621,0,0,1,3.915-1.89c2,0,3.024.864,3.024,2.349,0,.918-.3,1.89-1.971,3.483L.891-2.835Z" transform="matrix(0.961, -0.277, 0.277, 0.961, 116.36, 60.449)" fill="#fff"/>
+        <text id="_2" data-name=" " transform="matrix(0.961, -0.277, 0.277, 0.961, 131.83, 54.951)" fill="#fff" font-size="26" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0"> </tspan></text>
+        <path id="Trazado_1308140" data-name="Trazado 1308140" d="M7.182.324c5.373,0,7.83-2.916,7.83-6.1,0-2.781-1.728-4.887-5.13-5.454l4.266-4.833V-18.9H.918v3.51H8.937l-3.861,4.4V-8.1h2c2.484,0,3.537.891,3.537,2.322,0,1.539-1.35,2.43-3.537,2.43a9.179,9.179,0,0,1-5.4-1.7L-.027-1.7A13,13,0,0,0,7.182.324Z" transform="matrix(0.961, -0.277, 0.277, 0.961, 134.322, 55.274)" fill="#fff"/>
       </g>
     </g>
   </g>

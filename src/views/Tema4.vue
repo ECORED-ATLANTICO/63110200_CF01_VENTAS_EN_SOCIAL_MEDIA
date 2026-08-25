@@ -244,7 +244,7 @@
           .bg-color-01.br-15.mb-0.h-100.align-content-center.p-3
             .row.align-items-center.justify-content-center(data-aos="fade-right")
               .col-lg-auto.d-none.d-lg-block.order-lg-1
-                img(src="@/assets/curso/tema1/img19.svg").mx-auto
+                img(src="@/assets/curso/tema1/img19.png", style="max-width: 150px;").mx-auto
               .col-lg-9.order-1.order-lg-2.p-4
                 .bg-color-10.p-2.mb-3.max-cont-md
                   h4.mb-0.text-bold.text-white Cita de reflexión
