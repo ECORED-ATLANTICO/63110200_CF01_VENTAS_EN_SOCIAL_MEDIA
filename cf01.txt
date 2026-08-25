@@ -1,0 +1,464 @@
+
+
+
+
+
+
+
+
+
+
+
+Breve descripción:
+El componente desarrolla fundamentos estratégicos relacionados con clientes digitales, comercio electrónico, campañas y customer journey aplicados a ventas en social media. Su enfoque fortalece capacidades relacionadas con segmentación, interacción digital, posicionamiento y planificación comercial mediante herramientas y estrategias orientadas al comportamiento del consumidor contemporáneo.
+
+Agosto 2026 
+Tabla de contenido
+Introducción	5
+1. Clientes digitales	6
+1.1. Concepto	6
+1.2. Tipos	7
+1.3. Perfiles	11
+1.4. Arquetipos	12
+1.5. Buyer persona	13
+2. Información personal	16
+2.1. Concepto	16
+2.2. Tipología	16
+2.3. Usos	17
+2.4. Componentes	19
+2.5. Normativa	20
+3. Negociación	23
+3.1. Concepto	23
+3.2. Tipologías	24
+3.3. Aplicación	25
+4. Matriz de estrategia de mercadeo	28
+4.1. Concepto	28
+4.2. Tipología	29
+4.3. Elaboración	30
+5. Comercio electrónico	35
+5.1. Concepto	35
+5.2. Ventajas	38
+5.3. Tipos	40
+5.4. Elementos	41
+6. Redes sociales	43
+6.1. Concepto	43
+6.2. Tipos	44
+6.3. Usos	45
+6.4. Escucha social	46
+7. Campañas	48
+7.1. Concepto	48
+7.2. Tipos	49
+7.3. Usos	50
+8. Customer journey	52
+8.1. Concepto	52
+8.2. Aplicación	54
+Síntesis	57
+Glosario	59
+Referencias bibliográficas	61
+Créditos	62
+
+Introducción
+Este componente formativo aborda fundamentos estratégicos relacionados con clientes digitales, comercio electrónico, campañas y redes sociales orientados a los procesos de ventas en social media. Su desarrollo permite comprender cómo las organizaciones identifican perfiles de clientes, estructuran estrategias comerciales y utilizan entornos digitales para fortalecer la interacción, el posicionamiento y la conversión comercial en mercados altamente dinámicos.
+El componente fortalece competencias analíticas y aplicadas mediante el estudio de conceptos, casos empresariales y herramientas utilizadas en estrategias digitales contemporáneas. Los contenidos serán abordados desde una perspectiva técnica y estratégica, integrando ejemplos empresariales, análisis contextual, construcción de matrices comerciales y aplicación de metodologías orientadas a la toma de decisiones en procesos de ventas digitales y relacionamiento con clientes.
+ 
+1. Clientes digitales
+La transformación digital modificó la manera en que las organizaciones comprenden, segmentan e interactúan con los consumidores. Actualmente, los clientes digitales participan activamente en procesos de búsqueda, comparación y validación de productos mediante plataformas digitales y redes sociales. Comprender sus comportamientos, necesidades y expectativas resulta fundamental para estructurar estrategias comerciales efectivas. Este capítulo desarrolla conceptos relacionados con clientes digitales, tipologías, perfiles, arquetipos y buyer persona, integrando aplicaciones estratégicas orientadas al fortalecimiento de procesos comerciales y ventas en social media.
+1.1. Concepto
+Los clientes digitales corresponden a usuarios que interactúan con organizaciones mediante plataformas tecnológicas, redes sociales, aplicaciones y canales digitales durante procesos de búsqueda, comparación y compra; su comportamiento se caracteriza por la inmediatez, la conectividad y el acceso permanente a información comercial. Las organizaciones deben comprender sus dinámicas para construir estrategias comerciales alineadas con las expectativas digitales. Este enfoque transforma los procesos tradicionales de ventas y fortalece la personalización de experiencias comerciales digitales.
+Ejemplo aplicado. Transformación digital de “Urban Style”
+El negocio local “Urban Style”, dedicado a la venta de prendas casuales, identificó disminución en ventas físicas debido al incremento de competidores digitales. Inicialmente, el negocio utilizaba redes sociales únicamente como vitrina visual, sin comprender el comportamiento del cliente digital ni sus necesidades de interacción inmediata. Después de analizar comentarios, métricas e intereses de usuarios, el negocio implementó respuestas automatizadas, publicaciones segmentadas y contenidos dinámicos orientados a públicos juveniles. La estrategia permitió identificar preferencias relacionadas con promociones rápidas, recomendaciones personalizadas y formatos audiovisuales cortos. Como resultado, “Urban Style” incrementó la interacción digital, fortaleció el posicionamiento de marca y mejoró oportunidades de conversión mediante plataformas sociales.
+1.2. Tipos 
+Los clientes digitales pueden clasificarse según la relación comercial establecida con las organizaciones y las dinámicas de compra desarrolladas en entornos digitales. Dentro de las tipologías más relevantes se encuentran los modelos B2B y B2C, ampliamente utilizados en estrategias comerciales digitales actuales. Estas clasificaciones permiten comprender procesos de negociación, necesidades de comunicación y características del comportamiento comercial. La identificación correcta del tipo de cliente facilita la toma de decisiones estratégicas relacionadas con contenidos, campañas y posicionamiento digital.
+ 
+Figura 1.	Tipos de clientes digitales según relación comercial
+Tfalta: falta figura
+TEXTO ALT: Infografía que presenta los modelos B2B, business to business, y B2C, business to consumer. El modelo B2B representa relaciones comerciales entre organizaciones, caracterizadas por procesos de compra, negociación y decisiones basadas en criterios empresariales. El modelo B2C representa relaciones comerciales entre empresas y consumidores finales, orientadas a experiencias de compra, interacción y comunicación mediante contenidos digitales.
+
+Nota. SENA, (2026).
+Tipos de clientes
+Lo invitamos a consultar el siguiente recurso educativo por medio del cual podrá profundizar en temática abordada, el cual corresponde a un video del Ecosistema de Recursos Educativos Digitales SENA el cual explica diferentes tipos de clientes y sus comportamientos durante procesos comerciales y de microcrédito, destacando características, necesidades y niveles de relación con la entidad financiera.  
+ 
+Video 1.	Tipos de clientes
+ 
+Enlace de reproducción del video
+Transcripción del video. Tipos de clientes.
+Parafraseando a Espinosa, se hace la referencia de los tipos de clientes:
+El cliente que lo sabe todo: Siempre cree y quiere tener la razón, siempre están descontentos con las compras que realizan.
+El cliente negociador: es exigente y siempre busca obtener algo: una devolución, un descuento, una promoción, un regalo, etcétera.
+El cliente impaciente: nunca tiene tiempo para nada y necesita que hagan las cosas rápido para él.
+El cliente renegón: por lo general son agresivos cuando realizan una compra, tienden a estar siempre a la defensiva.
+El cliente indeciso: tiene demasiada indecisión para realizar una compra y necesita apoyo de un tercero.
+Sin embargo, en el microcrédito existen los siguientes tipos de clientes:
+El público objetivo, son los dueños de negocios que el analista visita en la fase de promoción que no están interesados en el microcrédito. En este grupo se encuentran aquellos microempresarios que son clientes de la banca formal por la solidez de su empresa.
+Cliente potencial, son aquellos clientes que pueden ser objeto de microcrédito a primera vista, cumplen con los requisitos de la institución y muy seguramente serán clientes cuando resuelvan sus dudas acerca del producto o vean la necesidad del mismo.
+Cliente eventual, es aquel cliente que adquiere el producto porque cumple con los requisitos de microcrédito, más no con los de la banca tradicional, o porque tiene buenas referencias del servicio.
+Cliente habitual, es el cliente que se le otorga el crédito y sigue renovando dentro de la entidad.
+¿Qué diferencias deberían existir entre una campaña digital orientada a empresas y otra dirigida a consumidores finales?
+1.3. Perfiles
+Los perfiles de clientes digitales permiten clasificar usuarios según comportamientos, intereses, hábitos de consumo y formas de interacción en entornos digitales. Su identificación facilita la segmentación estratégica y la construcción de experiencias comerciales personalizadas. Actualmente, las organizaciones utilizan datos provenientes de redes sociales, plataformas digitales y herramientas analíticas para comprender patrones de comportamiento. Este análisis fortalece decisiones relacionadas con campañas, contenidos y procesos comerciales orientados a mejorar la interacción y conversión digital.
+Los perfiles digitales pueden construirse mediante variables demográficas, geográficas, psicográficas y conductuales. Las variables demográficas incluyen edad, género y ocupación; las geográficas consideran ubicación y contexto territorial; las psicográficas analizan estilos de vida y valores; mientras las conductuales estudian hábitos de interacción y compra. Empresas como Spotify utilizan análisis conductual para recomendar contenido personalizado y fortalecer la experiencia del usuario. Esta segmentación permite optimizar estrategias comerciales y mejorar procesos de fidelización digital.
+ 
+Tabla 1.	Variables para construcción de perfiles digitales
+Variable	Aplicación estratégica
+Demográfica	Permite segmentar clientes según edad, género, ocupación y características poblacionales relevantes para estrategias digitales.
+Geográfica	Facilita adaptar campañas y contenidos según ubicación territorial y contexto comercial del consumidor digital identificado.
+Psicográfica	Analiza estilos de vida, intereses, valores y motivaciones que influyen en decisiones comerciales digitales actuales.
+Conductual	Evalúa hábitos de navegación, interacción y compra para fortalecer segmentación y estrategias comerciales personalizadas digitales.
+Nota. SENA, (2026). 
+Clave estratégica. La correcta identificación de perfiles digitales permite personalizar contenidos y optimizar procesos de interacción y conversión comercial.
+1.4. Arquetipos
+Los arquetipos representan modelos simbólicos utilizados para comprender comportamientos, motivaciones y características comunes de determinados grupos de consumidores. En marketing digital, permiten construir estrategias comunicativas coherentes con emociones, expectativas y formas de interacción de los clientes. Su aplicación facilita la creación de mensajes consistentes y fortalece la identidad de marca. Las organizaciones utilizan arquetipos para conectar emocionalmente con audiencias específicas y desarrollar experiencias comerciales diferenciadas en entornos digitales competitivos.
+Los arquetipos comerciales suelen construirse mediante patrones psicológicos y emocionales relacionados con necesidades humanas universales. Algunos de los más utilizados son el explorador, el creador, el héroe y el cuidador. Por ejemplo, Nike utiliza elementos asociados al arquetipo del héroe mediante mensajes orientados a superación personal, disciplina y rendimiento. Esta construcción simbólica fortalece el posicionamiento de marca y facilita conexiones emocionales duraderas con consumidores digitales contemporáneos. 
+Tipos de arquetipos comerciales
+•	Héroe: representa superación, esfuerzo y disciplina mediante mensajes motivacionales orientados al logro personal y competitivo.
+•	Explorador: se relaciona con libertad, autenticidad y experiencias nuevas enfocadas en independencia y descubrimiento personal constante.
+•	Creador: proyecta innovación, creatividad y diferenciación mediante contenidos originales y propuestas comerciales altamente expresivas digitales.
+•	Cuidador: prioriza protección, bienestar y acompañamiento mediante estrategias orientadas a confianza y apoyo emocional permanente.
+1.5. Buyer persona
+El buyer persona corresponde a una representación semificticia del cliente ideal construida mediante información demográfica, conductual, psicográfica y comercial obtenida a partir del análisis de datos reales. Su propósito consiste en comprender necesidades, motivaciones, intereses y comportamientos de los consumidores digitales para diseñar estrategias comerciales más efectivas. Actualmente, las organizaciones utilizan buyer personas para fortalecer campañas, personalizar contenidos y optimizar procesos de interacción digital orientados a mejorar la conversión y la fidelización comercial.
+¿Qué es un buyer persona y qué tipos hay?
+Lo invitamos a visitar el siguiente enlace en donde podrá apreciar una página que explica el concepto de buyer persona, destacando su importancia para diseñar estrategias de marketing más precisas, personalizadas y orientadas a mejorar la conexión con los consumidores.
+https://www.unir.net/revista/marketing-comunicacion/buyer-persona/
+Ejemplo aplicado. Construcción del buyer persona en “Urban Style”
+Después de analizar interacciones digitales y hábitos de consumo, “Urban Style” identificó que gran parte de sus seguidores correspondían a jóvenes universitarios interesados en moda urbana, promociones digitales y contenido audiovisual dinámico. A partir de esta información, la empresa construyó un buyer persona denominado “Camila”, estudiante de 22 años, usuaria activa de Instagram y TikTok, interesada en tendencias de moda accesibles y compras rápidas mediante plataformas digitales. 
+Con base en este perfil, el negocio ajustó sus publicaciones, implementó promociones limitadas y fortaleció estrategias de contenido visual orientadas a experiencias dinámicas. Como resultado, incrementó la interacción digital, mejoró el alcance comercial y fortaleció procesos de conversión mediante contenidos alineados con intereses específicos del cliente identificado.
+Cita de reflexión. “La construcción de relaciones comerciales sostenibles inicia comprendiendo al cliente con honestidad, respeto y responsabilidad comunicativa”.
+ 
+2. Información personal
+La información personal constituye uno de los recursos más relevantes dentro de los entornos digitales y comerciales contemporáneos. Actualmente, las organizaciones recopilan, almacenan y analizan datos relacionados con consumidores para desarrollar estrategias comerciales, segmentar audiencias y personalizar experiencias digitales. Sin embargo, este proceso también implica responsabilidades éticas y normativas relacionadas con privacidad, protección y uso adecuado de los datos. Este capítulo desarrolla aspectos relacionados con concepto, tipología, usos, componentes y normativa de la información personal aplicada a procesos comerciales y ventas en social media.
+2.1. Concepto
+La información personal corresponde al conjunto de datos que permiten identificar o relacionar a una persona dentro de contextos físicos y digitales. Estos datos pueden incluir nombres, documentos de identidad, direcciones, correos electrónicos, números telefónicos y hábitos de consumo digital. En procesos comerciales digitales, la información personal se convierte en un recurso estratégico para comprender comportamientos y fortalecer experiencias comerciales. Su adecuada gestión resulta fundamental para garantizar confianza, transparencia y cumplimiento normativo en entornos digitales.
+2.2. Tipología
+La información personal puede clasificarse según nivel de sensibilidad, finalidad de uso y características relacionadas con identificación del titular. Esta tipología permite establecer medidas de tratamiento y protección acordes con los riesgos asociados al manejo de datos. Dentro de las clasificaciones más utilizadas se encuentran datos públicos, privados, sensibles y semiprivados. Comprender estas categorías resulta fundamental para organizaciones que desarrollan estrategias comerciales y procesos digitales orientados a interacción con consumidores y recopilación de información.
+Tabla 2.	Tipos de información personal
+Tipo de información	Características estratégicas
+Pública	Puede consultarse sin restricciones relevantes y suele utilizarse en procesos informativos y comerciales generales digitales.
+Privada	Incluye información reservada relacionada con aspectos personales, financieros y hábitos específicos del consumidor digital identificado.
+Sensible	Requiere protección reforzada debido a riesgos asociados con privacidad, discriminación y vulneración de derechos personales.
+Semiprivada	Se utiliza en contextos comerciales específicos y requiere autorización para tratamiento dentro de procesos digitales empresariales.
+Nota. Elaboración propia con base en la Ley 1581 de 2012.
+Clave estratégica. Clasificar correctamente la información personal permite implementar tratamientos responsables y fortalecer la confianza dentro de entornos digitales comerciales.
+2.3. Usos
+La información personal cumple funciones estratégicas dentro de procesos comerciales digitales, debido a que permite comprender comportamientos, necesidades y preferencias de los consumidores. Las organizaciones utilizan datos personales para segmentar audiencias, personalizar campañas y fortalecer experiencias de interacción en plataformas digitales, este uso estratégico facilita procesos de comunicación más precisos y orientados a objetivos comerciales específicos. Actualmente, el análisis de información personal representa una herramienta fundamental para optimizar decisiones relacionadas con ventas digitales y posicionamiento comercial.
+Las empresas utilizan información personal para diseñar campañas digitales alineadas con intereses específicos de sus consumidores. Plataformas como Netflix analizan hábitos de navegación y preferencias audiovisuales para recomendar contenidos personalizados y fortalecer la permanencia de usuarios. Este uso de datos incrementa interacción y mejora la experiencia digital mediante estrategias ajustadas a comportamientos identificados previamente. 
+Usos estratégicos de la información personal
+Segmentación comercial
+Permite clasificar consumidores según comportamientos e intereses para fortalecer campañas digitales personalizadas y efectivas.
+Personalización digital
+Facilita adaptar mensajes, contenidos y promociones según preferencias específicas identificadas mediante interacción comercial constante.
+
+Automatización comercial
+Favorece procesos automáticos relacionados con recomendaciones, mensajes y campañas orientadas a conversión digital estratégica.
+Fidelización de clientes
+Fortalece relaciones comerciales mediante experiencias digitales ajustadas a necesidades y expectativas del consumidor identificado previamente.
+¿Cómo podría una empresa utilizar información personal autorizada para fortalecer sus campañas comerciales digitales sin afectar la privacidad?
+2.4. Componentes
+La información personal se encuentra integrada por diferentes componentes utilizados para identificar, caracterizar y comprender consumidores dentro de entornos digitales y comerciales, estos componentes permiten estructurar bases de datos organizadas y fortalecer procesos relacionados con segmentación, análisis comercial y personalización de experiencias digitales. 
+Actualmente, las organizaciones recopilan múltiples tipos de información para optimizar estrategias comerciales y comprender dinámicas de interacción de sus clientes, la adecuada identificación de estos elementos fortalece decisiones estratégicas relacionadas con social media y ventas digitales.
+ 
+Componentes de la información personal
+o	Identificación: permite reconocer usuarios mediante nombres, documentos y datos básicos utilizados en procesos comerciales digitales actuales.
+o	Contacto: facilita comunicación empresarial mediante correos electrónicos, teléfonos y plataformas digitales utilizadas por consumidores identificados.
+o	Ubicación: ayuda a segmentar campañas comerciales según contexto geográfico y dinámicas territoriales relacionadas con el consumidor digital.
+o	Comportamiento digital: analiza hábitos de interacción, navegación y consumo para fortalecer procesos comerciales personalizados y estratégicos digitales.
+2.5. Normativa
+La normativa relacionada con la información personal establece principios, derechos y obligaciones orientados a garantizar el tratamiento adecuado de datos en entornos físicos y digitales. Estas disposiciones buscan proteger la privacidad, la seguridad y la autonomía de las personas frente al uso de la información por parte de organizaciones públicas y privadas. En contextos comerciales digitales, el cumplimiento normativo fortalece la confianza y legitimidad empresarial. Actualmente, las empresas deben implementar políticas y procedimientos ajustados a regulaciones relacionadas con la protección y tratamiento responsable de datos personales.
+En Colombia, la Ley 1581 de 2012 establece disposiciones generales relacionadas con la protección de datos personales y los derechos de los titulares de información; esta normativa exige autorización previa para recopilar, almacenar y utilizar datos personales dentro de procesos comerciales y digitales. Empresas como Bancolombia implementan políticas de privacidad y mecanismos de consentimiento orientados a garantizar el cumplimiento normativo. Estas acciones fortalecen la transparencia organizacional y disminuyen los riesgos asociados con el uso inadecuado de información digital sensible.
+Principios de la normativa
+o	Legalidad: garantiza que el tratamiento de datos personales se realice conforme a disposiciones normativas y jurídicas vigentes.
+o	Transparencia: permite informar claramente al consumidor sobre uso, almacenamiento y tratamiento de información personal recopilada digitalmente.
+o	Seguridad: exige implementar medidas técnicas y administrativas para proteger información personal frente a riesgos digitales existentes.
+o	Confidencialidad: garantiza protección y reserva de información personal utilizada dentro de procesos comerciales y plataformas digitales empresariales.
+El cumplimiento normativo representa un factor estratégico para organizaciones que desarrollan procesos comerciales mediante plataformas digitales y redes sociales. Las empresas que implementan prácticas responsables relacionadas con el tratamiento de datos fortalecen la reputación y mejoran la percepción de seguridad frente a los consumidores digitales. Empresas de comercio electrónico como Mercado Libre incorporan políticas visibles de protección de datos para fortalecer la confianza y la transparencia; estas acciones permiten desarrollar estrategias comerciales sostenibles y coherentes con principios éticos relacionados con la privacidad digital y la responsabilidad empresarial.
+Cita de reflexión. “La protección responsable de la información personal refleja respeto por la privacidad y fortalece relaciones comerciales basadas en confianza”.
+ 
+3. Negociación
+ La negociación representa un proceso estratégico mediante el cual dos o más partes buscan acuerdos relacionados con intereses comerciales, necesidades y objetivos específicos. En entornos digitales, este proceso adquirió nuevas dinámicas debido al crecimiento del comercio electrónico, redes sociales y plataformas de interacción online. Actualmente, las organizaciones utilizan estrategias de negociación para fortalecer relaciones comerciales, incrementar conversiones y mejorar experiencias del cliente digital. Este capítulo desarrolla conceptos, tipologías y aplicaciones de la negociación dentro de contextos relacionados con ventas en social media y procesos comerciales digitales.
+3.1. Concepto
+La negociación corresponde a un proceso de comunicación estratégica orientado a alcanzar acuerdos beneficiosos entre diferentes partes involucradas. Dentro de entornos comerciales digitales, este proceso permite resolver necesidades relacionadas con precios, tiempos de entrega, características de productos y condiciones comerciales. Actualmente, las organizaciones implementan estrategias de negociación mediante plataformas digitales, redes sociales y sistemas de atención en línea. La negociación efectiva fortalece relaciones comerciales sostenibles y mejora procesos de interacción con clientes digitales en mercados competitivos.
+El crecimiento del comercio electrónico transformó las dinámicas tradicionales de negociación mediante herramientas digitales orientadas a la interacción inmediata y personalizada. Empresas como Amazon utilizan asistentes virtuales y sistemas automatizados para gestionar solicitudes relacionadas con devoluciones, pagos y procesos comerciales. Estas estrategias permiten agilizar acuerdos y fortalecer experiencias del consumidor digital.
+3.2. Tipologías
+Las tipologías de negociación permiten clasificar estrategias y dinámicas utilizadas por las organizaciones durante procesos comerciales y de interacción con consumidores digitales, esta clasificación facilita comprender comportamientos, objetivos y métodos empleados para alcanzar acuerdos comerciales sostenibles. Dentro de las tipologías más utilizadas se encuentran la negociación distributiva, integrativa, colaborativa y competitiva. Comprender estas categorías fortalece procesos de toma de decisiones y permite seleccionar estrategias adecuadas según contexto comercial y características del cliente digital.
+Tipologías de negociación comercial
+Distributiva. Características estratégicas: prioriza beneficios individuales mediante acuerdos relacionados con precios, promociones y recursos comerciales limitados disponibles.
+Ejemplo aplicado: una tienda digital negocia descuentos limitados con proveedores para maximizar margen comercial durante campañas promocionales estacionales.
+Integrativa. Características estratégicas: busca beneficios compartidos mediante cooperación y fortalecimiento de relaciones comerciales sostenibles entre las partes involucradas.
+Ejemplo aplicado: una marca de ropa acuerda campañas colaborativas con influencers para aumentar alcance y beneficios mutuos digitales.
+Colaborativa. Características estratégicas: promueve soluciones conjuntas orientadas a satisfacción mutua y construcción de experiencias comerciales positivas digitales contemporáneas.
+Ejemplo aplicado: un negocio online adapta condiciones de entrega según necesidades del cliente para fortalecer confianza y fidelización comercial.
+Competitiva. Características estratégicas: se enfoca en ventajas individuales mediante estrategias orientadas a maximizar beneficios comerciales específicos organizacionales digitales.
+Ejemplo aplicado: una empresa reduce precios agresivamente durante temporadas especiales para captar clientes frente a competidores directos digitales.
+Clave estratégica. Seleccionar adecuadamente la tipología de negociación mejora acuerdos comerciales y fortalece experiencias del cliente digital.
+3.3. Aplicación
+La aplicación de la negociación en entornos digitales permite desarrollar acuerdos comerciales orientados a fortalecer interacción, conversión y satisfacción del cliente. Actualmente, las organizaciones implementan estrategias de negociación mediante redes sociales, plataformas de comercio electrónico y sistemas digitales de atención. Este proceso facilita resolver inquietudes relacionadas con precios, garantías, tiempos de entrega y condiciones comerciales. La negociación aplicada estratégicamente fortalece relaciones sostenibles y mejora experiencias digitales mediante comunicación orientada a necesidades específicas del consumidor contemporáneo.
+Las empresas utilizan herramientas tecnológicas para optimizar procesos de negociación y fortalecer atención comercial en entornos digitales. Plataformas como Shopify incorporan sistemas automatizados relacionados con respuestas inmediatas, seguimiento de pedidos y resolución de solicitudes comerciales. Estas herramientas permiten mejorar tiempos de respuesta y fortalecer percepción de confianza frente al consumidor digital. La aplicación estratégica de negociación también requiere habilidades comunicativas orientadas a empatía, escucha activa y análisis de necesidades comerciales específicas del cliente.
+Ejemplo aplicado. Aplicación de negociación en “Urban Style”
+El negocio “Urban Style” comenzó a recibir solicitudes relacionadas con cambios de prendas, descuentos y tiempos de entrega durante campañas promocionales desarrolladas en Instagram y WhatsApp Business. Inicialmente, la empresa respondía de manera improvisada y sin protocolos definidos, generando demoras, respuestas inconsistentes y experiencias negativas en algunos consumidores digitales interesados en realizar compras mediante redes sociales. Posteriormente, el negocio implementó estrategias de negociación digital mediante respuestas estructuradas, políticas claras y atención personalizada orientada a resolver inquietudes comerciales. Como resultado, fortaleció satisfacción del cliente, mejoró procesos de conversión y consolidó relaciones comerciales más cercanas mediante experiencias digitales ágiles, transparentes y alineadas con necesidades específicas de sus consumidores digitales.
+Figura 2.	Aplicaciones de la negociación digital
+Falta imagen- texto alt Texto alternativo:
+Gráfico titulado “Aplicaciones de la negociación digital”, compuesto por cuatro tarjetas: atención comercial, que facilita resolver solicitudes y necesidades mediante comunicación digital rápida y orientada al consumidor; gestión de conflictos, que permite solucionar inconvenientes relacionados con garantías, pagos y entregas; fidelización digital, que fortalece relaciones sostenibles mediante experiencias comerciales positivas y estrategias orientadas a la satisfacción del cliente; y conversión comercial, que favorece acuerdos digitales relacionados con compras, promociones y decisiones comerciales desarrolladas en plataformas sociales.
+
+Nota. SENA, (2026). 
+Cita de reflexión. “La negociación responsable construye acuerdos sostenibles cuando las decisiones comerciales respetan transparencia, honestidad y compromiso con el cliente”.
+ 
+4. Matriz de estrategia de mercadeo
+ Las matrices de estrategia de mercadeo permiten organizar información relacionada con objetivos comerciales, segmentación, posicionamiento y acciones orientadas al fortalecimiento de ventas digitales. Actualmente, las organizaciones utilizan estas herramientas para estructurar campañas, analizar mercados y optimizar procesos comerciales en plataformas digitales. Su aplicación facilita toma de decisiones estratégicas y mejora coordinación de acciones relacionadas con contenidos, clientes y redes sociales. Este capítulo desarrolla conceptos, tipologías y procesos de elaboración de matrices aplicadas a estrategias comerciales digitales y ventas en social media.
+4.1. Concepto
+La matriz de estrategia de mercadeo corresponde a una herramienta utilizada para organizar acciones comerciales relacionadas con objetivos, segmentos y canales digitales, su propósito consiste en facilitar análisis estratégicos y orientar decisiones relacionadas con posicionamiento, contenidos y campañas digitales. Actualmente, las organizaciones utilizan matrices para estructurar procesos comerciales y optimizar recursos dentro de mercados altamente competitivos, esta herramienta permite relacionar información comercial relevante y fortalecer planificación orientada a ventas digitales y social media.
+Las empresas implementan matrices de mercadeo para analizar oportunidades comerciales y desarrollar estrategias alineadas con comportamientos del consumidor digital. Empresas como Coca-Cola utilizan herramientas estratégicas para definir segmentos, canales y tipos de contenido relacionados con campañas globales y locales. Esta organización facilita la coordinación comercial y permite fortalecer los procesos de interacción mediante acciones coherentes con los objetivos empresariales. 
+4.2. Tipología
+Las matrices de estrategia de mercadeo pueden clasificarse según objetivos comerciales, alcance estratégico y tipo de análisis desarrollado por la organización. Esta tipología permite seleccionar herramientas adecuadas según necesidades relacionadas con posicionamiento, segmentación y análisis competitivo. Dentro de las matrices más utilizadas se encuentran DOFA, Ansoff y BCG, ampliamente aplicadas en procesos comerciales digitales. Comprender sus características fortalece la toma de decisiones y facilita la construcción de estrategias orientadas a mercados digitales dinámicos y altamente competitivos.
+Tipos de matrices estratégicas
+•	DOFA
+Características estratégicas: analiza fortalezas, oportunidades, debilidades y amenazas relacionadas con el entorno comercial y los procesos estratégicos digitales organizacionales.
+•	Ansoff
+Características estratégicas: permiten identificar estrategias relacionadas con penetración, desarrollo y expansión comercial dentro de mercados digitales actuales contemporáneos.
+•	BCG
+Características estratégicas: clasifica productos según participación comercial y crecimiento estratégico dentro de contextos empresariales digitales competitivos actuales.
+•	Competitiva
+Características estratégicas: facilitan analizar el posicionamiento organizacional frente a competidores y dinámicas comerciales presentes en plataformas digitales contemporáneas.
+¿Qué beneficios podría obtener una empresa al utilizar matrices estratégicas para organizar campañas comerciales digitales?
+4.3. Elaboración
+La elaboración de una matriz de estrategia de mercadeo requiere identificar objetivos comerciales, segmentos de clientes y acciones orientadas al posicionamiento digital. Este proceso permite organizar la información estratégica y fortalecer la toma de decisiones relacionadas con campañas, contenidos y procesos de interacción comercial. 
+Actualmente, las organizaciones utilizan metodologías estructuradas para construir matrices alineadas con las dinámicas del mercado digital; una elaboración adecuada facilita la optimización de recursos y mejora la efectividad de las estrategias comerciales desarrolladas en plataformas digitales y redes sociales.
+A continuación un ejemplo:
+Tabla 3.	Ejemplo de matriz de estrategia de mercadeo
+Objetivo comercial	Segmento de clientes	Necesidad identificada	Canal digital	Acción estratégica	Indicador esperado
+Incrementar ventas de prendas casuales en un 20 % durante tres meses.	Mujeres entre 25 y 40 años interesadas en moda y compras online.	Acceso rápido a prendas versátiles para trabajo y actividades cotidianas.	Instagram y Facebook.	Publicar contenidos de producto, testimonios y promociones semanales segmentadas.	Incremento de ventas y aumento de interacciones comerciales.
+Generar reconocimiento de marca en nuevos consumidores digitales.	Mujeres residentes en ciudades intermedias con interés en tendencias de moda.	Conocer nuevas alternativas de vestuario y marcas locales.	Instagram y TikTok.	Desarrollar campañas de posicionamiento mediante videos cortos y colaboraciones digitales.	Aumento del alcance, de los seguidores y de las menciones de marca.
+Fortalecer la fidelización de clientes actuales.	Compradoras recurrentes registradas en la base de datos comercial.	Recibir beneficios exclusivos y atención personalizada.	WhatsApp Business y correo electrónico.	Implementar campañas de seguimiento, descuentos exclusivos y comunicación personalizada.	Incremento en recompra y participación de clientes recurrentes.
+Nota. SENA, (2026). 
+En este ejemplo, la matriz inicia con la definición de los objetivos comerciales que la organización desea alcanzar. A partir de ellos se identifican segmentos específicos de clientes y sus necesidades predominantes, permitiendo seleccionar los canales digitales más adecuados para establecer comunicación efectiva.
+Posteriormente, se definen acciones estratégicas alineadas con cada objetivo y segmento identificados.  Finalmente, se establecen indicadores que permiten evaluar los resultados obtenidos. La interacción entre objetivos, segmentos, necesidades, canales, acciones e indicadores facilita una gestión comercial estructurada y orientada a resultados, fortaleciendo la toma de decisiones dentro de estrategias de ventas en social media.
+Ejemplo aplicado. Elaboración de matriz estratégica en “Urban Style”
+El negocio “Urban Style” decidió organizar su estrategia comercial digital mediante una matriz enfocada en objetivos relacionados con posicionamiento, interacción y aumento de ventas digitales. Inicialmente, la empresa publicaba contenidos sin planificación estructurada ni análisis relacionado con perfiles de consumidores y comportamiento comercial en redes sociales. Posteriormente, la organización elaboró una matriz integrando segmentos digitales, plataformas utilizadas, objetivos comerciales y tipos de contenido orientados a campañas promocionales. Como resultado, logró organizar procesos comerciales, fortalecer interacción con clientes y optimizar publicaciones digitales mediante estrategias más coherentes con necesidades y expectativas de sus consumidores digitales.
+ 
+Etapas para elaborar una matriz de estrategia de mercadeo
+•	Análisis comercial: permite identificar necesidades, tendencias y oportunidades relacionadas con comportamiento del consumidor digital contemporáneo actual.
+•	Definición de objetivos: facilita establecer metas comerciales orientadas a posicionamiento, interacción y fortalecimiento de ventas digitales estratégicas.
+•	Selección de estrategias: ayuda a organizar contenidos, canales digitales y campañas según características del mercado y cliente identificado.
+•	Evaluación de resultados: permite analizar métricas comerciales y ajustar estrategias digitales según el desempeño y el comportamiento comercial obtenidos previamente.
+Cita de reflexión. “La planeación estratégica adquiere verdadero valor cuando las decisiones comerciales se desarrollan con responsabilidad y compromiso hacia el cliente”.
+Pódcast 1
+Transcripción del pódcast. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+5. Comercio electrónico
+ El comercio electrónico transformó las dinámicas tradicionales de compra y venta mediante el uso de plataformas digitales y tecnologías orientadas a interacción comercial online. Actualmente, las organizaciones utilizan modelos digitales para comercializar productos, fortalecer posicionamiento y ampliar alcance comercial en mercados globalizados. Este entorno exige comprender herramientas, procesos y estrategias relacionadas con ventas digitales y experiencia del cliente. El capítulo desarrolla conceptos, ventajas, tipos y elementos del comercio electrónico aplicados a procesos comerciales y estrategias de ventas en social media.
+5.1. Concepto
+El comercio electrónico corresponde al conjunto de actividades comerciales desarrolladas mediante plataformas digitales y tecnologías orientadas a procesos de compra y venta online. Este modelo permite comercializar productos y servicios utilizando sitios web, aplicaciones móviles y redes sociales. Actualmente, las organizaciones implementan estrategias digitales para ampliar el alcance comercial y fortalecer la interacción con consumidores digitales. El comercio electrónico facilita procesos de conversión y optimiza experiencias relacionadas con acceso, comunicación y disponibilidad permanente de productos comerciales digitales.
+Visión general del comercio electrónico
+Lo invitamos consultar el siguiente recurso educativo por medio del cual podrá profundizar en temática abordada, el cual corresponde a un video del Ecosistema de Recursos Educativos Digitales SENA el cual presenta una visión general del comercio electrónico, su impacto en la comercialización digital, la transformación de los procesos empresariales y la importancia de las redes sociales y la normatividad en entornos comerciales digitales.  
+Video 2.	Visión general del comercio electrónico
+ 
+Enlace de reproducción del video
+Transcripción del video. Visión general del comercio electrónico.
+El comercio electrónico o e-commerce, como se le conoce actualmente, consiste en la distribución, producción, promoción, venta y compra de productos. Además, abarca el marketing, la operación de suministro y los servicios comercializados a través de internet, independientemente del medio de pago que se utilice.
+Esta fórmula comercial permite una gran ampliación de la oferta, aumentando en el cliente potencial la posibilidad de realizar transacciones en mercados a los que anteriormente no podía acceder desde cualquier ubicación.
+Asimismo, internet ha modificado las reglas de la distribución comercial, ya que permite a proveedores y comerciantes ofertar un surtido más amplio a un precio menor debido a la reducción o supresión de intermediarios.
+El uso del comercio electrónico en la industria turística avanza vertiginosamente, contribuyendo al mejoramiento de las operaciones tradicionales practicadas en los negocios, tanto en la estrategia empresarial como en la reingeniería del negocio turístico.
+Actualmente predominan las pequeñas y medianas empresas en el sector, lo que significa que la utilización del e-commerce no se ha extendido aún lo suficiente. Sin embargo, este puede ayudar a mejorar los procesos de gestión y control en la toma de decisiones en las empresas para que actúen de manera eficiente.
+Las redes sociales son una oportunidad para el crecimiento del sector turístico, principalmente porque:
+Ayudan a aumentar la cobertura.
+Permiten ampliar la difusión de los contenidos. 
+Es un canal de comunicación directa para la atención al cliente.
+Potencian la imagen de la marca.
+Permiten un mejor conocimiento de la audiencia.
+Además, hacen posible observar y analizar a la competencia.
+Para finalizar, cabe mencionar que actualmente existen regulaciones establecidas para las negociaciones efectuadas mediante e-commerce. En el marco jurídico se encuentran:
+La Ley 527 de 1999.
+La Ley 1480 de 2011.
+La Ley 1581 de 2012.
+Las cuales buscan equiparar la normatividad para el manejo de la información física con el plano de la información virtual, dando así rigurosidad y respaldo a la comercialización de servicios turísticos.
+5.2. Ventajas
+Las ventajas del comercio electrónico se relacionan con la capacidad de ampliar mercados, optimizar procesos comerciales y fortalecer la interacción con consumidores digitales. Este modelo permite desarrollar actividades comerciales sin limitaciones geográficas ni restricciones horarias tradicionales. Actualmente, las organizaciones implementan comercio electrónico para mejorar competitividad y fortalecer posicionamiento digital dentro de mercados dinámicos. Las ventajas estratégicas de este entorno favorecen el crecimiento empresarial y facilitan procesos relacionados con automatización, segmentación y personalización comercial digital.
+Ventajas estratégicas del comercio electrónico
+Cobertura comercial
+Permite ampliar el alcance empresarial mediante plataformas digitales.
+Ejemplo: una tienda virtual vende a clientes de diferentes ciudades mediante redes sociales y comercio electrónico.
+Optimización operativa
+Facilita la automatización de pagos, pedidos y atención al cliente.
+Ejemplo: un comercio utiliza respuestas automáticas y pasarelas digitales para agilizar compras y consultas.
+Disponibilidad permanente
+Favorece procesos comerciales continuos mediante plataformas digitales accesibles.
+Ejemplo: una plataforma permite realizar pedidos las 24 horas desde cualquier ubicación con acceso a internet.
+
+Análisis estratégico
+Permite recopilar métricas e información comercial para fortalecer las decisiones empresariales.
+Ejemplo: una empresa analiza interacciones y conversiones digitales para optimizar campañas comerciales.
+Clave estratégica. Las ventajas del comercio electrónico fortalecen competitividad empresarial y mejoran procesos relacionados con ventas digitales y atención comercial.
+5.3. Tipos
+Los tipos de comercio electrónico permiten clasificar relaciones comerciales desarrolladas mediante plataformas digitales y tecnologías orientadas a procesos de compra y venta online, esta clasificación facilita comprender dinámicas comerciales, características del consumidor y modelos de interacción empresarial utilizados en mercados digitales contemporáneos. Dentro de los tipos más utilizados se encuentran B2B, B2C, C2C y C2B. Comprender estas modalidades fortalece procesos estratégicos relacionados con segmentación, posicionamiento y construcción de experiencias digitales orientadas a ventas y comercio electrónico. 
+Tipos de comercio electrónico
+B2B: relaciona organizaciones mediante procesos comerciales digitales orientados al abastecimiento y a la negociación empresarial especializada y estratégica.
+B2C: facilita ventas digitales directas entre empresas y consumidores mediante experiencias comerciales digitales ágiles y personalizadas.
+C2C: permite la interacción comercial entre consumidores utilizando plataformas digitales colaborativas relacionadas con el intercambio y las ventas en línea.
+C2B: favorece relaciones donde consumidores ofrecen productos, servicios o contenidos a empresas dentro de entornos digitales actuales.
+Ejemplo aplicado. Tipos de comercio electrónico en “Urban Style”
+El negocio “Urban Style” inicialmente desarrollaba ventas únicamente mediante interacción directa con consumidores finales a través de Instagram y WhatsApp Business. Sin embargo, identificó oportunidades comerciales relacionadas con distribución de prendas a pequeños emprendimientos interesados en comercialización de moda urbana dentro de plataformas digitales y mercados locales especializados. Posteriormente, la empresa fortaleció estrategias B2C orientadas a consumidores finales y desarrolló acuerdos B2B relacionados con ventas mayoristas para tiendas locales. Como resultado, amplió oportunidades comerciales, diversificó procesos de venta digital y fortaleció posicionamiento mediante diferentes modalidades de comercio electrónico adaptadas a sus objetivos empresariales.
+5.4. Elementos
+Los elementos del comercio electrónico corresponden a componentes tecnológicos, comerciales y logísticos necesarios para desarrollar procesos de venta digital eficientes. Estos elementos permiten gestionar interacción comercial, pagos, atención y distribución mediante plataformas digitales. Actualmente, las organizaciones integran diferentes herramientas para fortalecer experiencia del cliente y optimizar procesos relacionados con conversión comercial online. Comprender estos componentes facilita implementación estratégica de modelos digitales orientados a ventas, posicionamiento y fortalecimiento de relaciones comerciales dentro de ecosistemas digitales contemporáneos.
+Figura 3.	Elementos del comercio electrónico
+ Falta figura
+Texto alternativo: infografía titulada “Elementos del comercio electrónico”. Presenta cuatro elementos relacionados con la operación del comercio electrónico: plataforma digital, pasarela de pagos, logística de entrega y analítica digital. La plataforma digital permite gestionar productos, contenidos y procesos comerciales; la pasarela de pagos facilita transacciones seguras; la logística de entrega favorece la distribución eficiente de productos; y la analítica digital permite interpretar métricas y comportamiento comercial para fortalecer la toma de decisiones estratégicas. Los elementos se presentan de manera articulada como componentes de los procesos comerciales digitales.
+Nota. SENA, (2026). 
+Cita de reflexión. “El crecimiento del comercio electrónico requiere decisiones responsables orientadas a transparencia, confianza y compromiso permanente con el consumidor”.
+6. Redes sociales
+ Las redes sociales se consolidaron como herramientas estratégicas para la comunicación, interacción y comercialización digital dentro de diferentes sectores empresariales. Actualmente, las organizaciones utilizan estas plataformas para fortalecer posicionamiento, desarrollar campañas y construir relaciones cercanas con consumidores digitales. Su impacto transformó procesos tradicionales relacionados con promoción, atención y ventas comerciales. Este capítulo desarrolla conceptos, tipos, usos y escucha social aplicados a estrategias comerciales digitales y procesos relacionados con ventas en social media y comportamiento del consumidor contemporáneo.
+6.1. Concepto
+Las redes sociales corresponden a plataformas digitales diseñadas para facilitar interacción, comunicación y creación de contenidos entre usuarios y organizaciones. Actualmente, estas herramientas permiten desarrollar estrategias comerciales relacionadas con posicionamiento, promoción y fortalecimiento de relaciones con consumidores digitales. Las empresas utilizan redes sociales para construir comunidades, divulgar contenidos y generar experiencias comerciales dinámicas. Su crecimiento transformó procesos relacionados con marketing, atención digital y comportamiento de compra dentro de entornos digitales contemporáneos altamente conectados.
+
+
+6.2. Tipos
+Los tipos de redes sociales permiten clasificar plataformas digitales según características funcionales, objetivos de interacción y formatos de contenido utilizados por usuarios y organizaciones. Esta clasificación facilita seleccionar plataformas adecuadas según estrategias comerciales y comportamiento del consumidor digital. Dentro de las principales categorías se encuentran redes sociales horizontales, verticales, profesionales y audiovisuales. Comprender estas tipologías fortalece toma de decisiones relacionadas con campañas, contenidos y procesos comerciales desarrollados en entornos digitales altamente competitivos y dinámicos.
+Tipos de redes sociales
+•	Horizontales: facilitan la interacción general entre usuarios mediante contenidos relacionados con diferentes intereses y actividades digitales contemporáneas.
+•	Verticales: se enfocan en comunidades especializadas relacionadas con intereses específicos y segmentos comerciales digitales determinados estratégicamente.
+•	Profesionales: permiten fortalecer networking, posicionamiento corporativo y relaciones comerciales orientadas a entornos empresariales digitales contemporáneos actuales.
+•	Audiovisuales: prioriza contenidos visuales y dinámicos relacionados con entretenimiento, interacción rápida y posicionamiento digital comercial estratégico.
+Clave estratégica. Seleccionar adecuadamente tipos de redes sociales fortalece el posicionamiento comercial y optimiza la interacción con consumidores digitales específicos.
+6.3. Usos
+Las redes sociales poseen múltiples usos dentro de estrategias comerciales digitales relacionadas con posicionamiento, interacción y fortalecimiento de ventas online. Actualmente, las organizaciones utilizan estas plataformas para divulgar contenidos, desarrollar campañas y construir relaciones cercanas con consumidores digitales. Su aplicación estratégica permite fortalecer el reconocimiento de marca y optimizar procesos relacionados con la comunicación empresarial. Los usos comerciales de redes sociales también facilitan la recopilación de información estratégica y análisis del comportamiento del consumidor dentro de entornos digitales dinámicos contemporáneos. 
+Usos estratégicos de redes sociales
+Promoción comercial: permite divulgar productos, campañas y mensajes orientados a posicionamiento y fortalecimiento de ventas digitales actuales.
+Atención al cliente: facilita resolver inquietudes y fortalecer interacción mediante comunicación rápida con consumidores digitales contemporáneos actuales.
+Fidelización digital: favorece construcción de relaciones sostenibles mediante experiencias comerciales cercanas y participación constante del consumidor identificado.
+Análisis comercial: permite recopilar métricas e información estratégica relacionada con comportamiento y preferencias del consumidor digital actual.
+¿Cómo podría una empresa utilizar redes sociales para fortalecer simultáneamente promoción, atención y fidelización de clientes digitales?
+6.4. Escucha social
+La escucha social corresponde al proceso de monitoreo y análisis de conversaciones, comentarios e interacciones desarrolladas en redes sociales y plataformas digitales, su propósito consiste en comprender opiniones, necesidades y percepciones relacionadas con marcas, productos y tendencias comerciales. Actualmente, las organizaciones utilizan herramientas de escucha social para fortalecer toma de decisiones estratégicas y mejorar procesos relacionados con atención, campañas y experiencia del cliente digital, esta práctica permite interpretar comportamientos y anticipar oportunidades dentro de entornos digitales altamente dinámicos.
+Las empresas implementan escucha social mediante herramientas tecnológicas orientadas al análisis de comentarios, menciones y tendencias digitales relacionadas con sus marcas. Empresas como Coca-Cola monitorean conversaciones digitales para identificar percepciones del consumidor y optimizar campañas relacionadas con posicionamiento y experiencia comercial. Este análisis fortalece capacidad de respuesta y permite ajustar estrategias según comportamiento del mercado digital. La escucha social también contribuye a prevenir crisis reputacionales y fortalecer interacción con consumidores digitales contemporáneos.
+
+Escucha social: tu plataforma de lanzamiento hacia el éxito en las redes sociales.
+	Lo invitamos a visitar el siguiente enlace en donde podrá apreciar una página que explica cómo el social listening fortalece decisiones de marketing, reputación digital y estrategias empresariales.
+	https://sproutsocial.com/insights/social-media-listening/
+Ejemplo aplicado. Escucha social en “Urban Style”
+El negocio “Urban Style” identificó comentarios frecuentes relacionados con tiempos de respuesta, preferencias de estilos y solicitudes de nuevos productos mediante Instagram y TikTok. Inicialmente, la empresa no analizaba estas interacciones y perdía oportunidades relacionadas con mejora comercial y fortalecimiento de experiencia digital del consumidor contemporáneo. Posteriormente, comenzó a monitorear comentarios, mensajes y tendencias relacionadas con moda urbana y comportamiento digital de sus seguidores. Como resultado, ajustó contenidos, fortaleció campañas promocionales y mejoró la atención digital mediante estrategias alineadas con necesidades y expectativas identificadas en conversaciones desarrolladas dentro de redes sociales utilizadas por sus consumidores.
+Cita de reflexión. “La interacción digital responsable requiere escuchar al consumidor con respeto, transparencia y disposición permanente hacia la mejora continua”.
+ 
+7. Campañas
+ Las campañas digitales representan estrategias organizadas orientadas a promover productos, fortalecer posicionamiento y generar interacción mediante plataformas digitales y redes sociales. Actualmente, las organizaciones utilizan campañas comerciales para conectar con consumidores, fortalecer reconocimiento de marca y optimizar procesos relacionados con ventas digitales. Estas acciones integran contenidos, segmentación y herramientas tecnológicas alineadas con objetivos estratégicos empresariales. Este capítulo desarrolla conceptos, tipos y usos de campañas aplicadas a procesos comerciales digitales y estrategias relacionadas con ventas en social media.
+7.1. Concepto
+Las campañas digitales corresponden a conjuntos de acciones estratégicas organizadas para alcanzar objetivos comerciales específicos mediante plataformas digitales y redes sociales, estas estrategias integran contenidos, segmentación y herramientas orientadas a fortalecer posicionamiento, interacción y conversión comercial. Actualmente, las organizaciones desarrollan campañas digitales para conectar con consumidores y fortalecer experiencias relacionadas con productos y servicios. Su implementación permite optimizar recursos comerciales y mejorar resultados relacionados con visibilidad, reconocimiento y comportamiento del consumidor digital contemporáneo.
+ 
+Ejemplo aplicado. Campaña digital en “Urban Style”
+El negocio “Urban Style” presentaba bajo alcance digital y poca interacción comercial mediante redes sociales relacionadas con moda urbana. Inicialmente, realizaba publicaciones aisladas sin objetivos definidos ni estrategias relacionadas con segmentación, promoción y posicionamiento comercial dentro de plataformas digitales utilizadas por sus consumidores digitales. 
+Posteriormente, implementó una campaña digital enfocada en lanzamiento de nueva colección juvenil mediante Instagram y TikTok. La estrategia integró contenido audiovisual, promociones limitadas y publicaciones interactivas. Como resultado, incrementó participación digital, fortaleció reconocimiento de marca y mejoró procesos relacionados con captación de clientes y ventas digitales contemporáneas.
+7.2. Tipos
+Los tipos de campañas digitales permiten clasificar estrategias comerciales según objetivos, formatos y dinámicas de interacción desarrolladas en plataformas digitales, esta clasificación facilita seleccionar acciones adecuadas según necesidades relacionadas con posicionamiento, conversión y fidelización comercial. Dentro de las campañas más utilizadas se encuentran campañas de reconocimiento, interacción, conversión y remarketing. Comprender estas tipologías fortalece toma de decisiones estratégicas y mejora procesos relacionados con comunicación comercial y comportamiento del consumidor digital contemporáneo.
+
+Tipos de campañas digitales
+Reconocimiento: busca fortalecer visibilidad y posicionamiento mediante contenidos orientados a alcance digital empresarial estratégico contemporáneo actual.
+Interacción: favorece participación del consumidor mediante comentarios, dinámicas y contenidos interactivos relacionados con experiencias digitales actuales.
+Conversión: se orienta a generar compras, registros y acciones comerciales mediante estrategias digitales segmentadas estratégicamente actuales.
+Remarketing: permite impactar nuevamente usuarios interesados previamente en contenidos o productos relacionados con campañas digitales empresariales actuales.
+¿Qué diferencias deberían existir entre una campaña orientada a reconocimiento y otra enfocada en conversión comercial?
+7.3. Usos
+Las campañas digitales poseen múltiples usos estratégicos relacionados con posicionamiento, interacción y fortalecimiento de procesos comerciales desarrollados en plataformas digitales. Actualmente, las organizaciones utilizan campañas para promocionar productos, captar clientes y fortalecer el reconocimiento de marca dentro de mercados altamente competitivos. Estas estrategias permiten optimizar la comunicación comercial y mejorar las experiencias relacionadas con la interacción digital. Los usos de campañas también facilitan la recopilación de métricas y fortalecen la toma de decisiones orientada a la conversión y a la fidelización comercial contemporánea. 
+Usos estratégicos de campañas digitales
+A.	Posicionamiento comercial: permite fortalecer el reconocimiento empresarial mediante campañas orientadas a la identidad y diferenciación digital estratégica contemporánea actual.
+B.	Generación de ventas: favorece procesos de conversión comercial mediante promociones y contenidos digitales orientados al consumidor identificado previamente.
+C.	Fidelización digital: facilita la construcción de relaciones sostenibles mediante interacción constante y experiencias personalizadas digitales actuales contemporáneas.
+D.	Lanzamiento de productos: ayuda a divulgar novedades comerciales mediante estrategias digitales relacionadas con el alcance e interacción empresarial contemporánea actual.
+Cita de reflexión. “Las campañas digitales generan mayor impacto cuando la comunicación comercial se fundamenta en honestidad, coherencia y respeto hacia el consumidor”.
+ 
+8. Customer journey
+ El customer journey representa el recorrido que realiza un consumidor durante su interacción con una marca, desde el reconocimiento de una necesidad hasta la fidelización posterior a la compra. Actualmente, las organizaciones analizan este proceso para comprender comportamientos, optimizar experiencias y fortalecer estrategias comerciales digitales. Este enfoque permite identificar puntos de contacto relevantes y mejorar procesos relacionados con interacción y conversión. El capítulo desarrolla conceptos y aplicaciones del customer journey dentro de estrategias digitales relacionadas con ventas en social media y comportamiento del consumidor contemporáneo.
+8.1. Concepto
+El customer journey corresponde al recorrido que realiza un consumidor durante las diferentes etapas de interacción con una marca dentro de entornos físicos y digitales, este proceso incluye reconocimiento de necesidades, búsqueda de información, evaluación de alternativas, compra y experiencia posterior relacionada con fidelización. Actualmente, las organizaciones analizan este recorrido para comprender comportamientos y optimizar experiencias comerciales. 
+El customer journey fortalece estrategias relacionadas con segmentación, contenidos y posicionamiento dentro de plataformas digitales y redes sociales contemporáneas. Las empresas utilizan el customer journey para identificar puntos de contacto donde el consumidor interactúa con contenidos, plataformas y procesos comerciales digitales. Empresas como Amazon analizan navegación, historial de búsqueda y decisiones de compra para fortalecer experiencias personalizadas relacionadas con recomendaciones y atención digital. Este enfoque permite optimizar interacción y mejorar procesos comerciales orientados a satisfacción del consumidor.
+Etapas del customer journey
+o	Reconocimiento: permite identificar necesidades y despertar interés mediante contenidos relacionados con productos y experiencias digitales actuales.
+o	Consideración: facilita análisis de alternativas comerciales mediante interacción, recomendaciones y contenidos estratégicos orientados al consumidor digital.
+o	Decisión de compra: favorece procesos relacionados con conversión mediante atención, promociones y experiencias comerciales digitales personalizadas actuales.
+o	Fidelización: fortalece relaciones sostenibles mediante seguimiento, interacción y experiencias positivas posteriores al proceso comercial digital contemporáneo.
+Clave estratégica. Comprender el customer journey permite optimizar experiencias comerciales y fortalecer interacción con consumidores digitales durante diferentes etapas.
+8.2. Aplicación
+La aplicación del customer journey permite desarrollar estrategias comerciales orientadas a mejorar experiencia del consumidor y fortalecer procesos relacionados con conversión y fidelización digital. Actualmente, las organizaciones utilizan esta metodología para analizar comportamientos, identificar puntos críticos y optimizar interacción dentro de plataformas digitales. Este enfoque facilita construcción de experiencias coherentes y alineadas con expectativas del consumidor contemporáneo. 
+Las empresas aplican customer journey mediante análisis de interacción, métricas digitales y comportamiento del consumidor en diferentes canales comerciales. Empresas como Netflix estudian hábitos de navegación y preferencias audiovisuales para personalizar contenidos y fortalecer permanencia de usuarios digitales, este proceso permite optimizar experiencias y desarrollar estrategias orientadas a satisfacción comercial. La aplicación del customer journey también facilita identificar dificultades relacionadas con atención, navegación y procesos de compra desarrollados en plataformas digitales contemporáneas.
+Ejemplo aplicado. Aplicación estratégica en “Urban Style”
+El negocio “Urban Style” identificó que varios consumidores abandonaban procesos de compra debido a tiempos de respuesta lentos y falta de información relacionada con pagos y entregas. Inicialmente, la empresa no analizaba el recorrido digital del consumidor ni las dificultades relacionadas con interacción comercial dentro de plataformas sociales utilizadas para ventas. Posteriormente, implementó estrategias relacionadas con respuestas automáticas, seguimiento digital y contenidos orientados a resolver inquietudes frecuentes. Como resultado, mejoró experiencia del cliente, fortaleció procesos de conversión y optimizó interacción comercial mediante estrategias alineadas con necesidades identificadas durante el recorrido digital de sus consumidores contemporáneos. 
+Aplicaciones estratégicas del customer journey
+Optimización de experiencia: permite mejorar interacción comercial mediante estrategias orientadas a necesidades del consumidor digital identificado previamente.
+Análisis de comportamiento: facilita comprender decisiones y hábitos relacionados con procesos comerciales desarrollados en plataformas digitales actuales contemporáneas.
+Personalización comercial: favorece contenidos y experiencias ajustados según el comportamiento e intereses del consumidor identificado estratégicamente previamente.
+Fidelización digital: fortalece relaciones sostenibles mediante seguimiento y acompañamiento durante diferentes etapas comerciales digitales contemporáneas actuales.
+Cita de reflexión. “Comprender el recorrido del cliente implica actuar con empatía, responsabilidad y compromiso frente a sus necesidades digitales”.
+Pódcast 2
+Transcripción del pódcast. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Síntesis 
+El componente formativo Estrategia comercial digital ofrece al aprendiz fundamentos relacionados con clientes digitales, información personal, negociación y estrategias comerciales aplicadas a entornos digitales contemporáneos. Su desarrollo permite comprender dinámicas relacionadas con segmentación, comportamiento del consumidor y construcción de experiencias digitales orientadas al fortalecimiento de ventas en social media. Asimismo, integra herramientas estratégicas relacionadas con matrices de mercadeo y procesos de interacción comercial utilizados dentro de plataformas digitales y ecosistemas empresariales altamente competitivos.
+El componente también desarrolla conocimientos relacionados con comercio electrónico, redes sociales, campañas digitales y customer journey aplicados a procesos comerciales contemporáneos. A través de ejemplos empresariales, casos aplicados y herramientas estratégicas, el aprendiz fortalece capacidades relacionadas con posicionamiento, fidelización y análisis del comportamiento digital. Este enfoque contribuye al desarrollo de competencias orientadas a planificación, interacción y optimización de experiencias comerciales dentro de mercados digitales dinámicos y entornos relacionados con ventas digitales contemporáneas.
+Falta figura
+Texto alternativo: La ilustración muestra la estructura jerárquica que sintetiza el contenido del componente formativo “Estrategia comercial digital”, el cual se organiza en ocho unidades. Inicia con clientes digitales, en donde se aborda su concepto, tipo, perfiles, arquetipos y buyer persona. El capítulo dos está destinado para información personal, desarrollando concepto, tipología, usos, componentes y normativa. El capítulo tres corresponde a Negociación, en donde se ve concepto, tipologías y aplicación. El capítulo cuatro aborda matriz de estrategia de mercadeo, en donde se ve concepto, tipología y elaboración. El capítulo cinco desarrolla comercio electrónico, abordando su concepto, ventajas, tipos y elementos. El capítulo seis desarrolla la temática de redes sociales, abordando concepto, tipos, usos y escucha social. El capítulo siete corresponde a campañas en donde se ve concepto, tipos y usos. Culmina con el capítulo ocho para customer journey, en donde se aprecia su concepto y aplicación.
+
+Glosario
+Buyer persona: representación del cliente ideal construida mediante análisis de intereses, hábitos y comportamientos digitales específicos identificados previamente.
+Campaña digital: estrategia comercial organizada para fortalecer posicionamiento, interacción y conversión mediante plataformas digitales y redes sociales.
+Comercio electrónico: modelo comercial desarrollado mediante plataformas digitales orientadas a procesos de compra y venta online contemporáneos actuales.
+Conversión: acción realizada por el consumidor relacionada con compra, registro o interacción comercial dentro de plataformas digitales actuales.
+Customer journey: recorrido desarrollado por el consumidor durante diferentes etapas de interacción con una marca digital contemporánea actual.
+Escucha social: proceso de monitoreo y análisis relacionado con conversaciones digitales desarrolladas en redes sociales y plataformas contemporáneas.
+Fidelización: estrategia orientada a fortalecer relaciones sostenibles mediante experiencias comerciales positivas y personalizadas digitales actuales contemporáneas.
+Matriz estratégica: herramienta utilizada para organizar objetivos, acciones y procesos comerciales relacionados con estrategias digitales contemporáneas actuales.
+Redes sociales: plataformas digitales utilizadas para interacción, comunicación y fortalecimiento de estrategias comerciales contemporáneas relacionadas con consumidores.
+Segmentación: clasificación de consumidores según características, intereses y comportamientos utilizados para fortalecer estrategias comerciales digitales actuales.
+Referencias bibliográficas 
+Congreso de la República de Colombia. (2012). Ley 1581 de 2012. Por la cual se dictan disposiciones generales para la protección de datos personales. https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=49981
+Rock Content. (2023). Qué son los arquetipos de marca y cómo utilizarlos. https://rockcontent.com/es/blog/arquetipos-de-marca/
+Sprout Social. (2024). Guía de social listening para empresas. https://sproutsocial.com/insights/social-media-listening/
+ Universidad Internacional de La Rioja [UNIR]. (2022). Buyer persona: qué es, cómo crearlo y ejemplos. Revista UNIR. https://www.unir.net/revista/marketing-comunicacion/buyer-persona/?utm_source=chatgpt.com
+
+
+Créditos
+Nombre	Cargo	Centro de Formación y Regional
+Claudia Johanna Gómez Pérez	Responsable del ecosistema	Centro Agroturístico - Regional Santander
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
