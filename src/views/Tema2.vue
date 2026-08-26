@@ -56,7 +56,7 @@
 
 
     .row.mb-5.justify-content-center.align-items-center
-      .col-lg-12.mb-4.mb-lg-4.mb-xl-0  
+      .col-lg-10.mb-4.mb-lg-4.mb-xl-0  
         .titulo-sexto.color-acento-contenido.mb-3
           h5 
             b Tabla 2.
