@@ -99,11 +99,11 @@
       .col-lg-8.order-1.order-lg-2.mb-4.mb-lg-0
         p.mb-3(data-aos="fade-right") Los perfiles de clientes digitales permiten clasificar usuarios según comportamientos, intereses, hábitos de consumo y formas de interacción en entornos digitales. Su identificación facilita la segmentación estratégica y la construcción de experiencias comerciales personalizadas. Actualmente, las organizaciones utilizan datos provenientes de redes sociales, plataformas digitales y herramientas analíticas para comprender patrones de comportamiento. Este análisis fortalece decisiones relacionadas con campañas, contenidos y procesos comerciales orientados a mejorar la interacción y conversión digital.
 
-        .cajon.bg-color-01.p-4
+        .cajon.bg-color-09.p-4
           p.mb-0 Los perfiles digitales pueden construirse mediante variables demográficas, geográficas, psicográficas y conductuales. Las variables demográficas incluyen edad, género y ocupación; las geográficas consideran ubicación y contexto territorial; las psicográficas analizan estilos de vida y valores; mientras las conductuales estudian hábitos de interacción y compra. Empresas como Spotify utilizan análisis conductual para recomendar contenido personalizado y fortalecer la experiencia del usuario. Esta segmentación permite optimizar estrategias comerciales y mejorar procesos de fidelización digital.
 
     .row.mb-5.justify-content-center.align-items-center
-      .col-lg-12.mb-4.mb-lg-4.mb-xl-0  
+      .col-lg-10.mb-4.mb-lg-4.mb-xl-0  
         .titulo-sexto.color-acento-contenido.mb-3
           h5 
             b Tabla 1.
@@ -139,7 +139,7 @@
               img(src="@/assets/curso/tema1/img10.png", style="max-width: 150px;").mx-auto
             .col-lg-9.order-1.order-lg-2.p-4
               .bg-color-08.p-2.mb-2.max-cont-md
-                h4.mb-0.text-bold Clave estratégica
+                h4.mb-0.text-bold.text-white Clave estratégica
               p.mb-0 La correcta identificación de perfiles digitales permite personalizar contenidos y optimizar procesos de interacción y conversión comercial.
 
 
@@ -236,7 +236,7 @@
         h4 Ejemplo aplicado. Construcción del <em>buyer</em> persona en “Urban Style”
         p.mb-3(data-aos="fade-right") Después de analizar interacciones digitales y hábitos de consumo, “Urban Style” identificó que gran parte de sus seguidores correspondían a jóvenes universitarios interesados en moda urbana, promociones digitales y contenido audiovisual dinámico. A partir de esta información, la empresa construyó un <em>buyer</em> persona denominado “Camila”, estudiante de 22 años, usuaria activa de Instagram y TikTok, interesada en tendencias de moda accesibles y compras rápidas mediante plataformas digitales. 
 
-        .cajon.bg-color-01.p-4
+        .cajon.bg-color-09.p-4
           p.mb-0 Con base en este perfil, el negocio ajustó sus publicaciones, implementó promociones limitadas y fortaleció estrategias de contenido visual orientadas a experiencias dinámicas. Como resultado, incrementó la interacción digital, mejoró el alcance comercial y fortaleció procesos de conversión mediante contenidos alineados con intereses específicos del cliente identificado.
 
 

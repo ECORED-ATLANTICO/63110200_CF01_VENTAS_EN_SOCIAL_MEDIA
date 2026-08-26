@@ -27,7 +27,7 @@
             img(src="@/assets/curso/tema8/img02.png", data-aos="zoom-in").mx-auto
         .col-lg-8.order-2.order-lg-1.mb-0.mb-lg-0
           p.mb-3(data-aos="fade-right") El <em>customer journey</em> corresponde al recorrido que realiza un consumidor durante las diferentes etapas de interacción con una marca dentro de entornos físicos y digitales, este proceso incluye reconocimiento de necesidades, búsqueda de información, evaluación de alternativas, compra y experiencia posterior relacionada con fidelización. Actualmente, las organizaciones analizan este recorrido para comprender comportamientos y optimizar experiencias comerciales. 
-          .cajon.bg-color-01.p-4
+          .cajon.bg-color-09.p-4
             p.mb-0 El <em>customer journey</em> fortalece estrategias relacionadas con segmentación, contenidos y posicionamiento dentro de plataformas digitales y redes sociales contemporáneas. Las empresas utilizan el <em>customer journey</em> para identificar puntos de contacto donde el consumidor interactúa con contenidos, plataformas y procesos comerciales digitales. Empresas como Amazon analizan navegación, historial de búsqueda y decisiones de compra para fortalecer experiencias personalizadas relacionadas con recomendaciones y atención digital. Este enfoque permite optimizar interacción y mejorar procesos comerciales orientados a satisfacción del consumidor.
 
 
@@ -155,7 +155,7 @@
           .row.align-items-center.justify-content-center(data-aos="fade-right")
             .col-lg-auto.d-none.d-lg-block.order-lg-1
               img(src="@/assets/curso/tema1/img19.png", style="max-width: 150px;").mx-auto
-            .col-lg-9.order-1.order-lg-2.p-4
+            .col-lg-8.order-1.order-lg-2.p-4
               .bg-color-10.p-2.mb-3.max-cont-md
                 h4.mb-0.text-bold.text-white Cita de reflexión
               p.mb-0 “Comprender el recorrido del cliente implica actuar con empatía, responsabilidad y compromiso frente a sus necesidades digitales”.

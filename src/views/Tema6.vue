@@ -174,7 +174,7 @@
       .col-lg-8.order-2.order-lg-1.mb-0.mb-lg-0
         p.mb-3.mb-lg-2(data-aos="fade-right") La escucha social corresponde al proceso de monitoreo y análisis de conversaciones, comentarios e interacciones desarrolladas en redes sociales y plataformas digitales, su propósito consiste en comprender opiniones, necesidades y percepciones relacionadas con marcas, productos y tendencias comerciales. Actualmente, las organizaciones utilizan herramientas de escucha social para fortalecer toma de decisiones estratégicas y mejorar procesos relacionados con atención, campañas y experiencia del cliente digital, esta práctica permite interpretar comportamientos y anticipar oportunidades dentro de entornos digitales altamente dinámicos.
 
-        .cajon.bg-color-01.p-4
+        .cajon.bg-color-09.p-4
           p.mb-0 Las empresas implementan escucha social mediante herramientas tecnológicas orientadas al análisis de comentarios, menciones y tendencias digitales relacionadas con sus marcas. Empresas como Coca-Cola monitorean conversaciones digitales para identificar percepciones del consumidor y optimizar campañas relacionadas con posicionamiento y experiencia comercial. Este análisis fortalece capacidad de respuesta y permite ajustar estrategias según comportamiento del mercado digital. La escucha social también contribuye a prevenir crisis reputacionales y fortalecer interacción con consumidores digitales contemporáneos.
 
     .row.align-items-center.mb-5(data-aos="fade-right")

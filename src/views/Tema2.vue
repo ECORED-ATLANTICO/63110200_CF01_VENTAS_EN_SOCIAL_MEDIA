@@ -109,7 +109,7 @@
         .col-lg-8.order-2.order-lg-2.mb-0.mb-lg-0
           p.mb-3(data-aos="fade-right") La información personal cumple funciones estratégicas dentro de procesos comerciales digitales, debido a que permite comprender comportamientos, necesidades y preferencias de los consumidores. Las organizaciones utilizan datos personales para segmentar audiencias, personalizar campañas y fortalecer experiencias de interacción en plataformas digitales, este uso estratégico facilita procesos de comunicación más precisos y orientados a objetivos comerciales específicos. Actualmente, el análisis de información personal representa una herramienta fundamental para optimizar decisiones relacionadas con ventas digitales y posicionamiento comercial.
 
-          .cajon.bg-color-01.p-4
+          .cajon.bg-color-09.p-4
             p.mb-0 Las empresas utilizan información personal para diseñar campañas digitales alineadas con intereses específicos de sus consumidores. Plataformas como Netflix analizan hábitos de navegación y preferencias audiovisuales para recomendar contenidos personalizados y fortalecer la permanencia de usuarios. Este uso de datos incrementa interacción y mejora la experiencia digital mediante estrategias ajustadas a comportamientos identificados previamente. 
 
 

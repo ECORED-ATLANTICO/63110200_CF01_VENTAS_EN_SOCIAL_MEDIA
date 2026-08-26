@@ -245,7 +245,7 @@
             .row.align-items-center.justify-content-center(data-aos="fade-right")
               .col-lg-auto.d-none.d-lg-block.order-lg-1
                 img(src="@/assets/curso/tema1/img19.png", style="max-width: 150px;").mx-auto
-              .col-lg-9.order-1.order-lg-2.p-4
+              .col-lg-8.order-1.order-lg-2.p-4
                 .bg-color-10.p-2.mb-3.max-cont-md
                   h4.mb-0.text-bold.text-white Cita de reflexión
                 p.mb-0 “La planeación estratégica adquiere verdadero valor cuando las decisiones comerciales se desarrollan con responsabilidad y compromiso hacia el cliente”.
