@@ -89,7 +89,7 @@
               img(src='@/assets/curso/tema3/img07.png', alt='Competitiva')
 
     .row.align-items-center(data-aos="fade-right")
-      .col-lg-8.mx-auto
+      .col-lg-12.col-xl-8.mx-auto
         .bg-color-09.br-15.mb-0
           .row.align-items-center.justify-content-center(data-aos="fade-right")
             .col-lg-auto.d-none.d-lg-block.order-lg-1
@@ -137,7 +137,7 @@
               figcaption Nota. SENA, (2026).
 
       .row.align-items-center(data-aos="fade-right")
-        .col-lg-8.mx-auto
+        .col-lg-12.col-xl-8.mx-auto
           .bg-color-01.br-15.mb-0
             .row.align-items-center.justify-content-center(data-aos="fade-right")
               .col-lg-auto.d-none.d-lg-block.order-lg-1

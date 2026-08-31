@@ -21,11 +21,11 @@
       #t_6_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
         h2 6.1 Concepto
 
-      .row.mb-4.justify-content-center.align-items-center
-        .col-lg-3.col-md-8.mb-0.mb-lg-0.order-1.order-lg-2
+      .row.mb-3.mb-lg-4.justify-content-center.align-items-center
+        .col-lg-3.col-md-8.mb-4.mb-lg-0.order-1.order-lg-2
           figure
             img(src="@/assets/curso/tema6/img03.png", data-aos="zoom-in")
-        .col-lg-9.order-2.order-lg-1.mb-4.mb-lg-0
+        .col-lg-9.order-2.order-lg-1.mb-0.mb-lg-0
 
           .row.mb-3.justify-content-center.align-items-center
             .col-lg-5.col-md-8.mb-0.mb-lg-0.order-2.order-lg-1
@@ -86,8 +86,8 @@
             h4.mb-3.text-center Audiovisuales
             p.mb-0 Prioriza contenidos visuales y dinámicos relacionados con entretenimiento, interacción rápida y posicionamiento digital comercial estratégico.
 
-    .row.align-items-center.mb-5(data-aos="fade-right")
-      .col-lg-8.mx-auto
+    .row.align-items-center.mb-3.mb-lg-5(data-aos="fade-right")
+      .col-lg-12.col-xl-8.mx-auto
         .bg-color-09.br-15.mb-0
           .row.align-items-center.justify-content-center(data-aos="fade-right")
             .col-lg-auto.d-none.d-lg-block.order-lg-1
@@ -151,7 +151,7 @@
 
 
       .row.align-items-center(data-aos="fade-right")
-        .col-lg-8.mx-auto
+        .col-lg-12.col-xl-8.mx-auto
           .bg-color-07.br-15.mb-0
             .row.align-items-center.justify-content-center(data-aos="fade-right")
               .col-lg-auto.d-none.d-lg-block.order-lg-1
@@ -178,7 +178,7 @@
           p.mb-0 Las empresas implementan escucha social mediante herramientas tecnológicas orientadas al análisis de comentarios, menciones y tendencias digitales relacionadas con sus marcas. Empresas como Coca-Cola monitorean conversaciones digitales para identificar percepciones del consumidor y optimizar campañas relacionadas con posicionamiento y experiencia comercial. Este análisis fortalece capacidad de respuesta y permite ajustar estrategias según comportamiento del mercado digital. La escucha social también contribuye a prevenir crisis reputacionales y fortalecer interacción con consumidores digitales contemporáneos.
 
     .row.align-items-center.mb-5(data-aos="fade-right")
-      .col-lg-10.mx-auto
+      .col-lg-12.col-xl-10.mx-auto
         .tarjeta.bg-fondo-03.p-3.mb-0
           .row.justify-content-around.align-items-center
             .col-6.col-sm-4.col-md-3.col-lg-2.mb-3.mb-lg-0.mx-auto.mx-lg-0.text-center
@@ -200,7 +200,7 @@
         p.mb-0(data-aos="fade-right") El negocio “Urban Style” identificó comentarios frecuentes relacionados con tiempos de respuesta, preferencias de estilos y solicitudes de nuevos productos mediante Instagram y TikTok. Inicialmente, la empresa no analizaba estas interacciones y perdía oportunidades relacionadas con mejora comercial y fortalecimiento de experiencia digital del consumidor contemporáneo. Posteriormente, comenzó a monitorear comentarios, mensajes y tendencias relacionadas con moda urbana y comportamiento digital de sus seguidores. Como resultado, ajustó contenidos, fortaleció campañas promocionales y mejoró la atención digital mediante estrategias alineadas con necesidades y expectativas identificadas en conversaciones desarrolladas dentro de redes sociales utilizadas por sus consumidores.
 
     .row.align-items-center(data-aos="fade-right")
-      .col-lg-8.mx-auto
+      .col-lg-12.col-xl-8.mx-auto
         .bg-color-01.br-15.mb-0
           .row.align-items-center.justify-content-center(data-aos="fade-right")
             .col-lg-auto.d-none.d-lg-block.order-lg-1

@@ -48,10 +48,10 @@
       h2 2.2 Tipología
 
     .row.mb-5.justify-content-center.align-items-center
-      .col-lg-3.col-md-12.mb-4.mb-lg-0.order-1.order-lg-1
+      .col-lg-4.col-md-12.mb-4.mb-lg-0.order-1.order-lg-1
         figure
           img(src="@/assets/curso/tema2/img05.png", data-aos="zoom-in").mx-auto
-      .col-lg-9.order-2.order-lg-2.mb-0.mb-lg-0
+      .col-lg-8.order-2.order-lg-2.mb-0.mb-lg-0
         p.mb-0(data-aos="fade-right") La información personal puede clasificarse según el nivel de sensibilidad, la finalidad de uso y las características relacionadas con la identificación del titular. Esta tipología permite establecer medidas de tratamiento y protección acordes con los riesgos asociados al manejo de datos. Dentro de las clasificaciones más utilizadas se encuentran datos públicos, privados, sensibles y semiprivados. Comprender estas categorías resulta fundamental para organizaciones que desarrollan estrategias comerciales y procesos digitales orientados a interacción con consumidores y recopilación de información.
 
 
@@ -83,7 +83,7 @@
                 td Se utiliza en contextos comerciales específicos y requiere autorización para tratamiento dentro de procesos digitales empresariales.
 
     .row.align-items-center(data-aos="fade-right")
-      .col-lg-8.mx-auto
+      .col-lg-12.col-xl-8.mx-auto
         .bg-color-09.br-15.mb-0
           .row.align-items-center.justify-content-center(data-aos="fade-right")
             .col-lg-auto.d-none.d-lg-block.order-lg-1
@@ -153,7 +153,7 @@
               p.mb-0 Fortalece relaciones comerciales mediante experiencias digitales ajustadas a necesidades y expectativas del consumidor identificado previamente.
 
       .row.align-items-center(data-aos="fade-right")
-        .col-lg-8.mx-auto
+        .col-lg-12.col-xl-8.mx-auto
           .bg-color-07.br-15.mb-0
             .row.align-items-center.justify-content-center(data-aos="fade-right")
               .col-lg-auto.d-none.d-lg-block.order-lg-1
@@ -265,7 +265,7 @@
             p.mb-0 El cumplimiento normativo representa un factor estratégico para organizaciones que desarrollan procesos comerciales mediante plataformas digitales y redes sociales. Las empresas que implementan prácticas responsables relacionadas con el tratamiento de datos fortalecen la reputación y mejoran la percepción de seguridad frente a los consumidores digitales. Empresas de comercio electrónico como Mercado Libre incorporan políticas visibles de protección de datos para fortalecer la confianza y la transparencia; estas acciones permiten desarrollar estrategias comerciales sostenibles y coherentes con principios éticos relacionados con la privacidad digital y la responsabilidad empresarial.
 
     .row.align-items-center(data-aos="fade-right")
-      .col-lg-8.mx-auto
+      .col-lg-12.col-xl-8.mx-auto
         .bg-color-01.br-15.mb-0
           .row.align-items-center.justify-content-center(data-aos="fade-right")
             .col-lg-auto.d-none.d-lg-block.order-lg-1

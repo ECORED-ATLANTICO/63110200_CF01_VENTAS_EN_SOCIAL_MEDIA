@@ -10,7 +10,7 @@
     .bg-full-width.bg-fondo-1
     
       img(src="@/assets/curso/tema1/img01.png", alt="")
-      .row.justify-content-center.align-items-center.z-2.mb-5
+      .row.justify-content-center.align-items-center.z-2.mb-3
         .col-lg-11(data-aos="fade-right")
           p.banner-text La transformación digital modificó la manera en que las organizaciones comprenden, segmentan e interactúan con los consumidores. Actualmente, los clientes digitales participan activamente en procesos de búsqueda, comparación y validación de productos mediante plataformas digitales y redes sociales. Comprender sus comportamientos, necesidades y expectativas resulta fundamental para estructurar estrategias comerciales efectivas. Este capítulo desarrolla conceptos relacionados con clientes digitales, tipologías, perfiles, arquetipos y <em>buyer</em> persona, integrando aplicaciones estratégicas orientadas al fortalecimiento de procesos comerciales y ventas en <em>social media</em>.
 
@@ -72,11 +72,11 @@
             .col-12.col-lg-auto.text-center
               a.boton.bg-color-04(:href="'https://www.youtube.com/watch?v=1dIqszM7mZA'" target="_blank")
                 span Ir al recurso
-                i.fas.fa-link
+                i.fas.fa-play
 
 
     .row.align-items-center(data-aos="fade-right")
-      .col-lg-8.mx-auto
+      .col-lg-12.col-xl-8.mx-auto
         .bg-color-07.br-15.mb-0
           .row.align-items-center.justify-content-center(data-aos="fade-right")
             .col-lg-auto.d-none.d-lg-block.order-lg-1
@@ -132,7 +132,7 @@
 
     
     .row.align-items-center(data-aos="fade-right")
-      .col-lg-8.mx-auto
+      .col-lg-12.col-xl-8.mx-auto
         .bg-color-09.br-15.mb-0
           .row.align-items-center.justify-content-center(data-aos="fade-right")
             .col-lg-auto.d-none.d-lg-block.order-lg-1
@@ -163,7 +163,7 @@
         p.mb-0(data-aos="fade-right") Los arquetipos comerciales suelen construirse mediante patrones psicológicos y emocionales relacionados con necesidades humanas universales. Algunos de los más utilizados son el explorador, el creador, el héroe y el cuidador. Por ejemplo, Nike utiliza elementos asociados al arquetipo del héroe mediante mensajes orientados a superación personal, disciplina y rendimiento. Esta construcción simbólica fortalece el posicionamiento de marca y facilita conexiones emocionales duraderas con consumidores digitales contemporáneos.
 
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-1.mb-lg-5
       .col-xl-3.col-lg-6.col-md-6.col-12.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
@@ -241,7 +241,7 @@
 
 
     .row.align-items-center(data-aos="fade-right")
-      .col-lg-8.mx-auto
+      .col-lg-12.col-xl-8.mx-auto
         .bg-color-01.br-15.mb-0
           .row.align-items-center.justify-content-center(data-aos="fade-right")
             .col-lg-auto.d-none.d-lg-block.order-lg-1

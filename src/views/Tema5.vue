@@ -9,7 +9,7 @@
 
     .bg-full-width.bg-fondo-1
 
-      .bloque-texto-g.bg-color-02.p-3.p-sm-4.p-md-5.mb-5
+      .bloque-texto-g.bg-color-02.p-3.p-sm-4.p-md-5.mb-3.mb-lg-5
         .bloque-texto-g__img(
           :style="{'background-image': `url(${require_src('@/assets/curso/tema5/img01.png')})`}"
         )
@@ -42,7 +42,7 @@
 
       .row.align-items-center(data-aos="fade-right")
         .col-lg-12.mx-auto
-          .tarjeta.bg-fondo-03.p-3.mb-5
+          .tarjeta.bg-fondo-03.p-3.mb-3.mb-lg-5
             .row.justify-content-around.align-items-center
               .col-6.col-sm-4.col-md-3.col-lg-2.mb-3.mb-lg-0.mx-auto.mx-lg-0.text-center
                 img(src="@/assets/curso/tema1/img07.png")
@@ -52,7 +52,7 @@
               .col-12.col-lg-auto.text-center
                 a.boton.bg-color-04(:href="'https://www.youtube.com/watch?v=KM-RhabB6qs'" target="_blank")
                   span Ir al recurso
-                  i.fas.fa-link
+                  i.fas.fa-play
 
     separador
     
@@ -106,8 +106,8 @@
                   img(src='@/assets/curso/tema5/img10.svg' alt='Análisis estratégico', style="max-width: 80px;").mx-auto
               p.mb-0 Permite recopilar métricas e información comercial para fortalecer las decisiones empresariales. <br><b>Ejemplo:</b> una empresa analiza interacciones y conversiones digitales para optimizar campañas comerciales.
 
-      .row.align-items-center.mb-5(data-aos="fade-right")
-        .col-lg-8.mx-auto
+      .row.align-items-center.mb-3.mb-lg-5(data-aos="fade-right")
+        .col-lg-12.col-xl-8.mx-auto
           .bg-color-09.br-15.mb-0
             .row.align-items-center.justify-content-center(data-aos="fade-right")
               .col-lg-auto.d-none.d-lg-block.order-lg-1
@@ -134,7 +134,7 @@
 
     .bg-full-width.bg-fondo-1
 
-      .row.justify-content-center.mb-5
+      .row.justify-content-center.mb-3.mb-lg-5
         .col-xl-3.col-lg-6.col-md-6.col-12.mb-4.mb-xl-0
           .crd_hover_txt(data-aos="flip-left").tarjeta
             .crd_hover_txt--img
@@ -172,7 +172,7 @@
               p.mb-0 Favorece relaciones donde consumidores ofrecen productos, servicios o contenidos a empresas dentro de entornos digitales actuales.
 
 
-      .row.mb-5.justify-content-center.align-items-center
+      .row.mb-3.mb-lg-5.justify-content-center.align-items-center
         .col-lg-3.col-md-8.mb-0.mb-lg-0.order-2.order-lg-1
           figure
             img(src="@/assets/curso/tema5/img17.png", data-aos="zoom-in")
@@ -209,7 +209,7 @@
               figcaption Nota. SENA, (2026).
 
     .row.align-items-center(data-aos="fade-right")
-      .col-lg-8.mx-auto
+      .col-lg-12.col-xl-8.mx-auto
         .bg-color-01.br-15.mb-0
           .row.align-items-center.justify-content-center(data-aos="fade-right")
             .col-lg-auto.d-none.d-lg-block.order-lg-1

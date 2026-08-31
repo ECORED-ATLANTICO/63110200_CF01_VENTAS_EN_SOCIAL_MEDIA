@@ -10,10 +10,10 @@
     .bg-full-width.bg-fondo-1
 
       .row.mb-4.justify-content-center.align-items-center
-        .col-lg-3.col-md-8.mb-0.mb-lg-0.order-1.order-lg-2
+        .col-lg-3.col-md-8.mb-4.mb-lg-0.order-1.order-lg-2
           figure
             img(src="@/assets/curso/tema7/img02.png", data-aos="zoom-in")
-        .col-lg-9.order-2.order-lg-1.mb-4.mb-lg-0
+        .col-lg-9.order-2.order-lg-1.mb-0.mb-lg-0
 
           .row.mb-3.justify-content-center.align-items-center
             .col-lg-5.col-md-8.mb-0.mb-lg-0.order-2.order-lg-1
@@ -85,8 +85,8 @@
               h4 <em>Remarketing</em>
               p.mb-0 Permite impactar nuevamente a usuarios interesados previamente en contenidos o productos relacionados con campañas digitales empresariales actuales.
 
-      .row.align-items-center.mb-5(data-aos="fade-right")
-        .col-lg-8.mx-auto
+      .row.align-items-center.mb-3.mb-lg-5(data-aos="fade-right")
+        .col-lg-12.col-xl-8.mx-auto
           .bg-color-07.br-15.mb-0
             .row.align-items-center.justify-content-center(data-aos="fade-right")
               .col-lg-auto.d-none.d-lg-block.order-lg-1
@@ -108,7 +108,7 @@
         .col-lg-8.order-2.order-lg-2.mb-0.mb-lg-0
           p.mb-0 Las campañas digitales poseen múltiples usos estratégicos relacionados con posicionamiento, interacción y fortalecimiento de procesos comerciales desarrollados en plataformas digitales. Actualmente, las organizaciones utilizan campañas para promocionar productos, captar clientes y fortalecer el reconocimiento de marca dentro de mercados altamente competitivos. Estas estrategias permiten optimizar la comunicación comercial y mejorar las experiencias relacionadas con la interacción digital. Los usos de campañas también facilitan la recopilación de métricas y fortalecen la toma de decisiones orientada a la conversión y a la fidelización comercial contemporánea.
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-3.mb-lg-5
       .col-xl-3.col-lg-6.col-md-6.col-12.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
@@ -146,7 +146,7 @@
             p.mb-0 Ayuda a divulgar novedades comerciales mediante estrategias digitales relacionadas con el alcance e interacción empresarial contemporánea actual.
 
     .row.align-items-center(data-aos="fade-right")
-      .col-lg-8.mx-auto
+      .col-lg-12.col-xl-8.mx-auto
         .bg-color-01.br-15.mb-0
           .row.align-items-center.justify-content-center(data-aos="fade-right")
             .col-lg-auto.d-none.d-lg-block.order-lg-1

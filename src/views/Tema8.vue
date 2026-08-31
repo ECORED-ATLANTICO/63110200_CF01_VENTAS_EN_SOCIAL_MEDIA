@@ -9,7 +9,7 @@
 
     .bg-full-width.bg-fondo-1
 
-      .bloque-texto-g.bg-color-13.p-3.p-sm-4.p-md-5.mb-5
+      .bloque-texto-g.bg-color-13.p-3.p-sm-4.p-md-5.mb-3.mb-lg-5
         .bloque-texto-g__img(
           :style="{'background-image': `url(${require_src('@/assets/curso/tema8/img01.png')})`}"
         )
@@ -69,8 +69,8 @@
             h4.mb-3.text-center Fidelización
             p.mb-0 Fortalece relaciones sostenibles mediante seguimiento, interacción y experiencias positivas posteriores al proceso comercial digital contemporáneo.
 
-    .row.align-items-center.mb-5(data-aos="fade-right")
-      .col-lg-8.mx-auto
+    .row.align-items-center.mb-3.mb-lg-5(data-aos="fade-right")
+      .col-lg-12.col-xl-8.mx-auto
         .bg-color-09.br-15.mb-0
           .row.align-items-center.justify-content-center(data-aos="fade-right")
             .col-lg-auto.d-none.d-lg-block.order-lg-1
@@ -165,7 +165,7 @@
           .row.bg-fondo-07.align-items-center.justify-content-center.br-15
             .col-md-8.col-lg-4.mb-3.mb-lg-0.order-2.order-md-2.order-lg-1.p-3
               figure
-                img(src="@/assets/curso/tema4/img19.png", data-aos="fade-right").mx-auto
+                img(src="@/assets/curso/tema4/img19.png", data-aos="fade-right").mx-auto.w-md-50
             .col-lg-8.order-1.order-md-1.order-lg-2.p-4.p-lg-4
               h4.mb-2.text-white ¿Sabías qué?
               p(data-aos="fade-left").mb-4.text-white Lo invitamos a escuchar el siguiente Pódcast:
