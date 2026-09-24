@@ -70,6 +70,7 @@
 
       .row.mb-3.mb-lg-5.justify-content-center.align-items-center
         .col-lg-12.col-md-12.order-1.order-lg-2.mb-5.mb-lg-0
+          h4.mb-2.text-bold Tipos de matrices estratégicas
           .bg-fondo-05.p-3.p-lg-5
             SlyderA(tipo="b").bg-color-white.p-1.p-lg-3.tarjeta
               .tarjeta.p-2.p-lg-3.h-100.mb-0
@@ -202,6 +203,7 @@
           p.mb-0(data-aos="fade-right") El negocio “Urban Style” decidió organizar su estrategia comercial digital mediante una matriz enfocada en objetivos relacionados con posicionamiento, interacción y aumento de ventas digitales. Inicialmente, la empresa publicaba contenidos sin planificación estructurada ni análisis relacionado con perfiles de consumidores y comportamiento comercial en redes sociales. Posteriormente, la organización elaboró una matriz integrando segmentos digitales, plataformas utilizadas, objetivos comerciales y tipos de contenido orientados a campañas promocionales. Como resultado, logró organizar procesos comerciales, fortalecer interacción con clientes y optimizar publicaciones digitales mediante estrategias más coherentes con necesidades y expectativas de sus consumidores digitales.
 
 
+      h4.mb-2.text-bold Etapas para elaborar una matriz de estrategia de mercadeo
       .row.justify-content-center.mb-4
         .col-xl-3.col-lg-6.col-md-6.col-12.mb-4.mb-xl-0
           .crd_hover_txt(data-aos="flip-left").tarjeta
@@ -258,9 +260,9 @@
                   img(src="@/assets/curso/tema4/img19.png", data-aos="fade-right").mx-auto.w-md-50
               .col-lg-8.order-1.order-md-1.order-lg-2.p-4.p-lg-4
                 h4.mb-2.text-white ¿Sabías qué?
-                p(data-aos="fade-left").mb-4.text-white Lo invitamos a escuchar el siguiente Pódcast:
+                p(data-aos="fade-left").mb-4.text-white Lo invitamos al siguiente pódcast:
                 TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
-                  texto="Pendiente por definir el titulo del podcast"
+                  texto="Planeación estratégica de mercadeo"
                   tiempo
                   :audio="require_src('@/assets/curso/audio/1.mp3')"
                 )

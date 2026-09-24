@@ -31,7 +31,7 @@
             p.mb-0 El <em>customer journey</em> fortalece estrategias relacionadas con segmentación, contenidos y posicionamiento dentro de plataformas digitales y redes sociales contemporáneas. Las empresas utilizan el <em>customer journey</em> para identificar puntos de contacto donde el consumidor interactúa con contenidos, plataformas y procesos comerciales digitales. Empresas como Amazon analizan navegación, historial de búsqueda y decisiones de compra para fortalecer experiencias personalizadas relacionadas con recomendaciones y atención digital. Este enfoque permite optimizar interacción y mejorar procesos comerciales orientados a satisfacción del consumidor.
 
 
-
+    h4.mb-2.text-bold Etapas del <em>customer journey</em>
     .row.justify-content-center.mb-5
       .col-xl-3.col-lg-6.col-md-6.col-12.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left").tarjeta
@@ -111,6 +111,7 @@
 
     .row.mb-3.mb-lg-5.justify-content-center.align-items-center
       .col-lg-12.col-md-12.order-1.order-lg-2.mb-5.mb-lg-0
+        h4.mb-2.text-bold Aplicaciones estratégicas del <em>customer journey</em>
         .bg-fondo-05.p-3.p-lg-5
           SlyderA(tipo="b").bg-color-white.p-1.p-lg-3.tarjeta
             .tarjeta.p-2.p-lg-3.h-100.mb-0
@@ -168,9 +169,9 @@
                 img(src="@/assets/curso/tema4/img19.png", data-aos="fade-right").mx-auto.w-md-50
             .col-lg-8.order-1.order-md-1.order-lg-2.p-4.p-lg-4
               h4.mb-2.text-white ¿Sabías qué?
-              p(data-aos="fade-left").mb-4.text-white Lo invitamos a escuchar el siguiente Pódcast:
+              p(data-aos="fade-left").mb-4.text-white Lo invitamos al siguiente pódcast:
               TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
-                texto="Pendiente por definir el titulo del podcast"
+                texto="Gestión estratégica del customer journey"
                 tiempo
                 :audio="require_src('@/assets/curso/audio/2.mp3')"
               )

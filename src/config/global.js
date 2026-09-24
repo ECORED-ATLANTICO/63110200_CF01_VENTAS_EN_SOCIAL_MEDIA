@@ -338,22 +338,21 @@ export default {
   referencias: [
     {
       referencia:
-        'Congreso de la República de Colombia. (2012). <em>Ley 1581 de 2012. Por la cual se dictan disposiciones generales para la protección de datos personales</em>.',
+        'Congreso de la República de Colombia. (2012). Ley 1581 de 2012. Por la cual se dictan disposiciones generales para la protección de datos personales.',
       link: 'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=49981',
     },
     {
       referencia:
-        'Rock Content. (2023). <em>Qué son los arquetipos de marca y cómo utilizarlos</em>.',
-      link: 'https://rockcontent.com/es/blog/arquetipos-de-marca/',
+        'Rock Content. (2023). Qué son los arquetipos de marca y cómo utilizarlos.',
     },
     {
       referencia:
-        'Sprout Social. (2024). <em>Guía de social listening para empresas</em>.',
+        'Sprout Social. (2024). Guía de social listening para empresas.',
       link: 'https://sproutsocial.com/insights/social-media-listening/',
     },
     {
       referencia:
-        'Universidad Internacional de La Rioja [UNIR]. (2022). <em>Buyer persona: qué es, cómo crearlo y ejemplos</em>. Revista UNIR.',
+        'Universidad Internacional de La Rioja [UNIR]. (2022). Buyer persona: qué es, cómo crearlo y ejemplos. Revista UNIR.',
       link: 'https://www.unir.net/revista/marketing-comunicacion/buyer-persona/?utm_source=chatgpt.com',
     },
   ],
@@ -365,12 +364,12 @@ export default {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
             'Profesional G06. Responsable Ecosistema de Recursos Educativos Digitales',
-          centro: 'Centro Agroturístico – Regional Santander',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Miguel De Jesús Paredes Maestre',
           cargo: 'Responsable de línea de producción',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
@@ -379,13 +378,13 @@ export default {
       autores: [
         {
           nombre: 'Nicolás Cruz',
-          cargo: 'Experto temático Comercio y servicio',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          cargo: 'Experto temático',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Rosmery Conde',
           cargo: 'Evaluadora instruccional',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
@@ -395,22 +394,22 @@ export default {
         {
           nombre: 'Jesús Antonio Vecino Valero',
           cargo: 'Diseñador de contenidos digitales',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Álvaro Guillermo Araújo Angarita',
-          cargo: 'Desarrollador <em>full stack</em>',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          cargo: 'Desarrollador full stack',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Alexander Rafael Acosta Bedoya',
           cargo: 'Animador y productor audiovisual',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Nelson Iván Vera Briceño',
           cargo: 'Animador y productor audiovisual',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
@@ -420,22 +419,22 @@ export default {
         {
           nombre: 'Luz Karime Amaya Cabra',
           cargo: 'Evaluadora de contenidos inclusivos y accesibles',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Laura Daniela Burgos Rueda',
           cargo: 'Evaluadora de contenidos inclusivos y accesibles',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Jonathan Adié Villafañe',
           cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Karine Isabel Ospino Fritz',
           cargo: 'Validadora y vinculadora de recursos educativos digitales',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },

@@ -457,25 +457,25 @@ export default {
             {
               id: 'a',
               texto:
-                'Modelo <em>C2B</em> utilizado exclusivamente para procesos financieros empresariales digitales contemporáneos actuales.',
+                'Modelo C2B utilizado exclusivamente para procesos financieros empresariales digitales contemporáneos actuales.',
               esCorrecta: false,
             },
             {
               id: 'b',
               texto:
-                'Modelo <em>B2B</em> enfocado únicamente hacia negociaciones organizacionales comerciales estratégicas contemporáneas actuales.',
+                'Modelo B2B enfocado únicamente hacia negociaciones organizacionales comerciales estratégicas contemporáneas actuales.',
               esCorrecta: false,
             },
             {
               id: 'c',
               texto:
-                'Modelo <em>B2C</em> orientado a ventas digitales entre empresas y consumidores finales.',
+                'Modelo B2C orientado a ventas digitales entre empresas y consumidores finales.',
               esCorrecta: true,
             },
             {
               id: 'd',
               texto:
-                'Modelo <em>C2C</em> relacionado exclusivamente con interacción entre consumidores digitales empresariales actuales.',
+                'Modelo C2C relacionado exclusivamente con interacción entre consumidores digitales empresariales actuales.',
               esCorrecta: false,
             },
           ],

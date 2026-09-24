@@ -45,13 +45,12 @@
       .row.justify-content-center.align-items-center.z-2.mb-5
         .col-lg-11(data-aos="fade-right")
           p.banner-text Las tipologías de negociación permiten clasificar estrategias y dinámicas utilizadas por las organizaciones durante procesos comerciales y de interacción con consumidores digitales, esta clasificación facilita comprender comportamientos, objetivos y métodos empleados para alcanzar acuerdos comerciales sostenibles. Dentro de las tipologías más utilizadas se encuentran la negociación distributiva, integrativa, colaborativa y competitiva. Comprender estas categorías fortalece procesos de toma de decisiones y permite seleccionar estrategias adecuadas según contexto comercial y características del cliente digital.
-
-
+         
+    h4.mb-2.text-bold Tipologías de negociación comercial
     TabsC.color-primario.mb-5(data-aos="zoom-in")
       .p-3.p-md-4(titulo="Distributiva")
         .row.justify-content-center.align-items-center
           .col-lg-8.mb-4.mb-md-0.p-4.order-lg-2
-            h4 Distributiva
             p.mb-3 <b>Características estratégicas:</b> prioriza beneficios individuales mediante acuerdos relacionados con precios, promociones y recursos comerciales limitados disponibles.
             p.mb-0 <b>Ejemplo aplicado:</b> una tienda digital negocia descuentos limitados con proveedores para maximizar margen comercial durante campañas promocionales estacionales.
           .col-lg-4.col-md-10.mb-3.mb-lg-0.order-lg-1
@@ -61,7 +60,6 @@
       .p-3.p-md-4(titulo="Integrativa")
         .row.justify-content-center.align-items-center
           .col-lg-8.mb-4.mb-md-0.p-4.order-lg-2
-            h4 Integrativa
             p.mb-3 <b>Características estratégicas:</b> busca beneficios compartidos mediante cooperación y fortalecimiento de relaciones comerciales sostenibles entre las partes involucradas.
             p.mb-0 <b>Ejemplo aplicado:</b> una marca de ropa acuerda campañas colaborativas con <em>influencers</em> para aumentar alcance y beneficios mutuos digitales.
           .col-lg-4.col-md-10.mb-3.mb-lg-0.order-lg-1
@@ -71,7 +69,6 @@
       .p-3.p-md-4(titulo="Colaborativa")
         .row.justify-content-center.align-items-center
           .col-lg-8.mb-4.mb-md-0.p-4.order-lg-2
-            h4 Colaborativa
             p.mb-3 <b>Características estratégicas:</b> promueve soluciones conjuntas orientadas a satisfacción mutua y construcción de experiencias comerciales positivas digitales contemporáneas.
             p.mb-0 <b>Ejemplo aplicado:</b> un negocio <em>online</em> adapta condiciones de entrega según necesidades del cliente para fortalecer confianza y fidelización comercial.
           .col-lg-4.col-md-10.mb-3.mb-lg-0.order-lg-1
@@ -81,7 +78,6 @@
       .p-3.p-md-4(titulo="Competitiva")
         .row.justify-content-center.align-items-center
           .col-lg-8.mb-4.mb-md-0.p-4.order-lg-2
-            h4 Competitiva
             p.mb-3 <b>Características estratégicas:</b> se enfoca en ventajas individuales mediante estrategias orientadas a maximizar beneficios comerciales específicos organizacionales digitales.
             p.mb-0 <b>Ejemplo aplicado:</b> una empresa reduce precios agresivamente durante temporadas especiales para captar clientes frente a competidores directos digitales.
           .col-lg-4.col-md-10.mb-3.mb-lg-0.order-lg-1

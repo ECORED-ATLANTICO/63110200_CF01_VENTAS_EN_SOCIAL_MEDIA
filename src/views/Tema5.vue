@@ -73,6 +73,7 @@
           figure
             img(src="@/assets/curso/tema5/img06.png", data-aos="zoom-in")
         .col-lg-8.order-2.order-lg-2.col-md-12.mb-4.mb-lg-0
+          h4.mb-2.text-bold Ventajas estratégicas del comercio electrónico
           SlyderF(columnas="col-lg-12 col-xl-6 col-md-12 col-sm-12 p-2")
             .tarjeta.bg-fondo-04.p-4.h-100.br-15
               .row.align-items-center.mb-3
@@ -129,7 +130,7 @@
           figure
             img(src="@/assets/curso/tema5/img12.png", data-aos="zoom-in")
         .col-lg-8.order-1.order-lg-2.mb-4.mb-lg-0
-          p.mb-0(data-aos="fade-right") Los tipos de comercio electrónico permiten clasificar relaciones comerciales desarrolladas mediante plataformas digitales y tecnologías orientadas a procesos de compra y venta <em>online</em>, esta clasificación facilita comprender dinámicas comerciales, características del consumidor y modelos de interacción empresarial utilizados en mercados digitales contemporáneos. Dentro de los tipos más utilizados se encuentran <em>B2B</em>, <em>B2C</em>, <em>C2C</em> y <em>C2B</em>. Comprender estas modalidades fortalece procesos estratégicos relacionados con segmentación, posicionamiento y construcción de experiencias digitales orientadas a ventas y comercio electrónico.
+          p.mb-0(data-aos="fade-right") Los tipos de comercio electrónico permiten clasificar relaciones comerciales desarrolladas mediante plataformas digitales y tecnologías orientadas a procesos de compra y venta <em>online</em>, esta clasificación facilita comprender dinámicas comerciales, características del consumidor y modelos de interacción empresarial utilizados en mercados digitales contemporáneos. Dentro de los tipos más utilizados se encuentran B2B, B2C, C2C y C2B. Comprender estas modalidades fortalece procesos estratégicos relacionados con segmentación, posicionamiento y construcción de experiencias digitales orientadas a ventas y comercio electrónico.
 
 
     .bg-full-width.bg-fondo-1
@@ -141,7 +142,7 @@
               figure
                 img(src="@/assets/curso/tema5/img13.png", alt="B2B")
             .crd_hover_txt--body
-              h4.mb-3.text-center <em>B2B</em>
+              h4.mb-3.text-center B2B
               p.mb-0 Relaciona organizaciones mediante procesos comerciales digitales orientados al abastecimiento y a la negociación empresarial especializada y estratégica.
 
         .col-xl-3.col-lg-6.col-md-6.col-12.mb-4.mb-xl-0
@@ -150,7 +151,7 @@
               figure
                 img(src="@/assets/curso/tema5/img14.png", alt="B2C")
             .crd_hover_txt--body
-              h4.mb-3.text-center <em>B2C</em>
+              h4.mb-3.text-center B2C
               p.mb-0 Facilita ventas digitales directas entre empresas y consumidores mediante experiencias comerciales digitales ágiles y personalizadas.
 
         .col-xl-3.col-lg-6.col-md-6.col-12.mb-4.mb-xl-0
@@ -159,7 +160,7 @@
               figure
                 img(src="@/assets/curso/tema5/img15.png", alt="C2C")
             .crd_hover_txt--body
-              h4.mb-3.text-center <em>C2C</em>
+              h4.mb-3.text-center C2C
               p.mb-0 Permite la interacción comercial entre consumidores utilizando plataformas digitales colaborativas relacionadas con el intercambio y las ventas en línea.
 
         .col-xl-3.col-lg-6.col-md-6.col-12.mb-4.mb-xl-0
@@ -168,7 +169,7 @@
               figure
                 img(src="@/assets/curso/tema5/img16.png", alt="C2B")
             .crd_hover_txt--body
-              h4.mb-3.text-center <em>C2B</em>
+              h4.mb-3.text-center C2B
               p.mb-0 Favorece relaciones donde consumidores ofrecen productos, servicios o contenidos a empresas dentro de entornos digitales actuales.
 
 
@@ -178,7 +179,7 @@
             img(src="@/assets/curso/tema5/img17.png", data-aos="zoom-in")
         .col-lg-9.order-1.order-lg-2.mb-4.mb-lg-0
           h4 Ejemplo aplicado. Tipos de comercio electrónico en “Urban Style”
-          p.mb-0(data-aos="fade-right") El negocio “Urban Style” inicialmente desarrollaba ventas únicamente mediante interacción directa con consumidores finales a través de Instagram y WhatsApp Business. Sin embargo, identificó oportunidades comerciales relacionadas con distribución de prendas a pequeños emprendimientos interesados en comercialización de moda urbana dentro de plataformas digitales y mercados locales especializados. Posteriormente, la empresa fortaleció estrategias <em>B2C</em> orientadas a consumidores finales y desarrolló acuerdos <em>B2B</em> relacionados con ventas mayoristas para tiendas locales. Como resultado, amplió oportunidades comerciales, diversificó procesos de venta digital y fortaleció posicionamiento mediante diferentes modalidades de comercio electrónico adaptadas a sus objetivos empresariales.
+          p.mb-0(data-aos="fade-right") El negocio “Urban Style” inicialmente desarrollaba ventas únicamente mediante interacción directa con consumidores finales a través de Instagram y WhatsApp Business. Sin embargo, identificó oportunidades comerciales relacionadas con distribución de prendas a pequeños emprendimientos interesados en comercialización de moda urbana dentro de plataformas digitales y mercados locales especializados. Posteriormente, la empresa fortaleció estrategias B2C orientadas a consumidores finales y desarrolló acuerdos B2B relacionados con ventas mayoristas para tiendas locales. Como resultado, amplió oportunidades comerciales, diversificó procesos de venta digital y fortaleció posicionamiento mediante diferentes modalidades de comercio electrónico adaptadas a sus objetivos empresariales.
 
 
       separador

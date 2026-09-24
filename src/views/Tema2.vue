@@ -119,6 +119,7 @@
           figure
             img(src="@/assets/curso/tema2/img13.png", data-aos="zoom-in")
         .col-lg-8.order-2.order-lg-1.col-md-12.mb-4.mb-lg-0
+          h4.mb-2.text-bold Usos estratégicos de la información personal
           SlyderF(columnas="col-lg-12 col-xl-6 col-md-12 col-sm-12 p-2")
             .tarjeta.bg-fondo-04.p-4.h-100.br-15
               .row.align-items-center.mb-3
@@ -180,11 +181,11 @@
           p.mb-0 Actualmente, las organizaciones recopilan múltiples tipos de información para optimizar estrategias comerciales y comprender dinámicas de interacción de sus clientes, la adecuada identificación de estos elementos fortalece decisiones estratégicas relacionadas con <em>social media</em> y ventas digitales.
 
 
+    h4.mb-3.text-bold Componentes de la información personal
     TabsC.color-primario(data-aos="zoom-in")
       .p-3.p-md-4(titulo="Identificación")
         .row.justify-content-center.align-items-center
           .col-lg-8.mb-4.mb-md-0.p-4
-            h4 Identificación
             p Permite reconocer usuarios mediante nombres, documentos y datos básicos utilizados en procesos comerciales digitales actuales.
           .col-lg-4.mb-3.mb-lg-0
             figure
@@ -192,7 +193,6 @@
       .p-3.p-md-4(titulo="Contacto")
         .row.justify-content-center.align-items-center
           .col-lg-8.mb-4.mb-md-0.p-4
-            h4 Contacto
             p Facilita comunicación empresarial mediante correos electrónicos, teléfonos y plataformas digitales utilizadas por consumidores identificados.
           .col-lg-4.mb-3.mb-lg-0
             figure
@@ -200,7 +200,6 @@
       .p-3.p-md-4(titulo="Ubicación")
         .row.justify-content-center.align-items-center
           .col-lg-8.mb-4.mb-md-0.p-4
-            h4 Ubicación
             p Ayuda a segmentar campañas comerciales según contexto geográfico y dinámicas territoriales relacionadas con el consumidor digital.
           .col-lg-4.mb-3.mb-lg-0
             figure
@@ -208,7 +207,6 @@
       .p-3.p-md-4(titulo="Comportamiento digital")
         .row.justify-content-center.align-items-center
           .col-lg-8.mb-4.mb-md-0.p-4
-            h4 Comportamiento digital
             p Analiza hábitos de interacción, navegación y consumo para fortalecer procesos comerciales personalizados y estratégicos digitales.
           .col-lg-4.mb-3.mb-lg-0
             figure
@@ -241,6 +239,7 @@
           figure
             img(src="@/assets/curso/tema2/img22.png", data-aos="zoom-in").mx-auto
         .col-lg-8.col-md-12.order-1.order-lg-2.mb-4.mb-lg-0
+          h4.mb-2.text-bold Principios de la normativa
           .bg-fondo-05.p-4
             SlyderA(tipo="b").bg-color-white.p-3.tarjeta
               .tarjeta.p-2.p-lg-4.h-100.mb-0

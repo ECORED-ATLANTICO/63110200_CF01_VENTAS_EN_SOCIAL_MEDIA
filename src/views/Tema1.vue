@@ -46,7 +46,7 @@
         figure
           img(src="@/assets/curso/tema1/img04.png", data-aos="zoom-in")
       .col-lg-8.order-2.order-lg-2.mb-0.mb-lg-0
-        p.mb-0(data-aos="fade-right") Los clientes digitales pueden clasificarse según la relación comercial establecida con las organizaciones y las dinámicas de compra desarrolladas en entornos digitales. Dentro de las tipologías más relevantes se encuentran los modelos <em>B2B</em> y <em>B2C</em>, ampliamente utilizados en estrategias comerciales digitales actuales. Estas clasificaciones permiten comprender procesos de negociación, necesidades de comunicación y características del comportamiento comercial. La identificación correcta del tipo de cliente facilita la toma de decisiones estratégicas relacionadas con contenidos, campañas y posicionamiento digital.
+        p.mb-0(data-aos="fade-right") Los clientes digitales pueden clasificarse según la relación comercial establecida con las organizaciones y las dinámicas de compra desarrolladas en entornos digitales. Dentro de las tipologías más relevantes se encuentran los modelos B2B y B2C, ampliamente utilizados en estrategias comerciales digitales actuales. Estas clasificaciones permiten comprender procesos de negociación, necesidades de comunicación y características del comportamiento comercial. La identificación correcta del tipo de cliente facilita la toma de decisiones estratégicas relacionadas con contenidos, campañas y posicionamiento digital.
 
 
 
@@ -162,6 +162,7 @@
       .col-lg-9.order-2.order-lg-2.mb-0.mb-lg-0
         p.mb-0(data-aos="fade-right") Los arquetipos comerciales suelen construirse mediante patrones psicológicos y emocionales relacionados con necesidades humanas universales. Algunos de los más utilizados son el explorador, el creador, el héroe y el cuidador. Por ejemplo, Nike utiliza elementos asociados al arquetipo del héroe mediante mensajes orientados a superación personal, disciplina y rendimiento. Esta construcción simbólica fortalece el posicionamiento de marca y facilita conexiones emocionales duraderas con consumidores digitales contemporáneos.
 
+    h4.text-bold.mb-4 Tipos de arquetipos comerciales
 
     .row.justify-content-center.mb-1.mb-lg-5
       .col-xl-3.col-lg-6.col-md-6.col-12.mb-4.mb-xl-0

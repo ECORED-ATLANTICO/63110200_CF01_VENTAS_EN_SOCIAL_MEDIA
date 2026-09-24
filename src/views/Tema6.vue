@@ -49,6 +49,7 @@
         .col-lg-11(data-aos="fade-right")
           p.banner-text Los tipos de redes sociales permiten clasificar plataformas digitales según características funcionales, objetivos de interacción y formatos de contenido utilizados por usuarios y organizaciones. Esta clasificación facilita seleccionar plataformas adecuadas según estrategias comerciales y comportamiento del consumidor digital. Dentro de las principales categorías se encuentran redes sociales horizontales, verticales, profesionales y audiovisuales. Comprender estas tipologías fortalece la toma de decisiones relacionadas con campañas, contenidos y procesos comerciales desarrollados en entornos digitales altamente competitivos y dinámicos.
 
+    h4.mb-2.text-bold Tipos de redes sociales
     .row.justify-content-center.mb-5
       .col-xl-3.col-lg-6.col-md-6.col-12.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left").tarjeta
@@ -111,12 +112,11 @@
         .bloque-texto-g__texto.p-4
           p.mb-0 Las redes sociales poseen múltiples usos dentro de estrategias comerciales digitales relacionadas con posicionamiento, interacción y fortalecimiento de ventas <em>online</em>. Actualmente, las organizaciones utilizan estas plataformas para divulgar contenidos, desarrollar campañas y construir relaciones cercanas con consumidores digitales. Su aplicación estratégica permite fortalecer el reconocimiento de marca y optimizar procesos relacionados con la comunicación empresarial. Los usos comerciales de redes sociales también facilitan la recopilación de información estratégica y análisis del comportamiento del consumidor dentro de entornos digitales dinámicos contemporáneos.
 
-
+      h4.mb-2.text-bold Usos estratégicos de redes sociales
       TabsC.color-primario.mb-5(data-aos="zoom-in")
         .p-3.p-md-4(titulo="Promoción comercial")
           .row.justify-content-center.align-items-center
             .col-lg-8.mb-4.mb-md-0.p-4.order-lg-1
-              h4 Promoción comercial
               p.mb-0 Permite divulgar productos, campañas y mensajes orientados a posicionamiento y fortalecimiento de ventas digitales actuales.
             .col-lg-4.col-md-10.mb-3.mb-lg-0.order-lg-2
               figure
@@ -125,7 +125,6 @@
         .p-3.p-md-4(titulo="Atención al cliente")
           .row.justify-content-center.align-items-center
             .col-lg-8.mb-4.mb-md-0.p-4.order-lg-1
-              h4 Atención al cliente
               p.mb-0 Facilita resolver inquietudes y fortalecer interacción mediante comunicación rápida con consumidores digitales contemporáneos actuales.
             .col-lg-4.col-md-10.mb-3.mb-lg-0.order-lg-2
               figure
@@ -134,7 +133,6 @@
         .p-3.p-md-4(titulo="Fidelización digital")
           .row.justify-content-center.align-items-center
             .col-lg-8.mb-4.mb-md-0.p-4.order-lg-1
-              h4 Fidelización digital
               p.mb-0 Favorece construcción de relaciones sostenibles mediante experiencias comerciales cercanas y participación constante del consumidor identificado.
             .col-lg-4.col-md-10.mb-3.mb-lg-0.order-lg-2
               figure
@@ -143,7 +141,6 @@
         .p-3.p-md-4(titulo="Análisis comercial")
           .row.justify-content-center.align-items-center
             .col-lg-8.mb-4.mb-md-0.p-4.order-lg-1
-              h4 Análisis comercial
               p.mb-0 Permite recopilar métricas e información estratégica relacionada con comportamiento y preferencias del consumidor digital actual.
             .col-lg-4.col-md-10.mb-3.mb-lg-0.order-lg-2
               figure

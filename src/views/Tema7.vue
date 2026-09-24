@@ -68,21 +68,18 @@
           figure
             img(src="@/assets/curso/tema7/img06.png", data-aos="zoom-in")
         .col-lg-7.order-lg-2
+          h4.mb-2.text-bold Tipos de campañas digitales
           TabsA.color-acento-botones
-            .tarjeta.color-acento-botones--borde.p-4(titulo="Reconocimiento")
-              h4 Reconocimiento
+            .tarjeta.color-acento-botones--borde.p-4(titulo="Reconocimiento").align-content-center
               p.mb-0 Busca fortalecer la visibilidad y el posicionamiento mediante contenidos orientados al alcance digital empresarial estratégico contemporáneo actual.
 
-            .tarjeta.color-acento-botones--borde.p-4(titulo="Interacción")
-              h4 Interacción
+            .tarjeta.color-acento-botones--borde.p-4(titulo="Interacción").align-content-center
               p.mb-0 Favorece la participación del consumidor mediante comentarios, dinámicas y contenidos interactivos relacionados con experiencias digitales actuales.
 
-            .tarjeta.color-acento-botones--borde.p-4(titulo="Conversión")
-              h4 Conversión
+            .tarjeta.color-acento-botones--borde.p-4(titulo="Conversión").align-content-center
               p.mb-0 Se orienta a generar compras, registros y acciones comerciales mediante estrategias digitales segmentadas estratégicamente actuales.
 
-            .tarjeta.color-acento-botones--borde.p-4(titulo="<em>Remarketing</em>")
-              h4 <em>Remarketing</em>
+            .tarjeta.color-acento-botones--borde.p-4(titulo="<em>Remarketing</em>").align-content-center
               p.mb-0 Permite impactar nuevamente a usuarios interesados previamente en contenidos o productos relacionados con campañas digitales empresariales actuales.
 
       .row.align-items-center.mb-3.mb-lg-5(data-aos="fade-right")
@@ -108,6 +105,7 @@
         .col-lg-8.order-2.order-lg-2.mb-0.mb-lg-0
           p.mb-0 Las campañas digitales poseen múltiples usos estratégicos relacionados con posicionamiento, interacción y fortalecimiento de procesos comerciales desarrollados en plataformas digitales. Actualmente, las organizaciones utilizan campañas para promocionar productos, captar clientes y fortalecer el reconocimiento de marca dentro de mercados altamente competitivos. Estas estrategias permiten optimizar la comunicación comercial y mejorar las experiencias relacionadas con la interacción digital. Los usos de campañas también facilitan la recopilación de métricas y fortalecen la toma de decisiones orientada a la conversión y a la fidelización comercial contemporánea.
 
+    h4.mb-2.text-bold Usos estratégicos de campañas digitales
     .row.justify-content-center.mb-3.mb-lg-5
       .col-xl-3.col-lg-6.col-md-6.col-12.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left").tarjeta
