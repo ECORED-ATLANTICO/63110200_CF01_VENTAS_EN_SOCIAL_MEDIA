@@ -171,7 +171,7 @@
               h4.mb-2.text-white ¿Sabías qué?
               p(data-aos="fade-left").mb-4.text-white Lo invitamos al siguiente pódcast:
               TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
-                texto="Gestión estratégica del customer journey"
+                texto="Gestión estratégica del <em>customer journey</em>"
                 tiempo
                 :audio="require_src('@/assets/curso/audio/2.mp3')"
               )
