@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Estrategia comercial digital',
     Description:
-      'El componente desarrolla fundamentos estratégicos relacionados con clientes digitales, comercio electrónico, campañas y <em>customer journey</em> aplicados a ventas en <em>social media</em>. Su enfoque fortalece capacidades relacionadas con segmentación, interacción digital, posicionamiento y planificación comercial mediante herramientas y estrategias orientadas al comportamiento del consumidor contemporáneo.',
+      'El componente desarrolla fundamentos estratégicos relacionados con clientes digitales, comercio electrónico, campañas y <em>customer journey,</em> aplicados a las ventas en <em>social media</em>. Su enfoque fortalece capacidades relacionadas con segmentación, interacción digital, posicionamiento y planificación comercial mediante herramientas y estrategias orientadas al comportamiento del consumidor contemporáneo.',
     imagenBannerPrincipal: '@/assets/curso/portada/banner-principal.png',
     fondoBannerPrincipal: '@/assets/curso/portada/fondo-banner-principal.png',
     imagenesDecorativasBanner: [
@@ -297,7 +297,7 @@ export default {
     {
       termino: 'Comercio electrónico',
       significado:
-        'Modelo comercial desarrollado mediante plataformas digitales orientadas a procesos de compra y venta <em>online</em> contemporáneos actuales.',
+        'Modelo comercial desarrollado mediante plataformas digitales orientadas a procesos de compra y venta online contemporáneos.',
     },
     {
       termino: 'Conversión',
@@ -307,7 +307,7 @@ export default {
     {
       termino: '<em>Customer journey</em>',
       significado:
-        'Recorrido desarrollado por el consumidor durante diferentes etapas de interacción con una marca digital contemporánea actual.',
+        'Recorrido desarrollado por el consumidor durante diferentes etapas de interacción con una marca digital contemporánea.',
     },
     {
       termino: 'Escucha social',
@@ -317,12 +317,12 @@ export default {
     {
       termino: 'Fidelización',
       significado:
-        'Estrategia orientada a fortalecer relaciones sostenibles mediante experiencias comerciales positivas y personalizadas digitales actuales contemporáneas.',
+        'Estrategia orientada a fortalecer relaciones sostenibles mediante experiencias comerciales positivas y personalizadas digitales contemporáneas.',
     },
     {
       termino: 'Matriz estratégica',
       significado:
-        'Herramienta utilizada para organizar objetivos, acciones y procesos comerciales relacionados con estrategias digitales contemporáneas actuales.',
+        'Herramienta utilizada para organizar objetivos, acciones y procesos comerciales relacionados con estrategias digitales contemporáneas.',
     },
     {
       termino: 'Redes sociales',

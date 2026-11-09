@@ -13,7 +13,7 @@
       img(src="@/assets/curso/tema4/img01.png", alt="")
       .row.justify-content-center.align-items-center.z-2.mb-3.mb-lg-5
         .col-lg-11(data-aos="fade-right")
-          p.banner-text Las matrices de estrategia de mercadeo permiten organizar información relacionada con objetivos comerciales, segmentación, posicionamiento y acciones orientadas al fortalecimiento de ventas digitales. Actualmente, las organizaciones utilizan estas herramientas para estructurar campañas, analizar mercados y optimizar procesos comerciales en plataformas digitales. Su aplicación facilita toma de decisiones estratégicas y mejora coordinación de acciones relacionadas con contenidos, clientes y redes sociales. Este capítulo desarrolla conceptos, tipologías y procesos de elaboración de matrices aplicadas a estrategias comerciales digitales y ventas en <em>social media</em>.
+          p.banner-text  Las matrices de estrategia de mercadeo permiten organizar información relacionada con objetivos comerciales, segmentación, posicionamiento y acciones orientadas al fortalecimiento de ventas digitales. Actualmente, las organizaciones utilizan estas herramientas para estructurar campañas, analizar mercados y optimizar procesos comerciales en plataformas digitales. Su aplicación facilita la toma de decisiones estratégicas y mejora la coordinación de acciones relacionadas con contenidos, clientes y redes sociales. Este capítulo desarrolla conceptos, tipologías y procesos de elaboración de matrices aplicadas a estrategias comerciales digitales y ventas en <em>social media</em>.
 
       separador
       
@@ -25,16 +25,16 @@
           figure
             img(src="@/assets/curso/tema4/img02.png", data-aos="zoom-in")
         .col-lg-7.order-2.order-lg-2.mb-0.mb-lg-0
-          p.mb-3(data-aos="fade-right") La matriz de estrategia de mercadeo corresponde a una herramienta utilizada para organizar acciones comerciales relacionadas con objetivos, segmentos y canales digitales, su propósito consiste en facilitar análisis estratégicos y orientar decisiones relacionadas con posicionamiento, contenidos y campañas digitales. 
+          p.mb-3(data-aos="fade-right") La Matriz de estrategia de mercadeo corresponde a una herramienta utilizada para organizar acciones comerciales relacionadas con objetivos, segmentos y canales digitales. Su propósito consiste en facilitar el análisis estratégicos y orientar decisiones relacionadas con posicionamiento, contenidos y campañas digitales. 
           
           .bg-color-01.p-4.mb-0.br-15
-            p.mb-0 Actualmente, las organizaciones utilizan matrices para estructurar procesos comerciales y optimizar recursos dentro de mercados altamente competitivos, esta herramienta permite relacionar información comercial relevante y fortalecer planificación orientada a ventas digitales y <em>social media</em>.
+            p.mb-0 Actualmente, las organizaciones utilizan matrices para estructurar procesos comerciales y optimizar recursos dentro de mercados altamente competitivos. Esta herramienta permite relacionar información comercial relevante y fortalecer planificación orientada a ventas digitales y <em>social media</em>.
 
 
       .row.mb-3.justify-content-center.align-items-center
         .col-lg-12
           .bg-color-07.p-4.mb-0.br-15
-            p.mb-0 Las empresas implementan matrices de mercadeo para analizar oportunidades comerciales y desarrollar estrategias alineadas con comportamientos del consumidor digital. Empresas como Coca-Cola utilizan herramientas estratégicas para definir segmentos, canales y tipos de contenido relacionados con campañas globales y locales. Esta organización facilita la coordinación comercial y permite fortalecer los procesos de interacción mediante acciones coherentes con los objetivos empresariales. 
+            p.mb-0 Las empresas implementan matrices de mercadeo para analizar oportunidades comerciales y desarrollar estrategias alineadas con comportamientos del consumidor digital. Empresas como Coca-Cola utilizan herramientas estratégicas para definir segmentos, canales y tipos de contenido relacionados con campañas globales y locales. Esta estrategia facilita la coordinación comercial y permite fortalecer los procesos de interacción mediante acciones coherentes con los objetivos empresariales. 
 
 
     separador
@@ -86,7 +86,7 @@
                 .row.align-items-center.justify-content-center.mb-0
                   .col-lg-8.mb-4.mb-lg-0.order-1.order-lg-2
                     h4 Ansoff
-                    p.mb-0 <b>Características estratégicas:</b> permiten identificar estrategias relacionadas con penetración, desarrollo y expansión comercial dentro de mercados digitales actuales contemporáneos.
+                    p.mb-0 <b>Características estratégicas:</b> permiten identificar estrategias relacionadas con penetración, desarrollo y expansión comercial dentro de mercados digitales actuales.
                   .col-lg-4.order-2.order-lg-1.mb-0.mb-lg-0
                     figure
                       img(src="@/assets/curso/tema4/img07.png", data-aos="zoom-in").mx-auto
@@ -95,7 +95,7 @@
                 .row.align-items-center.justify-content-center.mb-0
                   .col-lg-8.mb-4.mb-lg-0.order-1.order-lg-2
                     h4 BCG
-                    p.mb-0 <b>Características estratégicas:</b> clasifica productos según participación comercial y crecimiento estratégico dentro de contextos empresariales digitales competitivos actuales.
+                    p.mb-0 <b>Características estratégicas:</b> clasifica productos según la participación comercial y el crecimiento estratégico dentro de contextos empresariales digitales competitivos actuales.
                   .col-lg-4.order-2.order-lg-1.mb-0.mb-lg-0
                     figure
                       img(src="@/assets/curso/tema4/img08.png", data-aos="zoom-in").mx-auto
@@ -209,25 +209,25 @@
           .crd_hover_txt(data-aos="flip-left").tarjeta
             .crd_hover_txt--img
               figure
-                img(src="@/assets/curso/tema4/img14.png", alt="Análisis comercial")
+                img(src="@/assets/curso/tema4/img14.png", alt="")
             .crd_hover_txt--body
               h4.mb-3.text-center Análisis comercial
-              p.mb-0 Permite identificar necesidades, tendencias y oportunidades relacionadas con comportamiento del consumidor digital contemporáneo actual.
+              p.mb-0 Permite identificar necesidades, tendencias y oportunidades relacionadas con el comportamiento del consumidor digital contemporáneo.
 
         .col-xl-3.col-lg-6.col-md-6.col-12.mb-4.mb-xl-0
           .crd_hover_txt(data-aos="flip-left").tarjeta
             .crd_hover_txt--img
               figure
-                img(src="@/assets/curso/tema4/img15.png", alt="Definición de objetivos")
+                img(src="@/assets/curso/tema4/img15.png", alt="")
             .crd_hover_txt--body
               h4.mb-3.text-center Definición de objetivos
-              p.mb-0 Facilita establecer metas comerciales orientadas a posicionamiento, interacción y fortalecimiento de ventas digitales estratégicas.
+              p.mb-0 Facilita establecer metas comerciales orientadas al posicionamiento, la interacción y el fortalecimiento de ventas digitales estratégicas.
 
         .col-xl-3.col-lg-6.col-md-6.col-12.mb-4.mb-xl-0
           .crd_hover_txt(data-aos="flip-left").tarjeta
             .crd_hover_txt--img
               figure
-                img(src="@/assets/curso/tema4/img16.png", alt="Selección de estrategias")
+                img(src="@/assets/curso/tema4/img16.png", alt="")
             .crd_hover_txt--body
               h4.mb-3.text-center Selección de estrategias
               p.mb-0 Ayuda a organizar contenidos, canales digitales y campañas según características del mercado y cliente identificado.
@@ -236,7 +236,7 @@
           .crd_hover_txt(data-aos="flip-left").tarjeta
             .crd_hover_txt--img
               figure
-                img(src="@/assets/curso/tema4/img17.png", alt="Evaluación de resultados")
+                img(src="@/assets/curso/tema4/img17.png", alt="")
             .crd_hover_txt--body
               h4.mb-3.text-center Evaluación de resultados
               p.mb-0 Permite analizar métricas comerciales y ajustar estrategias digitales según el desempeño y el comportamiento comercial obtenidos previamente.

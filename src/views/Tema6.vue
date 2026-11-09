@@ -14,7 +14,7 @@
           figure
             img(src="@/assets/curso/tema6/img01.png", data-aos="zoom-in")
         .col-lg-8.order-2.order-lg-2.mb-0.mb-lg-0
-          p.mb-0(data-aos="fade-right") Las redes sociales se consolidaron como herramientas estratégicas para la comunicación, interacción y comercialización digital dentro de diferentes sectores empresariales. Actualmente, las organizaciones utilizan estas plataformas para fortalecer posicionamiento, desarrollar campañas y construir relaciones cercanas con consumidores digitales. Su impacto transformó procesos tradicionales relacionados con promoción, atención y ventas comerciales. Este capítulo desarrolla conceptos, tipos, usos y escucha social aplicados a estrategias comerciales digitales y procesos relacionados con ventas en <em>social media</em> y comportamiento del consumidor contemporáneo.
+          p.mb-0(data-aos="fade-right")  Las redes sociales se consolidaron como herramientas estratégicas para la comunicación, interacción y comercialización digital dentro de diferentes sectores empresariales. Actualmente, las organizaciones utilizan estas plataformas para fortalecer posicionamiento, desarrollar campañas y construir relaciones cercanas con consumidores digitales. Su impacto transformó procesos tradicionales relacionados con promoción, atención y ventas comerciales. Este capítulo desarrolla conceptos, tipos, usos y escucha social aplicados a estrategias comerciales digitales y procesos relacionados con ventas en <em>social media</em> y comportamiento del consumidor contemporáneo.
 
       separador
       
@@ -55,7 +55,7 @@
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema6/img05.png", alt="Horizontales")
+              img(src="@/assets/curso/tema6/img05.png", alt="")
           .crd_hover_txt--body
             h4.mb-3.text-center Horizontales
             p.mb-0 Facilitan la interacción general entre usuarios mediante contenidos relacionados con diferentes intereses y actividades digitales contemporáneas.
@@ -64,7 +64,7 @@
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema6/img06.png", alt="Verticales")
+              img(src="@/assets/curso/tema6/img06.png", alt="")
           .crd_hover_txt--body
             h4.mb-3.text-center Verticales
             p.mb-0 Se enfocan en comunidades especializadas relacionadas con intereses específicos y segmentos comerciales digitales determinados estratégicamente.
@@ -73,19 +73,19 @@
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema6/img07.png", alt="Profesionales")
+              img(src="@/assets/curso/tema6/img07.png", alt="")
           .crd_hover_txt--body
             h4.mb-3.text-center Profesionales
-            p.mb-0 Permiten fortalecer <em>networking</em>, posicionamiento corporativo y relaciones comerciales orientadas a entornos empresariales digitales contemporáneos actuales.
+            p.mb-0 Permiten fortalecer <em>networking</em>, el posicionamiento corporativo y las relaciones comerciales orientadas a entornos empresariales digitales contemporáneos.
 
       .col-xl-3.col-lg-6.col-md-6.col-12.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema6/img08.png", alt="Audiovisuales")
+              img(src="@/assets/curso/tema6/img08.png", alt="")
           .crd_hover_txt--body
             h4.mb-3.text-center Audiovisuales
-            p.mb-0 Prioriza contenidos visuales y dinámicos relacionados con entretenimiento, interacción rápida y posicionamiento digital comercial estratégico.
+            p.mb-0 Priorizan contenidos visuales y dinámicos relacionados con el entretenimiento, interacción rápida y posicionamiento digital comercial estratégico.
 
     .row.align-items-center.mb-3.mb-lg-5(data-aos="fade-right")
       .col-lg-12.col-xl-8.mx-auto
@@ -125,7 +125,7 @@
         .p-3.p-md-4(titulo="Atención al cliente")
           .row.justify-content-center.align-items-center
             .col-lg-8.mb-4.mb-md-0.p-4.order-lg-1
-              p.mb-0 Facilita resolver inquietudes y fortalecer interacción mediante comunicación rápida con consumidores digitales contemporáneos actuales.
+              p.mb-0 Facilita resolver inquietudes y fortalecer la interacción mediante una comunicación rápida con consumidores digitales contemporáneos.
             .col-lg-4.col-md-10.mb-3.mb-lg-0.order-lg-2
               figure
                 img(src='@/assets/curso/tema6/img11.png', alt='Atención al cliente')
@@ -133,7 +133,7 @@
         .p-3.p-md-4(titulo="Fidelización digital")
           .row.justify-content-center.align-items-center
             .col-lg-8.mb-4.mb-md-0.p-4.order-lg-1
-              p.mb-0 Favorece construcción de relaciones sostenibles mediante experiencias comerciales cercanas y participación constante del consumidor identificado.
+              p.mb-0 Favorece la construcción de relaciones sostenibles mediante experiencias comerciales cercanas y la participación constante del consumidor identificado.
             .col-lg-4.col-md-10.mb-3.mb-lg-0.order-lg-2
               figure
                 img(src='@/assets/curso/tema6/img12.png', alt='Fidelización digital')
@@ -169,7 +169,7 @@
         figure
           img(src="@/assets/curso/tema6/img14.png", data-aos="zoom-in")
       .col-lg-8.order-2.order-lg-1.mb-0.mb-lg-0
-        p.mb-3.mb-lg-2(data-aos="fade-right") La escucha social corresponde al proceso de monitoreo y análisis de conversaciones, comentarios e interacciones desarrolladas en redes sociales y plataformas digitales, su propósito consiste en comprender opiniones, necesidades y percepciones relacionadas con marcas, productos y tendencias comerciales. Actualmente, las organizaciones utilizan herramientas de escucha social para fortalecer toma de decisiones estratégicas y mejorar procesos relacionados con atención, campañas y experiencia del cliente digital, esta práctica permite interpretar comportamientos y anticipar oportunidades dentro de entornos digitales altamente dinámicos.
+        p.mb-3.mb-lg-2(data-aos="fade-right") La escucha social corresponde al proceso de monitoreo y análisis de conversaciones, comentarios e interacciones desarrolladas en redes sociales y plataformas digitales. Su propósito consiste en comprender opiniones, necesidades y percepciones relacionadas con marcas, productos y tendencias comerciales. Actualmente, las organizaciones utilizan herramientas de escucha social para fortalecer la toma de decisiones estratégicas y mejorar procesos relacionados con atención, campañas y experiencia del cliente digital. Esta práctica permite interpretar comportamientos y anticipar oportunidades dentro de entornos digitales altamente dinámicos.
 
         .cajon.bg-color-09.p-4
           p.mb-0 Las empresas implementan escucha social mediante herramientas tecnológicas orientadas al análisis de comentarios, menciones y tendencias digitales relacionadas con sus marcas. Empresas como Coca-Cola monitorean conversaciones digitales para identificar percepciones del consumidor y optimizar campañas relacionadas con posicionamiento y experiencia comercial. Este análisis fortalece capacidad de respuesta y permite ajustar estrategias según comportamiento del mercado digital. La escucha social también contribuye a prevenir crisis reputacionales y fortalecer interacción con consumidores digitales contemporáneos.
@@ -194,7 +194,7 @@
           img(src="@/assets/curso/tema6/img15.png", data-aos="zoom-in")
       .col-lg-9.order-2.order-lg-2.mb-0.mb-lg-0
         h4 Ejemplo aplicado. Escucha social en “Urban Style”
-        p.mb-0(data-aos="fade-right") El negocio “Urban Style” identificó comentarios frecuentes relacionados con tiempos de respuesta, preferencias de estilos y solicitudes de nuevos productos mediante Instagram y TikTok. Inicialmente, la empresa no analizaba estas interacciones y perdía oportunidades relacionadas con mejora comercial y fortalecimiento de experiencia digital del consumidor contemporáneo. Posteriormente, comenzó a monitorear comentarios, mensajes y tendencias relacionadas con moda urbana y comportamiento digital de sus seguidores. Como resultado, ajustó contenidos, fortaleció campañas promocionales y mejoró la atención digital mediante estrategias alineadas con necesidades y expectativas identificadas en conversaciones desarrolladas dentro de redes sociales utilizadas por sus consumidores.
+        p.mb-0(data-aos="fade-right") El negocio “Urban Style” identificó comentarios frecuentes relacionados con tiempos de respuesta, preferencias de estilos y solicitudes de nuevos productos mediante Instagram y TikTok. Inicialmente, la empresa no analizaba estas interacciones y perdía oportunidades relacionadas con la mejora comercial y el fortalecimiento de la experiencia digital del consumidor contemporáneo. Posteriormente, comenzó a monitorear comentarios, mensajes y tendencias relacionadas con moda urbana y comportamiento digital de sus seguidores. Como resultado, ajustó contenidos, fortaleció campañas promocionales y mejoró la atención digital mediante estrategias alineadas con necesidades y expectativas identificadas en conversaciones desarrolladas dentro de redes sociales utilizadas por sus consumidores.
 
     .row.align-items-center(data-aos="fade-right")
       .col-lg-12.col-xl-8.mx-auto

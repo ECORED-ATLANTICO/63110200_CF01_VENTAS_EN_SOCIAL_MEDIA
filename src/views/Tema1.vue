@@ -12,7 +12,7 @@
       img(src="@/assets/curso/tema1/img01.png", alt="")
       .row.justify-content-center.align-items-center.z-2.mb-3
         .col-lg-11(data-aos="fade-right")
-          p.banner-text La transformación digital modificó la manera en que las organizaciones comprenden, segmentan e interactúan con los consumidores. Actualmente, los clientes digitales participan activamente en procesos de búsqueda, comparación y validación de productos mediante plataformas digitales y redes sociales. Comprender sus comportamientos, necesidades y expectativas resulta fundamental para estructurar estrategias comerciales efectivas. Este capítulo desarrolla conceptos relacionados con clientes digitales, tipologías, perfiles, arquetipos y <em>buyer</em> persona, integrando aplicaciones estratégicas orientadas al fortalecimiento de procesos comerciales y ventas en <em>social media</em>.
+          p.banner-text La transformación digital modificó la manera en que las organizaciones comprenden, segmentan e interactúan con los consumidores. Actualmente, los clientes digitales participan activamente en procesos de búsqueda, comparación y validación de productos mediante plataformas digitales y redes sociales. Comprender sus comportamientos, necesidades y expectativas resulta fundamental para estructurar estrategias comerciales efectivas. Este capítulo desarrolla conceptos relacionados con clientes digitales, tipologías, perfiles, arquetipos y <em>buyer</em> persona, integrando estratégias orientadas al fortalecimiento de procesos comerciales y ventas en <em>social media</em>.
 
       separador
       
@@ -32,7 +32,7 @@
             img(src="@/assets/curso/tema1/img03.png", data-aos="zoom-in")
         .col-lg-8.order-2.order-lg-1.mb-0.mb-lg-0
           h4  Ejemplo aplicado. Transformación digital de “Urban Style”
-          p.mb-0(data-aos="fade-right") El negocio local “Urban Style”, dedicado a la venta de prendas casuales, identificó disminución en ventas físicas debido al incremento de competidores digitales. Inicialmente, el negocio utilizaba redes sociales únicamente como vitrina visual, sin comprender el comportamiento del cliente digital ni sus necesidades de interacción inmediata. Después de analizar comentarios, métricas e intereses de usuarios, el negocio implementó respuestas automatizadas, publicaciones segmentadas y contenidos dinámicos orientados a públicos juveniles. La estrategia permitió identificar preferencias relacionadas con promociones rápidas, recomendaciones personalizadas y formatos audiovisuales cortos. Como resultado, “Urban Style” incrementó la interacción digital, fortaleció el posicionamiento de marca y mejoró oportunidades de conversión mediante plataformas sociales.
+          p.mb-0(data-aos="fade-right") El negocio local “Urban Style”, identificó una disminución en las ventas físicas debido al incremento de competidores digitales. Inicialmente, el negocio utilizaba redes sociales únicamente como vitrina visual, sin comprender el comportamiento del cliente digital ni sus necesidades de interacción inmediata. Después de analizar comentarios, métricas e intereses de usuarios, el negocio implementó respuestas automatizadas, publicaciones segmentadas y contenidos dinámicos orientados a públicos juveniles. La estrategia permitió identificar preferencias relacionadas con promociones rápidas, recomendaciones personalizadas y formatos audiovisuales cortos. Como resultado, “Urban Style” incrementó la interacción digital, fortaleció el posicionamiento de marca y mejoró oportunidades de conversión mediante plataformas sociales.
 
 
     separador
@@ -69,10 +69,11 @@
             .col-12.col-lg.mb-2.mb-lg-0
               h4.mb-2.bg-color-04.p-2.max-cont-md.mx-auto.mx-lg-0.text-center.text-lg-start Tipos de clientes
               p.mb-0 Lo invitamos a consultar el siguiente recurso educativo por medio del cual podrá profundizar en temática abordada, el cual corresponde a un video del Ecosistema de Recursos Educativos Digitales SENA el cual explica diferentes tipos de clientes y sus comportamientos durante procesos comerciales y de microcrédito, destacando características, necesidades y niveles de relación con la entidad financiera.   
-            .col-12.col-lg-auto.text-center
-              a.boton.bg-color-04(:href="'https://www.youtube.com/watch?v=1dIqszM7mZA'" target="_blank")
-                span Ir al recurso
-                i.fas.fa-play
+
+
+    figure.mb-5
+      .video.mb-2
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/1dIqszM7mZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 
     .row.align-items-center(data-aos="fade-right")
@@ -127,7 +128,7 @@
                 td Analiza estilos de vida, intereses, valores y motivaciones que influyen en decisiones comerciales digitales actuales.
               tr
                 td Conductual
-                td Evalúa hábitos de navegación, interacción y compra para fortalecer segmentación y estrategias comerciales personalizadas digitales.
+                td Evalúa hábitos de navegación, interacción y compra para fortalecer la segmentación y las estrategias comerciales digitales personalizadas.
 
 
     
@@ -169,7 +170,7 @@
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema1/img13.png", alt="Héroe")
+              img(src="@/assets/curso/tema1/img13.png", alt="")
           .crd_hover_txt--body
             h4.mb-3.text-center Héroe
             p.mb-0 Representa superación, esfuerzo y disciplina mediante mensajes motivacionales orientados al logro personal y competitivo.
@@ -178,7 +179,7 @@
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema1/img14.png", alt="Explorador")
+              img(src="@/assets/curso/tema1/img14.png", alt="")
           .crd_hover_txt--body
             h4.mb-3.text-center Explorador
             p.mb-0 Se relaciona con libertad, autenticidad y experiencias nuevas enfocadas en independencia y descubrimiento personal constante.
@@ -187,16 +188,16 @@
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema1/img15.png", alt="Creador")
+              img(src="@/assets/curso/tema1/img15.png", alt="")
           .crd_hover_txt--body
             h4.mb-3.text-center Creador
-            p.mb-0 Proyecta innovación, creatividad y diferenciación mediante contenidos originales y propuestas comerciales altamente expresivas digitales.
+            p.mb-0 Proyecta innovación, creatividad y diferenciación mediante contenidos originales y propuestas comerciales digitales altamente expresivas.
 
       .col-xl-3.col-lg-6.col-md-6.col-12.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema1/img16.png", alt="Cuidador")
+              img(src="@/assets/curso/tema1/img16.png", alt="")
           .crd_hover_txt--body
             h4.mb-3.text-center Cuidador
             p.mb-0 Prioriza protección, bienestar y acompañamiento mediante estrategias orientadas a confianza y apoyo emocional permanente.
@@ -222,7 +223,7 @@
               img(src="@/assets/curso/tema1/img07.png")
             .col-12.col-lg.mb-2.mb-lg-0
               h4.mb-2.bg-color-04.p-2.max-cont-md.mx-auto.mx-lg-0.text-center.text-lg-start ¿Qué es un <em>buyer</em> persona y qué tipos hay?
-              p.mb-0 Lo invitamos a visitar el siguiente enlace en donde podrá apreciar una página que explica el concepto de <em>buyer</em> persona, destacando su importancia para diseñar estrategias de <em>marketing</em> más precisas, personalizadas y orientadas a mejorar la conexión con los consumidores.
+              p.mb-0 Lo invitamos a visitar el siguiente enlace en donde podrá apreciar un recurso que explica el concepto de <em>buyer</em> persona y destaca su importancia para diseñar estrategias de <em>marketing</em> más precisas, personalizadas y orientadas a mejorar la conexión con los consumidores.
             .col-12.col-lg-auto.text-center
               a.boton.bg-color-04(:href="'https://www.unir.net/revista/marketing-comunicacion/buyer-persona/'" target="_blank")
                 span Ir al recurso

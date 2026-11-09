@@ -26,7 +26,7 @@
           figure
             img(src="@/assets/curso/tema8/img02.png", data-aos="zoom-in").mx-auto
         .col-lg-8.order-2.order-lg-1.mb-0.mb-lg-0
-          p.mb-3(data-aos="fade-right") El <em>customer journey</em> corresponde al recorrido que realiza un consumidor durante las diferentes etapas de interacción con una marca dentro de entornos físicos y digitales, este proceso incluye reconocimiento de necesidades, búsqueda de información, evaluación de alternativas, compra y experiencia posterior relacionada con fidelización. Actualmente, las organizaciones analizan este recorrido para comprender comportamientos y optimizar experiencias comerciales. 
+          p.mb-3(data-aos="fade-right") El <em>customer journey</em> corresponde al recorrido que realiza un consumidor durante las diferentes etapas de interacción con una marca dentro de entornos físicos y digitales. Este proceso incluye el reconocimiento de necesidades, la búsqueda de información, la evaluación de alternativas, la compra y la experiencia posterior relacionada con la fidelización. Actualmente, las organizaciones analizan este recorrido para comprender comportamientos y optimizar experiencias comerciales.
           .cajon.bg-color-09.p-4
             p.mb-0 El <em>customer journey</em> fortalece estrategias relacionadas con segmentación, contenidos y posicionamiento dentro de plataformas digitales y redes sociales contemporáneas. Las empresas utilizan el <em>customer journey</em> para identificar puntos de contacto donde el consumidor interactúa con contenidos, plataformas y procesos comerciales digitales. Empresas como Amazon analizan navegación, historial de búsqueda y decisiones de compra para fortalecer experiencias personalizadas relacionadas con recomendaciones y atención digital. Este enfoque permite optimizar interacción y mejorar procesos comerciales orientados a satisfacción del consumidor.
 
@@ -37,7 +37,7 @@
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema8/img03.png", alt="Reconocimiento")
+              img(src="@/assets/curso/tema8/img03.png", alt="")
           .crd_hover_txt--body
             h4.mb-3.text-center Reconocimiento
             p.mb-0 Permite identificar necesidades y despertar interés mediante contenidos relacionados con productos y experiencias digitales actuales.
@@ -46,7 +46,7 @@
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema8/img04.png", alt="Consideración")
+              img(src="@/assets/curso/tema8/img04.png", alt="")
           .crd_hover_txt--body
             h4.mb-3.text-center Consideración
             p.mb-0 Facilita análisis de alternativas comerciales mediante interacción, recomendaciones y contenidos estratégicos orientados al consumidor digital.
@@ -55,7 +55,7 @@
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema8/img05.png", alt="Decisión de compra")
+              img(src="@/assets/curso/tema8/img05.png", alt="")
           .crd_hover_txt--body
             h4.mb-3.text-center Decisión de compra
             p.mb-0 Favorece procesos relacionados con conversión mediante atención, promociones y experiencias comerciales digitales personalizadas actuales.
@@ -64,10 +64,10 @@
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema8/img06.png", alt="Fidelización")
+              img(src="@/assets/curso/tema8/img06.png", alt="")
           .crd_hover_txt--body
             h4.mb-3.text-center Fidelización
-            p.mb-0 Fortalece relaciones sostenibles mediante seguimiento, interacción y experiencias positivas posteriores al proceso comercial digital contemporáneo.
+            p.mb-0 Fortalece las relaciones sostenibles mediante el seguimiento, la interacción y las experiencias positivas posteriores al proceso comercial digital contemporáneo.
 
     .row.align-items-center.mb-3.mb-lg-5(data-aos="fade-right")
       .col-lg-12.col-xl-8.mx-auto
@@ -78,7 +78,7 @@
             .col-lg-9.order-1.order-lg-2.p-4
               .bg-color-08.p-2.mb-2.max-cont-md
                 h4.mb-0.text-bold.text-white Clave estratégica
-              p.mb-0 Comprender el <em>customer journey</em> permite optimizar experiencias comerciales y fortalecer interacción con consumidores digitales durante diferentes etapas.
+              p.mb-0 Comprender el <em>customer journey</em> permite optimizar las experiencias comerciales y fortalecer la interacción con consumidores digitales durante las diferentes etapas.
 
     separador
     

@@ -21,7 +21,7 @@
                 img(src="@/assets/curso/tema7/img01.png", data-aos="zoom-in")
             .col-lg-7.order-1.order-lg-2.mb-4.mb-lg-0
               .bg-color-07.p-4
-                p.mb-0(data-aos="fade-right") Las campañas digitales representan estrategias organizadas orientadas a promover productos, fortalecer posicionamiento y generar interacción mediante plataformas digitales y redes sociales. Actualmente, las organizaciones utilizan campañas comerciales para conectar con consumidores, fortalecer reconocimiento de marca y optimizar procesos relacionados con ventas digitales. 
+                p.mb-0(data-aos="fade-right")  Las campañas digitales representan estrategias organizadas orientadas a promover productos, fortalecer el posicionamiento y generar la interacción mediante plataformas digitales y redes sociales. Actualmente, las organizaciones utilizan campañas comerciales para conectar con consumidores, fortalecer reconocimiento de marca y optimizar procesos relacionados con ventas digitales. 
 
           .bg-fondo-08.p-4.mb-0
             p.mb-0 Estas acciones integran contenidos, segmentación y herramientas tecnológicas alineadas con objetivos estratégicos empresariales. Este capítulo desarrolla conceptos, tipos y usos de campañas aplicadas a procesos comerciales digitales y estrategias relacionadas con ventas en <em>social media</em>.
@@ -36,7 +36,7 @@
           :style="{'background-image': `url(${require_src('@/assets/curso/tema7/img03.png')})`}"
         )
         .bloque-texto-g__texto.p-4
-          p.mb-0 Las campañas digitales corresponden a conjuntos de acciones estratégicas organizadas para alcanzar objetivos comerciales específicos mediante plataformas digitales y redes sociales, estas estrategias integran contenidos, segmentación y herramientas orientadas a fortalecer posicionamiento, interacción y conversión comercial. Actualmente, las organizaciones desarrollan campañas digitales para conectar con consumidores y fortalecer experiencias relacionadas con productos y servicios. Su implementación permite optimizar recursos comerciales y mejorar resultados relacionados con visibilidad, reconocimiento y comportamiento del consumidor digital contemporáneo.
+          p.mb-0 Las campañas digitales corresponden a conjuntos de acciones estratégicas organizadas para alcanzar objetivos comerciales específicos mediante plataformas digitales y redes sociales. Estas estrategias integran contenidos, segmentación y herramientas orientadas a fortalecer posicionamiento, interacción y conversión comercial. Actualmente, las organizaciones desarrollan campañas digitales para conectar con consumidores y fortalecer experiencias relacionadas con productos y servicios. Su implementación permite optimizar recursos comerciales y mejorar resultados relacionados con visibilidad, reconocimiento y comportamiento del consumidor digital contemporáneo.
 
 
     .row.mb-5.justify-content-center.align-items-center
@@ -59,7 +59,7 @@
     img(src="@/assets/curso/tema7/img05.png", alt="")
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-11(data-aos="fade-right")
-        p.banner-text Los tipos de campañas digitales permiten clasificar estrategias comerciales según objetivos, formatos y dinámicas de interacción desarrolladas en plataformas digitales, esta clasificación facilita seleccionar acciones adecuadas según necesidades relacionadas con posicionamiento, conversión y fidelización comercial. Dentro de las campañas más utilizadas se encuentran campañas de reconocimiento, interacción, conversión y <em>remarketing</em>. Comprender estas tipologías fortalece toma de decisiones estratégicas y mejora procesos relacionados con comunicación comercial y comportamiento del consumidor digital contemporáneo.
+        p.banner-text Los tipos de campañas digitales permiten clasificar estrategias comerciales según objetivos, formatos y dinámicas de interacción desarrolladas en plataformas digitales. Esta clasificación facilita seleccionar acciones adecuadas según necesidades relacionadas con posicionamiento, conversión y fidelización comercial. Dentro de las campañas más utilizadas se encuentran aquellas enfocadas en reconocimiento, interacción, conversión y <em>remarketing</em>. Comprender estas tipologías fortalece toma de decisiones estratégicas y mejora procesos relacionados con comunicación comercial y comportamiento del consumidor digital.
 
     .bg-full-width.bg-fondo-1
 
@@ -77,7 +77,7 @@
               p.mb-0 Favorece la participación del consumidor mediante comentarios, dinámicas y contenidos interactivos relacionados con experiencias digitales actuales.
 
             .tarjeta.color-acento-botones--borde.p-4(titulo="Conversión").align-content-center
-              p.mb-0 Se orienta a generar compras, registros y acciones comerciales mediante estrategias digitales segmentadas estratégicamente actuales.
+              p.mb-0 Se orienta a generar compras, registros y acciones comerciales mediante estrategias digitales segmentadas actuales.
 
             .tarjeta.color-acento-botones--borde.p-4(titulo="<em>Remarketing</em>").align-content-center
               p.mb-0 Permite impactar nuevamente a usuarios interesados previamente en contenidos o productos relacionados con campañas digitales empresariales actuales.
@@ -111,7 +111,7 @@
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema7/img08.png", alt="Posicionamiento comercial")
+              img(src="@/assets/curso/tema7/img08.png", alt="")
           .crd_hover_txt--body
             h4.mb-3.text-center Posicionamiento comercial
             p.mb-0 Permite fortalecer el reconocimiento empresarial mediante campañas orientadas a la identidad y diferenciación digital estratégica contemporánea actual.
@@ -120,7 +120,7 @@
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema7/img09.png", alt="Generación de ventas")
+              img(src="@/assets/curso/tema7/img09.png", alt="")
           .crd_hover_txt--body
             h4.mb-3.text-center Generación de ventas
             p.mb-0 Favorece procesos de conversión comercial mediante promociones y contenidos digitales orientados al consumidor identificado previamente.
@@ -129,19 +129,19 @@
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema7/img10.png", alt="Fidelización digital")
+              img(src="@/assets/curso/tema7/img10.png", alt="")
           .crd_hover_txt--body
             h4.mb-3.text-center Fidelización digital
-            p.mb-0 Facilita la construcción de relaciones sostenibles mediante interacción constante y experiencias personalizadas digitales actuales contemporáneas.
+            p.mb-0 Facilita la construcción de relaciones sostenibles mediante la interacción constante y experiencias digitales personalizadas contemporáneas.
 
       .col-xl-3.col-lg-6.col-md-6.col-12.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema7/img11.png", alt="Lanzamiento de productos")
+              img(src="@/assets/curso/tema7/img11.png", alt="")
           .crd_hover_txt--body
             h4.mb-3.text-center Lanzamiento de productos
-            p.mb-0 Ayuda a divulgar novedades comerciales mediante estrategias digitales relacionadas con el alcance e interacción empresarial contemporánea actual.
+            p.mb-0 Ayuda a divulgar novedades comerciales mediante estrategias digitales relacionadas con el alcance y la interacción empresarial contemporánea.
 
     .row.align-items-center(data-aos="fade-right")
       .col-lg-12.col-xl-8.mx-auto

@@ -107,10 +107,10 @@
           figure
             img(src="@/assets/curso/tema2/img07.png", data-aos="zoom-in")
         .col-lg-8.order-2.order-lg-2.mb-0.mb-lg-0
-          p.mb-3(data-aos="fade-right") La información personal cumple funciones estratégicas dentro de procesos comerciales digitales, debido a que permite comprender comportamientos, necesidades y preferencias de los consumidores. Las organizaciones utilizan datos personales para segmentar audiencias, personalizar campañas y fortalecer experiencias de interacción en plataformas digitales, este uso estratégico facilita procesos de comunicación más precisos y orientados a objetivos comerciales específicos. Actualmente, el análisis de información personal representa una herramienta fundamental para optimizar decisiones relacionadas con ventas digitales y posicionamiento comercial.
+          p.mb-3(data-aos="fade-right") La información personal cumple funciones estratégicas dentro de procesos comerciales digitales, debido a que permite comprender comportamientos, necesidades y preferencias de los consumidores. Las organizaciones utilizan datos personales para segmentar audiencias, personalizar campañas y fortalecer experiencias de interacción en plataformas digitales. Este uso estratégico facilita procesos de comunicación más precisos y orientados a objetivos comerciales específicos. Actualmente, el análisis de la información personal representa una herramienta fundamental para optimizar decisiones relacionadas con ventas digitales y posicionamiento comercial.
 
           .cajon.bg-color-09.p-4
-            p.mb-0 Las empresas utilizan información personal para diseñar campañas digitales alineadas con intereses específicos de sus consumidores. Plataformas como Netflix analizan hábitos de navegación y preferencias audiovisuales para recomendar contenidos personalizados y fortalecer la permanencia de usuarios. Este uso de datos incrementa interacción y mejora la experiencia digital mediante estrategias ajustadas a comportamientos identificados previamente. 
+            p.mb-0 Las empresas utilizan información personal para diseñar campañas digitales alineadas con intereses específicos de sus consumidores. Plataformas como Netflix analizan hábitos de navegación y preferencias audiovisuales para recomendar contenidos personalizados y fortalecer la permanencia de usuarios. Este uso de datos incrementa la interacción y mejora la experiencia digital mediante estrategias ajustadas a comportamientos identificados previamente. 
 
 
 
@@ -175,10 +175,10 @@
         figure
           img(src="@/assets/curso/tema2/img15.png", data-aos="zoom-in")
       .col-lg-8.order-2.order-lg-2.mb-0.mb-lg-0
-        p.mb-3(data-aos="fade-right") La información personal se encuentra integrada por diferentes componentes utilizados para identificar, caracterizar y comprender consumidores dentro de entornos digitales y comerciales, estos componentes permiten estructurar bases de datos organizadas y fortalecer procesos relacionados con segmentación, análisis comercial y personalización de experiencias digitales. 
+        p.mb-3(data-aos="fade-right") La información personal se encuentra integrada por diferentes componentes utilizados para identificar, caracterizar y comprender consumidores dentro de entornos digitales y comerciales. Estos componentes permiten estructurar bases de datos organizadas y fortalecer procesos relacionados con segmentación, análisis comercial y personalización de experiencias digitales.  
         
         .cajon.bg-color-01.p-4
-          p.mb-0 Actualmente, las organizaciones recopilan múltiples tipos de información para optimizar estrategias comerciales y comprender dinámicas de interacción de sus clientes, la adecuada identificación de estos elementos fortalece decisiones estratégicas relacionadas con <em>social media</em> y ventas digitales.
+          p.mb-0 Actualmente, las organizaciones recopilan múltiples tipos de información para optimizar estrategias comerciales y comprender las dinámicas de interacción de sus clientes. La adecuada identificación de estos elementos fortalece decisiones estratégicas relacionadas con <em>social media</em> y ventas digitales.
 
 
     h4.mb-3.text-bold Componentes de la información personal
@@ -200,14 +200,14 @@
       .p-3.p-md-4(titulo="Ubicación")
         .row.justify-content-center.align-items-center
           .col-lg-8.mb-4.mb-md-0.p-4
-            p Ayuda a segmentar campañas comerciales según contexto geográfico y dinámicas territoriales relacionadas con el consumidor digital.
+            p Ayuda a segmentar campañas comerciales según el contexto geográfico y las dinámicas territoriales relacionadas con el consumidor digital.
           .col-lg-4.mb-3.mb-lg-0
             figure
               img(src='@/assets/curso/tema2/img18.png', alt='Ubicación')
       .p-3.p-md-4(titulo="Comportamiento digital")
         .row.justify-content-center.align-items-center
           .col-lg-8.mb-4.mb-md-0.p-4
-            p Analiza hábitos de interacción, navegación y consumo para fortalecer procesos comerciales personalizados y estratégicos digitales.
+            p Analiza hábitos de interacción, navegación y consumo para fortalecer procesos comerciales digitales, personalizados y estratégicos.
           .col-lg-4.mb-3.mb-lg-0
             figure
               img(src='@/assets/curso/tema2/img19.png', alt='Comportamiento digital')
@@ -248,15 +248,15 @@
 
               .tarjeta.p-2.p-lg-4.h-100.mb-0
                 h4 Transparencia
-                p.mb-0 Permite informar claramente al consumidor sobre uso, almacenamiento y tratamiento de información personal recopilada digitalmente.
+                p.mb-0 Permite informar claramente al consumidor sobre el uso, almacenamiento y tratamiento de la información personal recopilada digitalmente.
 
               .tarjeta.p-2.p-lg-4.h-100.mb-0
                 h4 Seguridad
-                p.mb-0 Exige implementar medidas técnicas y administrativas para proteger información personal frente a riesgos digitales existentes.
+                p.mb-0 Exige implementar medidas técnicas y administrativas para proteger la información personal frente a riesgos digitales existentes.
 
               .tarjeta.p-2.p-lg-4.h-100.mb-0
                 h4 Confidencialidad
-                p.mb-0 Garantiza protección y reserva de información personal utilizada dentro de procesos comerciales y plataformas digitales empresariales.
+                p.mb-0 Exige implementar medidas técnicas y administrativas para proteger la información personal frente a riesgos digitales existentes.
 
       .row.align-items-center(data-aos="fade-right")
         .col-lg-12.mx-auto
