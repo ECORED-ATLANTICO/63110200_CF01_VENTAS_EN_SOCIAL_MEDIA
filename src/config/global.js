@@ -320,7 +320,7 @@ export default {
         'Estrategia orientada a fortalecer relaciones sostenibles mediante experiencias comerciales positivas y personalizadas digitales contemporáneas.',
     },
     {
-      termino: 'Matriz estratégica',
+      termino: 'Matriz de estrategia de mercadeo',
       significado:
         'Herramienta utilizada para organizar objetivos, acciones y procesos comerciales relacionados con estrategias digitales contemporáneas.',
     },

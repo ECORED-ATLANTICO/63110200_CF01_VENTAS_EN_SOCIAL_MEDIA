@@ -256,7 +256,7 @@
 
               .tarjeta.p-2.p-lg-4.h-100.mb-0
                 h4 Confidencialidad
-                p.mb-0 Exige implementar medidas técnicas y administrativas para proteger la información personal frente a riesgos digitales existentes.
+                p.mb-0 Garantiza la protección y reserva de la información personal utilizada dentro de procesos comerciales y plataformas digitales empresariales.
 
       .row.align-items-center(data-aos="fade-right")
         .col-lg-12.mx-auto
